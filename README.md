@@ -58,7 +58,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.10	|	[OpenAI, ChatGPT plus announce (20$)](https://openai.com/blog/chatgpt-plus)	|
 |	2.13	|	[Google: Vision Transformer 22B](https://twitter.com/m__dehghani/status/1625186144001396737)	|
 |	2.14	|	1M ChatGPT plus user 	|
-|	2.14	|	[The Gen AI Conference | Hosted by Jasper](https://www.joingen.ai/)	|
+|	2.14	|	[The Gen AI Conference Hosted by Jasper](https://www.joingen.ai/)	|
 |	2.15	|	[A&O announces exclusive launch partnership with Harvey](https://www.allenovery.com/en-gb/global/news-and-insights/news/ao-announces-exclusive-launch-partnership-with-harvey)	|
 |	2.16	|	[Startup Replit launches a ChatGPT-like bot for coders](https://www.semafor.com/article/02/15/2023/startup-replit-launches-a-chatgpt-like-bot-for-coders)	|
 |	2.17	|	[Time, ChatGPT cover](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/)	|
