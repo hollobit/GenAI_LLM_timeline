@@ -79,7 +79,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.5	|	[UpStage, ChatGPT bot (Askup) on KakaoTalk](https://github.com/hunkim/kakao-gpt)	|
 |	3.6	|	[Google: Universal Speech Model](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)	|
 |	3.7	|	[Stability AI Acquires Image Editing App Clipdrop](https://stability.ai/blog/stability-ai-acquires-init-ml-makers-of-clipdrop-application)	|
-|	3.8	|	[NYT, Opinion | Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	|
+|	3.8	|	[NYT, Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	|
 |	3.9	|	[multi-model playground - https://nat.dev](https://nat.dev/)	|
 |	3.9	|	[GPT-4 is coming next week](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)	|
 |	3.10	|	[Google: PaLM-E](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)	|
@@ -116,7 +116,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.24	|	[Dolly - open source LLM](https://twitter.com/databricks/status/1639239800145465344) 	|
 |	3.24	|	[Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://twitter.com/_akhaliq/status/1639062868850266112)	|
 |	3.24	|	[arXiv - ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge](https://arxiv.org/abs/2303.14070v1)	|
-|	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
+|	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
 |	3.28	|	[LLaMA voice chat + Siri TTS](https://twitter.com/ggerganov/status/1640416314773700608)	|
