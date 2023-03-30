@@ -122,6 +122,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.28	|	[LLaMA voice chat + Siri TTS](https://twitter.com/ggerganov/status/1640416314773700608)	|
 |	3.28	|	[Cerebras-GPT - 111M to 13B parameters trained using the Chinchilla formula](https://twitter.com/CerebrasSystems/status/1640725880711569408)	|
 |	3.28	|	[Microsoft Security Copilot: Empowering defenders at the speed of AI](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)	|
+| 3.28 | [Google pix2struct launched today, a multimodal model specializing in screenshot data](https://twitter.com/danielgross/status/1640515851014004737) |
 |	3.28	|	[OpenFlamingo - a framework that enables training and evaluation of large multimodal models (LMMs)](https://laion.ai/blog/open-flamingo/)	|
 |	3.29	|	[GPT4All - 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5](https://twitter.com/andriy_mulyar/status/1640836003194630144)  	|
 |	3.29	|	[LLaMA-Adapter!: Efficient Fine-tuning of Language Models with Zero-init Attention](https://twitter.com/lupantech/status/1640899600281395200)	|
