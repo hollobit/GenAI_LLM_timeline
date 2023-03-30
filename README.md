@@ -130,3 +130,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/03/30 AM13:03**	|
 
 ## Additional Links
+* [ML timeline](https://github.com/osanseviero/ml_timeline)
+* [A summary of large language models @davidtfoster](https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_800/0/1679661353407?e=1683158400&v=beta&t=RuQk8zpi_PYX58stAajuZBXmJP3JW36yu8n6UjSM09U)
+ <img src="https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_1280/0/1679661353407?e=1683158400&v=beta&t=yDdqi4f6vX6Tpx5h3NMO6lCYwUMHnOLG-PbZEcBvdFY">
+* [A history of the most important generative AI models, from 2014 to 2023 @davidtfoster](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480/)
+ <img src="https://media.licdn.com/dms/image/C4E22AQHNRDAc2ujyzA/feedshare-shrink_1280/0/1679476129468?e=1683158400&v=beta&t=PC1QOR-aloKbP7w1QXrFUswJmTLXsl7K8dj_fZVvD_Y">
