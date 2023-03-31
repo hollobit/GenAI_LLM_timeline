@@ -128,6 +128,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.29	|	[LLaMA-Adapter!: Efficient Fine-tuning of Language Models with Zero-init Attention](https://twitter.com/lupantech/status/1640899600281395200)	|
 |	3.29	|	[MacGPT 3.2](https://www.macgpt.com/)	|
 | 3.29 | GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment ([arXiv](https://arxiv.org/abs/2303.16634)), ([PDF](https://arxiv.org/pdf/2303.16634.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16634)) |
+| 3.29 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs  ([arXiv](https://arxiv.org/abs/2303.16434)), ([PDF](https://arxiv.org/pdf/2303.16434.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16434)) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
 |		|	**Last Modified 2023/03/31 AM10:28**	|
