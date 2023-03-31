@@ -117,6 +117,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.24	|	[Dolly - open source LLM](https://twitter.com/databricks/status/1639239800145465344) 	|
 |	3.24	|	[Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://twitter.com/_akhaliq/status/1639062868850266112)	|
 |	3.24	|	ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge ([arXiv](https://arxiv.org/abs/2303.14070v1)),  ([PDF](https://arxiv.org/pdf/2303.14070v1.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.14070v1)), ([GitHub](https://github.com/Kent0n-Li/ChatDoctor))	|
+| 3.24 | Do large language models need sensory grounding for meaning and understanding? @YannLeCun |
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
