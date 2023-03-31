@@ -121,6 +121,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
+| 3.27 | [ChatGPT Survey: Performance on NLP datasets](http://opensamizdat.com/posts/chatgpt_survey/) |
 |	3.28	|	[LLaMA voice chat + Siri TTS](https://twitter.com/ggerganov/status/1640416314773700608)	|
 |	3.28	|	[Cerebras-GPT - 111M to 13B parameters trained using the Chinchilla formula](https://twitter.com/CerebrasSystems/status/1640725880711569408)	|
 |	3.28	|	[Microsoft Security Copilot: Empowering defenders at the speed of AI](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)	|
@@ -134,7 +135,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
 | 3.30 | [Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks](https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama) |
-|		|	**Last Modified 2023/03/31 AM10:28**	|
+| 3.30 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace ([arXiv](https://arxiv.org/abs/2303.17580)), ([PDF](https://arxiv.org/pdf/2303.17580.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17580)) |
+|		|	**Last Modified 2023/03/31 PM18:11** KST	|
 
 ## Additional Links
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
