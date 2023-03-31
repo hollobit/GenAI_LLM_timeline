@@ -87,6 +87,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.13	|	[Stanford Alpaca 7B](https://crfm.stanford.edu/2023/03/13/alpaca.html)	|
 |	3.13	|	[Microsoft lays off team that taught employees how to make AI tools responsibly](https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs)	|
 |	3.13	|	[MiniLLM: Large Language Models on Consumer GPUs](https://github.com/kuleshov/minillm)	|
+| 3.13 | Chatbot UI ([Github](https://github.com/mckaywrigley/chatbot-ui)) |
 |	3.14	|	THUDM releases ChatGLM-6B	|
 |	3.14	|	[Anthropic: Claude](https://www.anthropic.com/index/introducing-claude)	|
 |	3.14	|	[Google: PaLM API & Workspace](https://blog.google/technology/ai/ai-developers-google-cloud-workspace)	|
