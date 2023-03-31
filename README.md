@@ -108,14 +108,14 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.21	|	[Microsoft: Bing Image Creator](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing)	|
 |	3.21	|	[Stability AI Launches Stable Diffusion Reimagine](https://stability.ai/blog/stable-diffusion-reimagine)	|
 |	3.22	|	[GitHub: Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)	|
-|	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 [arXiv](https://arxiv.org/abs/2303.12712)	|
+|	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712))	|
 |	3.22	|	[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)	|
 |	3.23	|	[OpenAI: ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)	|
 |	3.23	|	[Opera brings AI ChatGPT bot sidebar to browsers](https://www.deccanherald.com/business/technology/opera-brings-ai-chatgpt-bot-sidebar-to-browsers-1202781.html)	|
 |	3.24	|	[NYT OPINION - You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills](https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)	|
 |	3.24	|	[Dolly - open source LLM](https://twitter.com/databricks/status/1639239800145465344) 	|
 |	3.24	|	[Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://twitter.com/_akhaliq/status/1639062868850266112)	|
-|	3.24	|	ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge [arXiv](https://arxiv.org/abs/2303.14070v1),  [PDF](https://arxiv.org/pdf/2303.14070v1.pdf), [arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.14070v1), [GitHub](https://github.com/Kent0n-Li/ChatDoctor)	|
+|	3.24	|	ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge ([arXiv](https://arxiv.org/abs/2303.14070v1)),  ([PDF](https://arxiv.org/pdf/2303.14070v1.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.14070v1)), ([GitHub](https://github.com/Kent0n-Li/ChatDoctor))	|
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
@@ -127,10 +127,10 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.29	|	[GPT4All - 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5](https://twitter.com/andriy_mulyar/status/1640836003194630144)  	|
 |	3.29	|	[LLaMA-Adapter!: Efficient Fine-tuning of Language Models with Zero-init Attention](https://twitter.com/lupantech/status/1640899600281395200)	|
 |	3.29	|	[MacGPT 3.2](https://www.macgpt.com/)	|
-| 3.29 | GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment [arXiv](https://arxiv.org/abs/2303.16634), [PDF](https://arxiv.org/pdf/2303.16634.pdf), [arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16634) |
+| 3.29 | GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment ([arXiv](https://arxiv.org/abs/2303.16634)), ([PDF](https://arxiv.org/pdf/2303.16634.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16634)) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
-| 3.30 | BloombergGPT: A Large Language Model for Finance [arXiv](https://arxiv.org/abs/2303.17564), [PDF](https://arxiv.org/pdf/2303.17564.pdf), [arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564) |
-|		|	**Last Modified 2023/03/30 AM13:03**	|
+| 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
+|		|	**Last Modified 2023/03/31 AM10:28**	|
 
 ## Additional Links
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
