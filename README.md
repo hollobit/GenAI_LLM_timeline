@@ -133,6 +133,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.29 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs  ([arXiv](https://arxiv.org/abs/2303.16434)), ([PDF](https://arxiv.org/pdf/2303.16434.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16434)) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
+| 3.30 | [Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks)[https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama] |
 |		|	**Last Modified 2023/03/31 AM10:28**	|
 
 ## Additional Links
