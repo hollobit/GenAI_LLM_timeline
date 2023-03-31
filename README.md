@@ -140,6 +140,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* Got It AI’s LLM hallucination rate comparison
+<img src="https://lh5.googleusercontent.com/cgHE-XSe8AZBUuFIQw-Vu6XqYFxvKWj5BjCPsWAxkre2G8WLLkVLhp0DyDTlSTYFQiUyG_XUvZU2ZtM212SuU9rfbNxEtQI0kEpm8sSKF7CUsJZpu0pY9FaT2qHVpPgrBRLeJZdsdyBaKMw5Tac8M7Y">
 * [A summary of large language models @davidtfoster](https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_800/0/1679661353407?e=1683158400&v=beta&t=RuQk8zpi_PYX58stAajuZBXmJP3JW36yu8n6UjSM09U)
  <img src="https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_1280/0/1679661353407?e=1683158400&v=beta&t=yDdqi4f6vX6Tpx5h3NMO6lCYwUMHnOLG-PbZEcBvdFY">
 * [A history of the most important generative AI models, from 2014 to 2023 @davidtfoster](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480/)
