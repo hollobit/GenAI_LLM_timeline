@@ -19,6 +19,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 |	3.15	|	OpenAI, GPT 3.5 announce	|
+| 8.25 | Understanding Diffusion Models: A Unified Perspective ([arXiv](https://arxiv.org/abs/2208.11970)), ([PDF](https://arxiv.org/pdf/2208.11970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2208.11970)) |
 |	9.19	|	[SEQUOIA - Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)	|
 |	10.23	|	[LangChain GitHub project](https://github.com/hwchase17/langchain)	|
 |	10.30	|	[LlamaIndex (GPT Index) GitHub project](https://github.com/jerryjliu/llama_index)	|
@@ -105,6 +106,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.20	|	[March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)	|
 |	3.20	|	[Runway Gen-2](https://research.runwayml.com/gen2)	|
 |	3.20	|	[Paper: Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)	|
+| 3.20 | [Making Music with GPT 4](https://www.youtube.com/watch?v=Cvl30rn03Hg) by [(Wavtool)](https://wavtool.com/) |
 |	3.21	|	[NVIDIA Brings Generative AI to World’s Enterprises](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)	|
 |	3.21	|	[Adobe launches Firefly](https://www.cnbc.com/2023/03/21/adobe-firefly-generative-ai-lets-you-type-to-edit-images.html)	|
 |	3.21	|	[Google launches Bard in the US and UK](https://blog.google/technology/ai/try-bard)	|
@@ -138,9 +140,14 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
 | 3.30 | [Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks](https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama) |
 | 3.30 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace ([arXiv](https://arxiv.org/abs/2303.17580)), ([PDF](https://arxiv.org/pdf/2303.17580.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17580)) |
-|		|	**Last Modified 2023/03/31 PM18:11** KST	|
+| 3.30 | [CAIDP claims "The FTC should investigate OpenAI and block GPT over ‘deceptive’ behavior"](https://edition.cnn.com/2023/03/30/tech/ftc-openai-gpt-ai-think-tank/index.html) |
+| 3.30 | [Epic to use Microsoft's GPT-4 in EHRs](https://www.beckershospitalreview.com/ehrs/epic-to-use-microsofts-open-ai-in-ehrs.html) |
+| 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
+| 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
+|		|	**Last Modified 2023/04/02 PM11:13** KST	|
 
 ## Additional Links
+* [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
