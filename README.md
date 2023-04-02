@@ -1,4 +1,4 @@
-# Before ChatGPT, After ChatGPT Timeline 
+# ChatGPT, GenerativeAI and LLMs Timeline 
 
 This repository organizes a timeline of key events (products, services, papers, GitHub, blog posts and news) that occurred before and after the ChatGPT announcement. 
 
