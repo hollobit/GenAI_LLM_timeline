@@ -19,7 +19,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
-| 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize) |
+| 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
