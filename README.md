@@ -18,8 +18,11 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
+| 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
 | 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
+| 4.3 | [Berkley just released Koala-13B!](https://bair.berkeley.edu/blog/2023/04/03/koala/) ([Demo](https://chat.lmsys.org/?model=koala-13b)) |
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
 | 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
