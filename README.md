@@ -49,6 +49,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.28	|	[Microsoft Security Copilot: Empowering defenders at the speed of AI](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)	|
 | 3.28 | [Google pix2struct launched today, a multimodal model specializing in screenshot data](https://twitter.com/danielgross/status/1640515851014004737) |
 |	3.28	|	[OpenFlamingo - a framework that enables training and evaluation of large multimodal models (LMMs)](https://laion.ai/blog/open-flamingo/)	|
+| 3.27 | Microsoft JARVIS ([GitHub](https://github.com/microsoft/JARVIS)) |
 | 3.27 | [ChatGPT Survey: Performance on NLP datasets](http://opensamizdat.com/posts/chatgpt_survey/) |
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
