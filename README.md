@@ -18,12 +18,16 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
+| 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
+| 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
 | 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
 | 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
+| 3.30 | [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
 | 3.30 | [Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks](https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama) |
