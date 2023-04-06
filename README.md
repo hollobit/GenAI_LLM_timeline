@@ -19,6 +19,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 4.5 | [Meta's  Segment Anything Model (SAM)](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=segmentanything&utm_content=gif) ([Paper](https://ai.facebook.com/research/publications/segment-anything/)), ([PDF](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/10000000_6331779526880473_6748528980292947838_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=lnYqcLNTtLQAX80UVfV&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAAtzQrBx242Tl4miOfzWrYrJAhLw3VCm1FeWuMs319zw&oe=6432ACEA)), ([GitHub](https://github.com/facebookresearch/segment-anything)), ([Demo](https://segment-anything.com/)) | 
+| 4.4 | [LangCahin raised $10 million in seed funding](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/) |
 | 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
 | 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
