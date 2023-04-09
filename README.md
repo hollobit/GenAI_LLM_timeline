@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
 | 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
 | 4.7 | SegGPT: Segmenting Everything In Context ([arXiv](https://arxiv.org/abs/2304.03284)), ([PDF](https://arxiv.org/pdf/2304.03284.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03284)), ([GitHub](https://github.com/baaivision/Painter)), ([Demo](https://huggingface.co/spaces/BAAI/SegGPT)) |
@@ -33,6 +34,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
 | 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
+| 4.2 | Better Language Models of Code through Self-Improvement ([arXiv](https://arxiv.org/abs/2304.01228)), ([PDF](https://arxiv.org/pdf/2304.01228.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01228)) |
 | 4.2 | Eight Things to Know about Large Language Models ([arXiv](https://arxiv.org/abs/2304.00612)), ([PDF](https://arxiv.org/pdf/2304.00612.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00612)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
@@ -46,6 +48,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.30 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace ([arXiv](https://arxiv.org/abs/2303.17580)), ([PDF](https://arxiv.org/pdf/2303.17580.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17580)) |
 | 3.30 | [CAIDP claims "The FTC should investigate OpenAI and block GPT over ‘deceptive’ behavior"](https://edition.cnn.com/2023/03/30/tech/ftc-openai-gpt-ai-think-tank/index.html) |
 | 3.30 | [Epic to use Microsoft's GPT-4 in EHRs](https://www.beckershospitalreview.com/ehrs/epic-to-use-microsofts-open-ai-in-ehrs.html) |
+| 3.29 | AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators ([arXiv](https://arxiv.org/abs/2303.16854)), ([PDF](https://arxiv.org/pdf/2303.16854.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16854)) |
 | 3.29 | [nucleotide transformers - genomics LLM, ranging from 500M to 2.5B parameters](https://twitter.com/instadeepai/status/1641075963051012097) - ([GitHub](https://github.com/instadeepai/nucleotide-transformer)) |
 | 3.29 | [GeoV-9b - 9 billion parameter causal language model](https://twitter.com/labmlai/status/1641357802009395201) ([code](https://github.com/geov-ai/geov), [weights](https://huggingface.co/GeoV/GeoV-9b), [colab](https://colab.research.google.com/github/geov-ai/geov/blob/master/notebooks/generate.ipynb)) |
 |	3.29	|	[GPT4All - 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5](https://twitter.com/andriy_mulyar/status/1640836003194630144)  	|
@@ -53,6 +56,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.29	|	[MacGPT 3.2](https://www.macgpt.com/)	|
 | 3.29 | GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment ([arXiv](https://arxiv.org/abs/2303.16634)), ([PDF](https://arxiv.org/pdf/2303.16634.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16634)) |
 | 3.29 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs  ([arXiv](https://arxiv.org/abs/2303.16434)), ([PDF](https://arxiv.org/pdf/2303.16434.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16434)) |
+| 3.28 | ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks ([arXiv](https://arxiv.org/abs/2303.15056)), ([PDF](https://arxiv.org/pdf/2303.15056.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.15056)) |
 |	3.28	|	[LLaMA voice chat + Siri TTS](https://twitter.com/ggerganov/status/1640416314773700608)	|
 |	3.28	|	[Cerebras-GPT - 111M to 13B parameters trained using the Chinchilla formula](https://twitter.com/CerebrasSystems/status/1640725880711569408)	|
 |	3.28	|	[Microsoft Security Copilot: Empowering defenders at the speed of AI](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/)	|
@@ -111,6 +115,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.1	|	[OpenAI: ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)	|
 | 2.27 | Best Practices for Using AI When Writing Scientific Manuscripts ([ACS Nano 2023, 17, 5, 4091–4093](https://doi.org/10.1021/acsnano.3c01544)) |
 |	2.27	|	[Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival](https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival)	|
+| 2.25 | AugGPT: Leveraging ChatGPT for Text Data Augmentation ([arXiv](https://arxiv.org/abs/2302.13007)), ([PDF](https://arxiv.org/pdf/2302.13007.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.13007)) |
 |	2.24	|	[Sam Altman, Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)	|
 |	2.24	|	[Meta: LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai)	|
 |	2.23	|	[Instagram co-founders launch AI-powered news app Artifact on Android, iOS](https://www.thehindubusinessline.com/info-tech/social-media/instagram-co-founders-launch-ai-powered-news-app-artifact-on-android-ios/article66543779.ece)	|
