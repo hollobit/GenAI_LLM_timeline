@@ -94,6 +94,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.15	|	[Baidu: ERNIE Bot](https://www.youtube.com/watch?v=ukvEUI3x0vI)	|
 |	3.15	|	[Midjourney: Midjourney V5](https://twitter.com/midjourney/status/1636130389365497857)	|
 |	3.15	|	[arXiv - GPT-4 Technical report](https://arxiv.org/abs/2303.08774)	|
+| 3.14 | The Lancet - [Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00077-4/fulltext) |
 |	3.14	|	THUDM releases ChatGLM-6B	|
 |	3.14	|	[Anthropic: Claude](https://www.anthropic.com/index/introducing-claude)	|
 |	3.14	|	[Google: PaLM API & Workspace](https://blog.google/technology/ai/ai-developers-google-cloud-workspace)	|
@@ -107,6 +108,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.9	|	[multi-model playground - https://nat.dev](https://nat.dev/)	|
 |	3.9	|	[GPT-4 is coming next week](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)	|
 |	3.8	|	[NYT, Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	|
+| 3.7 | Radiology - [The Role and Limitations of Large Language Models Such as ChatGPT in Clinical Settings and Medical Journalism](https://pubs.rsna.org/doi/10.1148/radiol.230276) |
 |	3.7	|	[Stability AI Acquires Image Editing App Clipdrop](https://stability.ai/blog/stability-ai-acquires-init-ml-makers-of-clipdrop-application)	|
 |	3.6	|	[Google: Universal Speech Model](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)	|
 |	3.5	|	[Generative AI: Perspectives from Stanford HAI](https://hai.stanford.edu/generative-ai-perspectives-stanford-hai)	|
@@ -115,13 +117,15 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.1	|	[OpenAI: ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)	|
 | 2.27 | Best Practices for Using AI When Writing Scientific Manuscripts ([ACS Nano 2023, 17, 5, 4091–4093](https://doi.org/10.1021/acsnano.3c01544)) |
 |	2.27	|	[Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival](https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival)	|
+| 2.25 | The Lancet - [The promise of large language models in health care](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext) |
 | 2.25 | AugGPT: Leveraging ChatGPT for Text Data Augmentation ([arXiv](https://arxiv.org/abs/2302.13007)), ([PDF](https://arxiv.org/pdf/2302.13007.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.13007)) |
 |	2.24	|	[Sam Altman, Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)	|
 |	2.24	|	[Meta: LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai)	|
+| 2.23 | Radiology - [ChatGPT and the Future of Medical Writing](https://pubs.rsna.org/doi/10.1148/radiol.223312) |
 |	2.23	|	[Instagram co-founders launch AI-powered news app Artifact on Android, iOS](https://www.thehindubusinessline.com/info-tech/social-media/instagram-co-founders-launch-ai-powered-news-app-artifact-on-android-ios/article66543779.ece)	|
 |	2.23	|	[Notion.AI launch](http://notion.ai/)	|
 |	2.22	|	[Microsoft: Bing announcement on mobile and Skype](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype)	|
-|	2.22	|	[Science - As scientists explore AI-written text, journals hammer out policies](https://www.science.org/content/article/scientists-explore-ai-written-text-journals-hammer-policies)	|
+|	2.22	|	Science - [As scientists explore AI-written text, journals hammer out policies](https://www.science.org/content/article/scientists-explore-ai-written-text-journals-hammer-policies)	|
 |	2.21	|	[The PNAS Journals Outline Their Policies for ChatGPT and Generative AI](https://www.pnas.org/post/update/pnas-policy-for-chatgpt-generative-ai)	|
 |	2.21	|	[arXiv - ChatGPT: Jack of all trades, master of none](https://arxiv.org/abs/2302.10724)	|
 |	2.17	|	[Time, ChatGPT cover](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/)	|
@@ -140,6 +144,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.8	|	[Runway launches ground-breaking Gen-1 video generation AI system](https://www.ghacks.net/2023/02/08/runway-launches-ground-breaking-gen-1-video-generation-ai-system/)	|
 |	2.7	|	[Microsoft: Bing ChatGPT](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)	|
 |	2.7	|	[Getty Images sues AI art generator Stable Diffusion in the US for copyright infringement](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion)	|
+| 2.6 | The Lancet - [ChatGPT: friend or foe?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2823%2900023-7/fulltext) |
 |	2.6	|	[Google: Bard announcement](https://blog.google/technology/ai/bard-google-ai-search-updates)	|
 |	2.4	|	[POE.com open](http://poe.com/)	|
 |	2.3	|	[Google invests in Anthropic, maker of ChatGPT rival](https://fortune.com/2023/02/04/google-invests-300m-anthropic-openai-rival-making-chatgpt-challenger-claude-ai-chatbot-battle/) 	|
@@ -181,6 +186,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/02 PM20:01** KST	|
 
 ## Additional Links
+* [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
 * [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
