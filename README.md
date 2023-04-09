@@ -18,6 +18,11 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
+| 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
+| 4.7 | SegGPT: Segmenting Everything In Context ([arXiv](https://arxiv.org/abs/2304.03284)), ([PDF](https://arxiv.org/pdf/2304.03284.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03284)), ([GitHub](https://github.com/baaivision/Painter)), ([Demo](https://huggingface.co/spaces/BAAI/SegGPT)) |
+| 4.6 | GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models ([arXiv](https://arxiv.org/abs/2304.02602)), ([PDF](https://arxiv.org/pdf/2304.02602.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.02602)), ([GitHub](https://nvlabs.github.io/genvs/)) |
+| 4.6 | Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark ([arXiv](https://arxiv.org/abs/2304.03279)), ([PDF](https://arxiv.org/pdf/2304.03279.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03279)) |
 | 4.5 | [Meta's  Segment Anything Model (SAM)](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=segmentanything&utm_content=gif) ([Paper](https://ai.facebook.com/research/publications/segment-anything/)), ([PDF](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/10000000_6331779526880473_6748528980292947838_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=lnYqcLNTtLQAX80UVfV&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAAtzQrBx242Tl4miOfzWrYrJAhLw3VCm1FeWuMs319zw&oe=6432ACEA)), ([GitHub](https://github.com/facebookresearch/segment-anything)), ([Demo](https://segment-anything.com/)) | 
 | 4.4 | [LangCahin raised $10 million in seed funding](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/) |
 | 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
@@ -28,10 +33,12 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
 | 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
+| 4.2 | Eight Things to Know about Large Language Models ([arXiv](https://arxiv.org/abs/2304.00612)), ([PDF](https://arxiv.org/pdf/2304.00612.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00612)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
 | 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
+| 3.30 | Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure ([arXiv](https://arxiv.org/abs/2303.17276)), ([PDF](https://arxiv.org/pdf/2303.17276.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17276)) |
 | 3.30 | [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
 | 3.30 | BloombergGPT: A Large Language Model for Finance ([arXiv](https://arxiv.org/abs/2303.17564)), ([PDF](https://arxiv.org/pdf/2303.17564.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17564)) |
