@@ -79,6 +79,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.22	|	[GitHub: Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)	|
 |	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712))	|
 |	3.22	|	[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)	|
+| 3.21 | WSJ - [Generative AI Makes Headway in Healthcare](https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2) |
 |	3.21	|	[NVIDIA Brings Generative AI to World’s Enterprises](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)	|
 |	3.21	|	[Adobe launches Firefly](https://www.cnbc.com/2023/03/21/adobe-firefly-generative-ai-lets-you-type-to-edit-images.html)	|
 |	3.21	|	[Google launches Bard in the US and UK](https://blog.google/technology/ai/try-bard)	|
