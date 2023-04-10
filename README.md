@@ -19,9 +19,11 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
+| 4.7 | Generative Agents: Interactive Simulacra of Human Behavior ([arXiv](https://arxiv.org/abs/2304.03442)), ([PDF](https://arxiv.org/pdf/2304.03442.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03442)), ([Project](https://reverie.herokuapp.com/arXiv_Demo/)) | 
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
 | 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
 | 4.7 | SegGPT: Segmenting Everything In Context ([arXiv](https://arxiv.org/abs/2304.03284)), ([PDF](https://arxiv.org/pdf/2304.03284.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03284)), ([GitHub](https://github.com/baaivision/Painter)), ([Demo](https://huggingface.co/spaces/BAAI/SegGPT)) |
+| 4.6 | InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning ([arXiv](https://arxiv.org/abs/2304.03411)), ([PDF](https://arxiv.org/pdf/2304.03411.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03411)), ([Project](https://jshi31.github.io/InstantBooth/)) | 
 | 4.6 | Wired - [AI Desperately Needs Global Oversight](https://www.wired.com/story/ai-desperately-needs-global-oversight/) |
 | 4.6 | Instruction Tuning with GPT-4 ([arXiv](https://arxiv.org/abs/2304.03277)), ([PDF](https://arxiv.org/pdf/2304.03277.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03277)), ([GitHub](https://instruction-tuning-with-gpt-4.github.io/)) |
 | 4.6 | GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models ([arXiv](https://arxiv.org/abs/2304.02602)), ([PDF](https://arxiv.org/pdf/2304.02602.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.02602)), ([GitHub](https://nvlabs.github.io/genvs/)) |
@@ -50,6 +52,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.30 | HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace ([arXiv](https://arxiv.org/abs/2303.17580)), ([PDF](https://arxiv.org/pdf/2303.17580.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17580)) |
 | 3.30 | [CAIDP claims "The FTC should investigate OpenAI and block GPT over ‘deceptive’ behavior"](https://edition.cnn.com/2023/03/30/tech/ftc-openai-gpt-ai-think-tank/index.html) |
 | 3.30 | [Epic to use Microsoft's GPT-4 in EHRs](https://www.beckershospitalreview.com/ehrs/epic-to-use-microsofts-open-ai-in-ehrs.html) |
+| 3.30 | Auto-GPT: An Autonomous GPT-4 Experiment ([GitHub](https://github.com/Torantulino/Auto-GPT)) |
 | 3.29 | AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators ([arXiv](https://arxiv.org/abs/2303.16854)), ([PDF](https://arxiv.org/pdf/2303.16854.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16854)) |
 | 3.29 | [nucleotide transformers - genomics LLM, ranging from 500M to 2.5B parameters](https://twitter.com/instadeepai/status/1641075963051012097) - ([GitHub](https://github.com/instadeepai/nucleotide-transformer)) |
 | 3.29 | [GeoV-9b - 9 billion parameter causal language model](https://twitter.com/labmlai/status/1641357802009395201) ([code](https://github.com/geov-ai/geov), [weights](https://huggingface.co/GeoV/GeoV-9b), [colab](https://colab.research.google.com/github/geov-ai/geov/blob/master/notebooks/generate.ipynb)) |
