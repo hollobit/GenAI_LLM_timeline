@@ -69,6 +69,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.28	|	[OpenFlamingo - a framework that enables training and evaluation of large multimodal models (LMMs)](https://laion.ai/blog/open-flamingo/)	|
 | 3.27 | Microsoft JARVIS ([GitHub](https://github.com/microsoft/JARVIS)) |
 | 3.27 | [ChatGPT Survey: Performance on NLP datasets](http://opensamizdat.com/posts/chatgpt_survey/) |
+| 3.27 | GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models ([arXiv](https://arxiv.org/abs/2303.10130)), ([PDF](https://arxiv.org/pdf/2303.10130.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10130)) |
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
@@ -193,6 +194,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/02 PM20:01** KST	|
 
 ## Additional Links
+* [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
 * [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
 * [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
