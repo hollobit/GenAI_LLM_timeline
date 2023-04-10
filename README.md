@@ -88,6 +88,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.20	|	[Runway Gen-2](https://research.runwayml.com/gen2)	|
 |	3.20	|	[Paper: Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)	|
 | 3.20 | [Making Music with GPT 4](https://www.youtube.com/watch?v=Cvl30rn03Hg) by [(Wavtool)](https://wavtool.com/) |
+| 3.16 | LERF: Language Embedded Radiance Fields ([arXiv](https://arxiv.org/abs/2303.09553)), ([PDF](https://arxiv.org/pdf/2303.09553.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.09553)), ([GitHub](https://www.lerf.io/)) |
 |	3.16	|	[Microsoft: Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work)	|
 |	3.16	|	[Alpaca LoRA: instruct tune LLAMA on consumer hardware](https://twitter.com/_akhaliq/status/1636416647518097408)	|
 |	3.16	|	[OpenAI CEO Sam Altman says AI will reshape society, acknowledges risks: 'A little bit scared of this'](https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122)	|
