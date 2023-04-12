@@ -20,7 +20,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |:-:|:--|
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
-| 4.9 | AgentGPT ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
+| 4.9 | AgentGPT - AutoGPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
 | 4.7 | Generative Agents: Interactive Simulacra of Human Behavior ([arXiv](https://arxiv.org/abs/2304.03442)), ([PDF](https://arxiv.org/pdf/2304.03442.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03442)), ([Project](https://reverie.herokuapp.com/arXiv_Demo/)) | 
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
