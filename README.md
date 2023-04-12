@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
 | 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
 | 4.11 | ChemCrow: Augmenting large-language models with chemistry tools ([arXiv](https://arxiv.org/abs/2304.05376)), ([PDF](https://arxiv.org/pdf/2304.05376.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05376)) |
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
