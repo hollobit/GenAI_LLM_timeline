@@ -18,11 +18,15 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
+| 4.11 | ChemCrow: Augmenting large-language models with chemistry tools ([arXiv](https://arxiv.org/abs/2304.05376)), ([PDF](https://arxiv.org/pdf/2304.05376.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05376)) |
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
 | 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
+| 4.7 | Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster ([arXiv](https://arxiv.org/abs/2304.03208)), ([PDF](https://arxiv.org/pdf/2304.03208.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03208)) |
+| 4.7 | Why think step-by-step? Reasoning emerges from the locality of experience ([arXiv](https://arxiv.org/abs/2304.03843)), ([PDF](https://arxiv.org/pdf/2304.03843.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03843)) |
 | 4.7 | Generative Agents: Interactive Simulacra of Human Behavior ([arXiv](https://arxiv.org/abs/2304.03442)), ([PDF](https://arxiv.org/pdf/2304.03442.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03442)), ([Project](https://reverie.herokuapp.com/arXiv_Demo/)) | 
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
 | 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
@@ -49,6 +53,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
 | 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
+| 3.30 | Language Models can Solve Computer Tasks ([arXiv](https://arxiv.org/abs/2303.17491)), ([PDF](https://arxiv.org/pdf/2303.17491.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17491)) |
+| 3.30 | Self-Refine: Iterative Refinement with Self-Feedback ([arXiv](https://arxiv.org/abs/2303.17651)), ([PDF](https://arxiv.org/pdf/2303.17651.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17651)) |
 | 3.30 | Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure ([arXiv](https://arxiv.org/abs/2303.17276)), ([PDF](https://arxiv.org/pdf/2303.17276.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17276)) |
 | 3.30 | [List of Open Sourced Fine-Tuned Large Language Models (LLM)](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76) |
 | 3.30 | [NEJM - Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/pdf/10.1056/NEJMsr2214184) |
@@ -75,6 +81,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.27 | Microsoft JARVIS ([GitHub](https://github.com/microsoft/JARVIS)) |
 | 3.27 | [ChatGPT Survey: Performance on NLP datasets](http://opensamizdat.com/posts/chatgpt_survey/) |
 | 3.27 | GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models ([arXiv](https://arxiv.org/abs/2303.10130)), ([PDF](https://arxiv.org/pdf/2303.10130.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10130)) |
+| 3.26 | Nature Language Reasoning, A Survey ([arXiv](https://arxiv.org/abs/2303.14725)), ([PDF](https://arxiv.org/pdf/2303.14725.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.14725)) |
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
@@ -85,8 +92,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.24 | Do large language models need sensory grounding for meaning and understanding? @YannLeCun |
 |	3.23	|	[OpenAI: ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)	|
 |	3.23	|	[Opera brings AI ChatGPT bot sidebar to browsers](https://www.deccanherald.com/business/technology/opera-brings-ai-chatgpt-bot-sidebar-to-browsers-1202781.html)	|
+| 3.22 | Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity ([arXiv](https://arxiv.org/abs/2303.12003)), ([PDF](https://arxiv.org/pdf/2303.12003.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.12003)) |	
 |	3.22	|	[GitHub: Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)	|
-|	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712))	|
+|	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712)), ([PDF](https://arxiv.org/pdf/2303.12712.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.12712)) |	|
 |	3.22	|	[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)	|
 | 3.21 | WSJ - [Generative AI Makes Headway in Healthcare](https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2) |
 |	3.21	|	[NVIDIA Brings Generative AI to World’s Enterprises](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)	|
@@ -94,10 +102,13 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.21	|	[Google launches Bard in the US and UK](https://blog.google/technology/ai/try-bard)	|
 |	3.21	|	[Microsoft: Bing Image Creator](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing)	|
 |	3.21	|	[Stability AI Launches Stable Diffusion Reimagine](https://stability.ai/blog/stable-diffusion-reimagine)	|
+| 3.20 | Reflexion: an autonomous agent with dynamic memory and self-reflection ([arXiv](https://arxiv.org/abs/2303.11366)), ([PDF](https://arxiv.org/pdf/2303.11366.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.11366)), ([GitHub](https://github.com/noahshinn024/reflexion)) |
 |	3.20	|	[March 20 ChatGPT outage: Here’s what happened](https://openai.com/blog/march-20-chatgpt-outage)	|
 |	3.20	|	[Runway Gen-2](https://research.runwayml.com/gen2)	|
 |	3.20	|	[Paper: Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)	|
 | 3.20 | [Making Music with GPT 4](https://www.youtube.com/watch?v=Cvl30rn03Hg) by [(Wavtool)](https://wavtool.com/) |
+| 3.17 | Can AI-Generated Text be Reliably Detected? ([arXiv](https://arxiv.org/abs/2303.11156)), ([PDF](https://arxiv.org/pdf/2303.11156.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.11156)) |
+| 3.17 | GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models  ([arXiv](https://arxiv.org/abs/2303.10130)), ([PDF](https://arxiv.org/pdf/2303.10130.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10130)) |
 | 3.16 | LERF: Language Embedded Radiance Fields ([arXiv](https://arxiv.org/abs/2303.09553)), ([PDF](https://arxiv.org/pdf/2303.09553.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.09553)), ([GitHub](https://www.lerf.io/)) |
 |	3.16	|	[Microsoft: Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work)	|
 |	3.16	|	[Alpaca LoRA: instruct tune LLAMA on consumer hardware](https://twitter.com/_akhaliq/status/1636416647518097408)	|
@@ -120,7 +131,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.10	|	[Google: PaLM-E](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)	|
 |	3.9	|	[multi-model playground - https://nat.dev](https://nat.dev/)	|
 |	3.9	|	[GPT-4 is coming next week](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)	|
+| 3.8 | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models ([arXiv](https://arxiv.org/abs/2303.04671)), ([PDF](https://arxiv.org/pdf/2303.04671.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.04671)) |
 |	3.8	|	[NYT, Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	|
+| 3.7 | A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT ([arXiv](https://arxiv.org/abs/2303.04226)), ([PDF](https://arxiv.org/pdf/2303.04226.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.04226)) |
 | 3.7 | Radiology - [The Role and Limitations of Large Language Models Such as ChatGPT in Clinical Settings and Medical Journalism](https://pubs.rsna.org/doi/10.1148/radiol.230276) |
 |	3.7	|	[Stability AI Acquires Image Editing App Clipdrop](https://stability.ai/blog/stability-ai-acquires-init-ml-makers-of-clipdrop-application)	|
 |	3.6	|	[Google: Universal Speech Model](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)	|
@@ -159,6 +172,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.7	|	[Getty Images sues AI art generator Stable Diffusion in the US for copyright infringement](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion)	|
 | 2.6 | The Lancet - [ChatGPT: friend or foe?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500%2823%2900023-7/fulltext) |
 |	2.6	|	[Google: Bard announcement](https://blog.google/technology/ai/bard-google-ai-search-updates)	|
+| 2.4 | Theory of Mind May Have Spontaneously Emerged in Large Language Models  ([arXiv](https://arxiv.org/abs/2302.02083)), ([PDF](https://arxiv.org/pdf/2302.02083.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.02083)) |
 |	2.4	|	[POE.com open](http://poe.com/)	|
 |	2.3	|	[Google invests in Anthropic, maker of ChatGPT rival](https://fortune.com/2023/02/04/google-invests-300m-anthropic-openai-rival-making-chatgpt-challenger-claude-ai-chatbot-battle/) 	|
 |	2.3	|	Naver, SearchGPT announcement	|
