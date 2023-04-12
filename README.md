@@ -95,7 +95,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.23	|	[Opera brings AI ChatGPT bot sidebar to browsers](https://www.deccanherald.com/business/technology/opera-brings-ai-chatgpt-bot-sidebar-to-browsers-1202781.html)	|
 | 3.22 | Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity ([arXiv](https://arxiv.org/abs/2303.12003)), ([PDF](https://arxiv.org/pdf/2303.12003.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.12003)) |	
 |	3.22	|	[GitHub: Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)	|
-|	3.22	|	Sparks of Artificial General Intelligence: Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712)), ([PDF](https://arxiv.org/pdf/2303.12712.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.12712)) |	|
+|	3.22	|	Sparks of AGI(Artificial General Intelligence): Early experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2303.12712)), ([PDF](https://arxiv.org/pdf/2303.12712.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.12712)), ([YouTube](https://www.youtube.com/watch?v=qbIk7-JPB2c)) |
 |	3.22	|	[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)	|
 | 3.21 | WSJ - [Generative AI Makes Headway in Healthcare](https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2) |
 |	3.21	|	[NVIDIA Brings Generative AI to World’s Enterprises](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)	|
