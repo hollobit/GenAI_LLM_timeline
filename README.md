@@ -18,6 +18,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
+| 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
 | 4.7 | Generative Agents: Interactive Simulacra of Human Behavior ([arXiv](https://arxiv.org/abs/2304.03442)), ([PDF](https://arxiv.org/pdf/2304.03442.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03442)), ([Project](https://reverie.herokuapp.com/arXiv_Demo/)) | 
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
@@ -34,6 +36,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
 | 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
+| 4.3 | Baby AGI ([GitHub](https://github.com/yoheinakajima/babyagi)) |
 | 4.3 | [Berkley just released Koala-13B!](https://bair.berkeley.edu/blog/2023/04/03/koala/) ([Demo](https://chat.lmsys.org/?model=koala-13b)) |
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
