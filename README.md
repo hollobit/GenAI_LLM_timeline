@@ -201,6 +201,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [open-source LLMs](https://twitter.com/theaievangelist/status/1645809824314298368)
+<img src="https://pbs.twimg.com/media/FtZQSU3aMAI4BP1?format=jpg&name=4096x4096">
 * Got It AI’s LLM hallucination rate comparison
 <img src="https://lh5.googleusercontent.com/cgHE-XSe8AZBUuFIQw-Vu6XqYFxvKWj5BjCPsWAxkre2G8WLLkVLhp0DyDTlSTYFQiUyG_XUvZU2ZtM212SuU9rfbNxEtQI0kEpm8sSKF7CUsJZpu0pY9FaT2qHVpPgrBRLeJZdsdyBaKMw5Tac8M7Y">
 * [A summary of large language models @davidtfoster](https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_800/0/1679661353407?e=1683158400&v=beta&t=RuQk8zpi_PYX58stAajuZBXmJP3JW36yu8n6UjSM09U)
