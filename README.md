@@ -18,12 +18,13 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
 | 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
 | 4.11 | ChemCrow: Augmenting large-language models with chemistry tools ([arXiv](https://arxiv.org/abs/2304.05376)), ([PDF](https://arxiv.org/pdf/2304.05376.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05376)) |
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
-| 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI) |
+| 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI)) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
 | 4.7 | Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster ([arXiv](https://arxiv.org/abs/2304.03208)), ([PDF](https://arxiv.org/pdf/2304.03208.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03208)) |
@@ -142,6 +143,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.5	|	[Generative AI: Perspectives from Stanford HAI](https://hai.stanford.edu/generative-ai-perspectives-stanford-hai)	|
 |	3.5	|	[UpStage, ChatGPT bot (Askup) on Line](https://github.com/hunkim/line-gpt)	|
 |	3.5	|	[UpStage, ChatGPT bot (Askup) on KakaoTalk](https://github.com/hunkim/kakao-gpt)	|
+| 3.2 | Consistency Models  ([arXiv](https://arxiv.org/abs/2303.01469)), ([PDF](https://arxiv.org/pdf/2303.01469.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.01469)), ([GitHub](https://github.com/openai/consistency_models)) |
 |	3.1	|	[OpenAI: ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)	|
 | 2.27 | Best Practices for Using AI When Writing Scientific Manuscripts ([ACS Nano 2023, 17, 5, 4091–4093](https://doi.org/10.1021/acsnano.3c01544)) |
 |	2.27	|	[Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival](https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival)	|
