@@ -203,7 +203,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	1.26	|	[ChatGPT Is Coming for Classrooms. Don't Panic](https://www.wired.com/story/chatgpt-is-coming-for-classrooms-dont-panic/)	|
 |	1.26	|	[ChatGPT passes exams from law and business schools](https://edition.cnn.com/2023/01/26/tech/chatgpt-passes-exams/index.html)	|
 |	1.26	|	[Google’s new AI turns text into music - MusicLM](https://google-research.github.io/seanet/musiclm/examples/)	|
-| 1.24 | Putting ChatGPT's Medical Advice to the (Turing) Test ([arXiv](https://arxiv.org/abs/2301.10035)), ([PDF](https://arxiv.org/pdf/2301.10035 .pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2301.10035)) |
+| 1.24 | Putting ChatGPT's Medical Advice to the (Turing) Test ([arXiv](https://arxiv.org/abs/2301.10035)), ([PDF](https://arxiv.org/pdf/2301.10035.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2301.10035)) |
 |	1.24	|	[Nature policy - Tools such as ChatGPT threaten transparent science; here are our ground rules for their use](https://www.nature.com/articles/d41586-023-00191-1)	|
 |	1.20	|	[WAME policy - Chatbots, ChatGPT, and Scholarly Manuscripts](https://wame.org/page3.php?id=106)	|
 |	1.17	|	[Meet Claude: Anthropic’s Rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)	|
