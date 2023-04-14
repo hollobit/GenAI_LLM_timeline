@@ -22,6 +22,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.13 | Segment Everything Everywhere All at Once ([arXiv](https://arxiv.org/abs/2304.06718)), ([PDF](https://arxiv.org/pdf/2304.06718.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06718)) |
 | 4.13 | Expressive Text-to-Image Generation with Rich Text ([arXiv](https://arxiv.org/abs/2304.06720)), ([PDF](https://arxiv.org/pdf/2304.06720.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06720)), ([Project page](https://rich-text-to-image.github.io/)) |
 | 4.13 | AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models ([arXiv](https://arxiv.org/abs/2304.06364)), ([PDF](https://arxiv.org/pdf/2304.06364.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06364)), ([GitHub](https://github.com/microsoft/AGIEval)) |
+| 4.12 | ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning ([arXiv](https://arxiv.org/abs/2304.05613)), ([PDF](https://arxiv.org/pdf/2304.05613.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05613)) |
 | 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
 | 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
@@ -51,6 +52,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
 | 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
+| 4.3 | Vicuna-13B: An Open-Source ChatGPT Alternative That Impresses GPT-4 ([Blog](https://docs.kanaries.net/articles/vicuna-chatgpt-alternative)), ([GitHub](https://github.com/lm-sys/FastChat)) |
 | 4.3 | Baby AGI ([GitHub](https://github.com/yoheinakajima/babyagi)) |
 | 4.3 | [Berkley just released Koala-13B!](https://bair.berkeley.edu/blog/2023/04/03/koala/) ([Demo](https://chat.lmsys.org/?model=koala-13b)) |
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
@@ -63,6 +65,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 3.31 | CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society ([arXiv](https://arxiv.org/abs/2303.17760)), ([PDF](https://arxiv.org/pdf/2303.17760.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17760)), ([GitHub](https://github.com/lightaime/camel)) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
 | 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
+| 3.30 | Whose Opinions Do Language Models Reflect? ([arXiv](https://arxiv.org/abs/2303.17548)), ([PDF](https://arxiv.org/pdf/2303.17548.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17548)), ([GitHub](https://github.com/tatsu-lab/opinions_qa)) |
 | 3.30 | Language Models can Solve Computer Tasks ([arXiv](https://arxiv.org/abs/2303.17491)), ([PDF](https://arxiv.org/pdf/2303.17491.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17491)) |
 | 3.30 | Self-Refine: Iterative Refinement with Self-Feedback ([arXiv](https://arxiv.org/abs/2303.17651)), ([PDF](https://arxiv.org/pdf/2303.17651.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17651)) |
 | 3.30 | Humans in Humans Out: On GPT Converging Toward Common Sense in both Success and Failure ([arXiv](https://arxiv.org/abs/2303.17276)), ([PDF](https://arxiv.org/pdf/2303.17276.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17276)) |
@@ -117,6 +120,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.20	|	[Runway Gen-2](https://research.runwayml.com/gen2)	|
 |	3.20	|	[Paper: Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)	|
 | 3.20 | [Making Music with GPT 4](https://www.youtube.com/watch?v=Cvl30rn03Hg) by [(Wavtool)](https://wavtool.com/) |
+| 3.18 | Data-centric Artificial Intelligence: A Survey ([arXiv](https://arxiv.org/abs/2303.10158)), ([PDF](https://arxiv.org/pdf/2303.10158.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10158)), ([GitHub](https://github.com/daochenzha/data-centric-AI)) |
 | 3.17 | Can AI-Generated Text be Reliably Detected? ([arXiv](https://arxiv.org/abs/2303.11156)), ([PDF](https://arxiv.org/pdf/2303.11156.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.11156)) |
 | 3.17 | GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models  ([arXiv](https://arxiv.org/abs/2303.10130)), ([PDF](https://arxiv.org/pdf/2303.10130.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10130)) |
 | 3.16 | LERF: Language Embedded Radiance Fields ([arXiv](https://arxiv.org/abs/2303.09553)), ([PDF](https://arxiv.org/pdf/2303.09553.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.09553)), ([GitHub](https://www.lerf.io/)) |
@@ -178,6 +182,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.10	|	[OpenAI, ChatGPT plus announce (20$)](https://openai.com/blog/chatgpt-plus)	|
 |	2.9	|	[Disastrous Chatbot Demo Costs Google $140 Billion](https://www.channelnews.com.au/google-shares-tank-after-disastrous-chatbot-demo/)	|
 |	2.9	|	[Meta: Toolformer](https://arxiv.org/abs/2302.04761)	|
+| 2.8 | A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity ([arXiv](https://arxiv.org/abs/2302.04023)), ([PDF](https://arxiv.org/pdf/2302.04023.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.04023)) | 
 |	2.8	|	[Runway launches ground-breaking Gen-1 video generation AI system](https://www.ghacks.net/2023/02/08/runway-launches-ground-breaking-gen-1-video-generation-ai-system/)	|
 |	2.7	|	[Microsoft: Bing ChatGPT](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)	|
 |	2.7	|	[Getty Images sues AI art generator Stable Diffusion in the US for copyright infringement](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion)	|
@@ -220,6 +225,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	9.19	|	[SEQUOIA - Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)	|
 | 8.25 | Understanding Diffusion Models: A Unified Perspective ([arXiv](https://arxiv.org/abs/2208.11970)), ([PDF](https://arxiv.org/pdf/2208.11970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2208.11970)), ([Blog](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html)) |
 |	3.15	|	OpenAI, GPT 3.5 announce	|
+| 2.11 | Compute Trends Across Three Eras of Machine Learning ([arXiv](https://arxiv.org/abs/2202.05924)), ([PDF](https://arxiv.org/pdf/2202.05924.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2202.05924)) |
 | 2022.01.01 | |
 | 8.16 | On the Opportunities and Risks of Foundation Models ([arXiv](https://arxiv.org/abs/2108.07258)), ([PDF](https://arxiv.org/pdf/2108.07258.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2108.07258)) |
 | 2021.01.01 | | 
