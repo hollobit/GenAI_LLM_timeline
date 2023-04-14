@@ -18,6 +18,10 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.13 | FT - [We must slow down the race to God-like AI](https://www.ft.com/content/03895dc4-a3b7-481e-95cc-336a524f2ac2) |
+| 4.13 | Segment Everything Everywhere All at Once ([arXiv](https://arxiv.org/abs/2304.06718)), ([PDF](https://arxiv.org/pdf/2304.06718.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06718)) |
+| 4.13 | Expressive Text-to-Image Generation with Rich Text ([arXiv](https://arxiv.org/abs/2304.06720)), ([PDF](https://arxiv.org/pdf/2304.06720.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06720)), ([Project page](https://rich-text-to-image.github.io/)) |
+| 4.13 | AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models ([arXiv](https://arxiv.org/abs/2304.06364)), ([PDF](https://arxiv.org/pdf/2304.06364.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06364)), ([GitHub](https://github.com/microsoft/AGIEval)) |
 | 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
 | 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
@@ -39,6 +43,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.6 | GeNVS: Generative Novel View Synthesis with 3D-Aware Diffusion Models ([arXiv](https://arxiv.org/abs/2304.02602)), ([PDF](https://arxiv.org/pdf/2304.02602.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.02602)), ([GitHub](https://nvlabs.github.io/genvs/)) |
 | 4.6 | Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark ([arXiv](https://arxiv.org/abs/2304.03279)), ([PDF](https://arxiv.org/pdf/2304.03279.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03279)) |
 | 4.5 | [Meta's  Segment Anything Model (SAM)](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=segmentanything&utm_content=gif) ([Paper](https://ai.facebook.com/research/publications/segment-anything/)), ([PDF](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/10000000_6331779526880473_6748528980292947838_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=lnYqcLNTtLQAX80UVfV&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAAtzQrBx242Tl4miOfzWrYrJAhLw3VCm1FeWuMs319zw&oe=6432ACEA)), ([GitHub](https://github.com/facebookresearch/segment-anything)), ([Demo](https://segment-anything.com/)), ([arXiv](https://arxiv.org/abs/2304.02643)), ([PDF](https://arxiv.org/pdf/2304.02643.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.02643)) | 
+| 4.4 | One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era ([arXiv](https://arxiv.org/abs/2304.06488)), ([PDF](https://arxiv.org/pdf/2304.06488.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06488)) |
 | 4.4 | [LangCahin raised $10 million in seed funding](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/) |
 | 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
 | 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
@@ -211,7 +216,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	10.30	|	[LlamaIndex (GPT Index) GitHub project](https://github.com/jerryjliu/llama_index)	|
 |	10.23	|	[LangChain GitHub project](https://github.com/hwchase17/langchain)	|
 |	9.19	|	[SEQUOIA - Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)	|
-| 8.25 | Understanding Diffusion Models: A Unified Perspective ([arXiv](https://arxiv.org/abs/2208.11970)), ([PDF](https://arxiv.org/pdf/2208.11970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2208.11970)) |
+| 8.25 | Understanding Diffusion Models: A Unified Perspective ([arXiv](https://arxiv.org/abs/2208.11970)), ([PDF](https://arxiv.org/pdf/2208.11970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2208.11970)), ([Blog](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html)) |
 |	3.15	|	OpenAI, GPT 3.5 announce	|
 | 2022.01.01 | |
 |		|	**Last Modified 2023/04/02 PM20:01** KST	|
