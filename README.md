@@ -229,7 +229,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 2022.01.01 | |
 | 8.16 | On the Opportunities and Risks of Foundation Models ([arXiv](https://arxiv.org/abs/2108.07258)), ([PDF](https://arxiv.org/pdf/2108.07258.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2108.07258)) |
 | 2021.01.01 | | 
-|		|	**Last Modified 2023/04/02 PM20:01** KST	|
+|		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
