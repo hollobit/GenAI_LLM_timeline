@@ -93,7 +93,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.26	|	[Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI - Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)	|
 |	3.26	|	[LLaMA voice chat](https://twitter.com/ggerganov/status/1640022482307502085)	|
 |	3.26	|	[Japanese Alpaca LoRA](https://twitter.com/kun1em0n/status/1639965140429963264)	|
-|	3.24	|	[NYT OPINION - You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills](https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)	|
+|	3.24	|	[NYT OPINION - You Can Have the Blue Pill or the Red Pill, and We’re Out of Blue Pills](https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)	([archive](https://archive.is/AUKPm)) |
 |	3.24	|	[Dolly - open source LLM](https://twitter.com/databricks/status/1639239800145465344) 	|
 |	3.24	|	[Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://twitter.com/_akhaliq/status/1639062868850266112)	|
 |	3.24	|	ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge ([arXiv](https://arxiv.org/abs/2303.14070v1)),  ([PDF](https://arxiv.org/pdf/2303.14070v1.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.14070v1)), ([GitHub](https://github.com/Kent0n-Li/ChatDoctor))	|
@@ -140,7 +140,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.9	|	[multi-model playground - https://nat.dev](https://nat.dev/)	|
 |	3.9	|	[GPT-4 is coming next week](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)	|
 | 3.8 | Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models ([arXiv](https://arxiv.org/abs/2303.04671)), ([PDF](https://arxiv.org/pdf/2303.04671.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.04671)) |
-|	3.8	|	[NYT, Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	|
+|	3.8	|	[NYT, Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)	([archive](https://archive.is/qvR3Q))|
 | 3.7 | A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT ([arXiv](https://arxiv.org/abs/2303.04226)), ([PDF](https://arxiv.org/pdf/2303.04226.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.04226)) |
 | 3.7 | Radiology - [The Role and Limitations of Large Language Models Such as ChatGPT in Clinical Settings and Medical Journalism](https://pubs.rsna.org/doi/10.1148/radiol.230276) |
 |	3.7	|	[Stability AI Acquires Image Editing App Clipdrop](https://stability.ai/blog/stability-ai-acquires-init-ml-makers-of-clipdrop-application)	|
