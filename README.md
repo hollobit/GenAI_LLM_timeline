@@ -18,7 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 4.13 | FT - [We must slow down the race to God-like AI](https://www.ft.com/content/03895dc4-a3b7-481e-95cc-336a524f2ac2) |
+| 4.13 | FT - [We must slow down the race to God-like AI](https://www.ft.com/content/03895dc4-a3b7-481e-95cc-336a524f2ac2) ([archive](https://archive.is/jFfBQ#selection-1443.0-1443.41)) |
 | 4.13 | Segment Everything Everywhere All at Once ([arXiv](https://arxiv.org/abs/2304.06718)), ([PDF](https://arxiv.org/pdf/2304.06718.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06718)) |
 | 4.13 | Expressive Text-to-Image Generation with Rich Text ([arXiv](https://arxiv.org/abs/2304.06720)), ([PDF](https://arxiv.org/pdf/2304.06720.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06720)), ([Project page](https://rich-text-to-image.github.io/)) |
 | 4.13 | AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models ([arXiv](https://arxiv.org/abs/2304.06364)), ([PDF](https://arxiv.org/pdf/2304.06364.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06364)), ([GitHub](https://github.com/microsoft/AGIEval)) |
@@ -219,6 +219,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 8.25 | Understanding Diffusion Models: A Unified Perspective ([arXiv](https://arxiv.org/abs/2208.11970)), ([PDF](https://arxiv.org/pdf/2208.11970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2208.11970)), ([Blog](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html)) |
 |	3.15	|	OpenAI, GPT 3.5 announce	|
 | 2022.01.01 | |
+| 8.16 | On the Opportunities and Risks of Foundation Models ([arXiv](https://arxiv.org/abs/2108.07258)), ([PDF](https://arxiv.org/pdf/2108.07258.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2108.07258)) |
+| 2021.01.01 | | 
 |		|	**Last Modified 2023/04/02 PM20:01** KST	|
 
 ## Additional Links
