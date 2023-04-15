@@ -18,7 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 4.14 | WSJ - [Elon Musk Creates New Artificial Intelligence Company X.AI](https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f) ([archive](https://archive.is/qzbbb)), ([FT](https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4) |
+| 4.14 | WSJ - [Elon Musk Creates New Artificial Intelligence Company X.AI](https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f) ([archive](https://archive.is/qzbbb)), ([FT](https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4)) |
 | 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
 | 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
 | 4.14 | ControlNet v1.1 nightly - ([GitHub](https://github.com/lllyasviel/ControlNet-v1-1-nightly)) |
