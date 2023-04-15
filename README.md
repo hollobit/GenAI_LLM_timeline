@@ -18,10 +18,19 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.14 | WSJ - [Elon Musk Creates New Artificial Intelligence Company X.AI](https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f) ([archive](https://archive.is/qzbbb)), ([FT](https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4) |
+| 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
+| 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
+| 4.14 | ControlNet v1.1 nightly - ([GitHub](https://github.com/lllyasviel/ControlNet-v1-1-nightly)) |
+| 4.13 | [GoalGPT](https://beta.nando.ai/goalgpt.php) by Nando.ai |
+| 4.13 | [Stable Diffusion XL Beta Available for API Customers and DreamStudio Users](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users) |
+| 4.13 | [NAB 2023: Introducing Text-Based Editing in Premiere Pro, Properties panel in After Effects, and much more](https://blog.adobe.com/en/publish/2023/04/13/nab-2023-introducing-text-based-editing-premiere-pro-properties-panel-after-effects-more) |
+| 4.13 | [Announcing New Tools for Building with Generative AI on AWS](https://aws.amazon.com/ko/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/) - Amazon LLM (Titan), AWS fine-tuning model (Bedrock), Amazon copilot competitor (Code whisperer) |
 | 4.13 | FT - [We must slow down the race to God-like AI](https://www.ft.com/content/03895dc4-a3b7-481e-95cc-336a524f2ac2) ([archive](https://archive.is/jFfBQ#selection-1443.0-1443.41)) |
 | 4.13 | Segment Everything Everywhere All at Once ([arXiv](https://arxiv.org/abs/2304.06718)), ([PDF](https://arxiv.org/pdf/2304.06718.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06718)) |
 | 4.13 | Expressive Text-to-Image Generation with Rich Text ([arXiv](https://arxiv.org/abs/2304.06720)), ([PDF](https://arxiv.org/pdf/2304.06720.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06720)), ([Project page](https://rich-text-to-image.github.io/)) |
 | 4.13 | AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models ([arXiv](https://arxiv.org/abs/2304.06364)), ([PDF](https://arxiv.org/pdf/2304.06364.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06364)), ([GitHub](https://github.com/microsoft/AGIEval)) |
+| 4.12 | Performance of ChatGPT, GPT-4, and Google Bard on a Neurosurgery Oral Boards Preparation Question Bank ([medRxiv](https://www.medrxiv.org/content/10.1101/2023.04.06.23288265v1)), ([PDF](https://www.medrxiv.org/content/10.1101/2023.04.06.23288265v1.full.pdf)) |
 | 4.12 | ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning ([arXiv](https://arxiv.org/abs/2304.05613)), ([PDF](https://arxiv.org/pdf/2304.05613.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05613)) |
 | 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
@@ -32,6 +41,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
 | 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI)) |
+| 4.9 | BabyAGI JS - ([GitHub](https://github.com/ericciarla/babyagijs)) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
 | 4.7 | Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster ([arXiv](https://arxiv.org/abs/2304.03208)), ([PDF](https://arxiv.org/pdf/2304.03208.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03208)) |
@@ -62,6 +72,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.2 | Eight Things to Know about Large Language Models ([arXiv](https://arxiv.org/abs/2304.00612)), ([PDF](https://arxiv.org/pdf/2304.00612.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00612)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
 | 4.1 | [Italy curbs ChatGPT, starts probe over privacy concerns](https://www.cnbc.com/2023/04/01/italy-curbs-chatgpt-starts-probe-over-privacy-concerns.html) |
+| 3.31 | Choose Your Weapon: Survival Strategies for Depressed AI Academics ([arXiv](https://arxiv.org/abs/2304.06035)), ([PDF](https://arxiv.org/pdf/2304.06035.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06035)) |
 | 3.31 | CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society ([arXiv](https://arxiv.org/abs/2303.17760)), ([PDF](https://arxiv.org/pdf/2303.17760.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.17760)), ([GitHub](https://github.com/lightaime/camel)) |
 | 3.31 | A Survey of Large Language Models ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
 | 3.31 | (SCIENTIFIC AMERICAN) [AI Chatbots Can Diagnose Medical Conditions at Home. How Good Are They?](https://www.scientificamerican.com/article/ai-chatbots-can-diagnose-medical-conditions-at-home-how-good-are-they/) |
@@ -233,6 +244,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
 * [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
 * [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
