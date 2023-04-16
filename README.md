@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.15 | OpenAssistant - The world's largest open-source replication of ChatGPT ([site](https://open-assistant.io/auth/signin)), ([Dataset - OASST1](https://huggingface.co/datasets/OpenAssistant/oasst1)), ([YouTube](https://www.youtube.com/watch?v=ddG2fM9i4Kk&feature=youtu.be)) |
 | 4.14 | WSJ - [Elon Musk Creates New Artificial Intelligence Company X.AI](https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f) ([archive](https://archive.is/qzbbb)), ([FT](https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4)) |
 | 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
 | 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
