@@ -190,6 +190,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.14	|	1M ChatGPT plus user 	|
 |	2.14	|	[The Gen AI Conference Hosted by Jasper](https://www.joingen.ai/)	|
 |	2.13	|	[Google: Vision Transformer 22B](https://twitter.com/m__dehghani/status/1625186144001396737)	|
+| 2.12 | Transformer models: an introduction and catalog ([arXiv](https://arxiv.org/abs/2302.07730)), ([PDF](https://arxiv.org/pdf/2302.07730.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.07730)), ([Blog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)) |
 |	2.10	|	[arXivGPT lanches](https://news.ycombinator.com/item?id=34770108)	|
 |	2.10	|	[OpenAI, ChatGPT plus announce (20$)](https://openai.com/blog/chatgpt-plus)	|
 |	2.9	|	[Disastrous Chatbot Demo Costs Google $140 Billion](https://www.channelnews.com.au/google-shares-tank-after-disastrous-chatbot-demo/)	|
@@ -253,6 +254,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+<img src="https://amatriain.net/blog/images/02-05.png">
+<img src="https://amatriain.net/blog/images/02-09.png">
 * [open-source LLMs](https://twitter.com/theaievangelist/status/1645809824314298368)
 <img src="https://pbs.twimg.com/media/FtZQSU3aMAI4BP1?format=jpg&name=4096x4096">
 * Got It AI’s LLM hallucination rate comparison
