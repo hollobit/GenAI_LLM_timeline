@@ -18,11 +18,27 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.17 | [TypingMind](https://www.typingmind.com/) - A better UI for ChatGPT ([tweet](https://twitter.com/tdinh_me/status/1647820035820523523)) |
+| 4.16 | OpenAssistant Conversations - Democratizing Large Language Model Alignment ([PDF](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view)), ([YouTube](https://www.youtube.com/watch?v=Ft9_RsKxrG4)), ([hacker news](https://news.ycombinator.com/item?id=35582417)) |
+| 4.16 | Auto-evaluator - lightweight evaluation tool for question-answering using Langchain ([GitHub](https://github.com/PineappleExpress808/auto-evaluator)) | 
+| 4.16 | NYT - [Google Devising Radical Search Changes to Beat Back A.I. Rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html) ([Archive](https://archive.is/ti9Ns)) |
+| 4.15 | Web LLM - language model chats directly onto web browsers ([Site](https://mlc.ai/web-llm/)), ([GitHub](https://github.com/mlc-ai/web-llm#how)) |
+| 4.15 | MiniG PT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models ([Project page](https://minigpt-4.github.io/)). ([Paper]()), ([GitHub](https://github.com/Vision-CAIR/MiniGPT-4)), ([YouTube](https://www.youtube.com/watch?v=__tftoxpBAw)) |
 | 4.15 | OpenAssistant - The world's largest open-source replication of ChatGPT ([site](https://open-assistant.io/)), ([GitHub](https://github.com/LAION-AI/Open-Assistant)), ([Dataset - OASST1](https://huggingface.co/datasets/OpenAssistant/oasst1)), ([Paper](https://ykilcher.com/oa-paper)), ([YouTube](https://www.youtube.com/watch?v=ddG2fM9i4Kk&feature=youtu.be)), ([Reddit](https://www.reddit.com/r/OpenAssistant/)) |
+| 4.14 | Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding ([arXiv](https://arxiv.org/abs/2304.06906)), ([PDF](https://arxiv.org/pdf/2304.06906.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06906)) |
+| 4.14 | OpenBB Terminal V3.0.0rc2 - ([GitHub](https://github.com/OpenBB-finance/OpenBBTerminal/releases/tag/v3.0.0rc2)) |
+| 4.14 | Delta Denoising Score  ([arXiv](https://arxiv.org/abs/2304.07090)), ([PDF](https://arxiv.org/pdf/2304.07090.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07090)), ([Project page](https://delta-denoising-score.github.io/)) |
+| 4.14 | DINOv2: Learning Robust Visual Features without Supervision ([arXiv](https://arxiv.org/abs/2304.07193)), ([PDF](https://arxiv.org/pdf/2304.07193.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07193)) |
+| 4.14 | Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text  ([arXiv](https://arxiv.org/abs/2304.06939)), ([PDF](https://arxiv.org/pdf/2304.06939.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06939)), ([GitHub](https://github.com/allenai/mmc4)) |
 | 4.14 | WSJ - [Elon Musk Creates New Artificial Intelligence Company X.AI](https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f) ([archive](https://archive.is/qzbbb)), ([FT](https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4)) |
 | 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
 | 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
 | 4.14 | ControlNet v1.1 nightly - ([GitHub](https://github.com/lllyasviel/ControlNet-v1-1-nightly)) |
+| 4.13 | Soundini: Sound-Guided Diffusion for Natural Video Editing ([arXiv](https://arxiv.org/abs/2304.06818)), ([PDF](https://arxiv.org/pdf/2304.06818.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06818)), ([Project page](https://kuai-lab.github.io/soundini-gallery/)) |
+| 4.13 | Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study ([arXiv](https://arxiv.org/abs/2304.06762)), ([PDF](https://arxiv.org/pdf/2304.06762.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06762)), ([GitHub](https://github.com/geekyutao/Inpaint-Anything)) |
+| 4.13 | Inpaint Anything: Segment Anything Meets Image Inpainting ([arXiv](https://arxiv.org/abs/2304.06790)), ([PDF](https://arxiv.org/pdf/2304.06790.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06790)), ([GitHub](https://github.com/NVIDIA/Megatron-LM#retro)) |
+| 4.13 | [GoalGPT](https://beta.nando.ai/goalgpt.php) by Nando.ai |
+| 4.13 | Power-seeking can be probable and predictive for trained agents ([arXiv](https://arxiv.org/abs/2304.06528)), ([PDF](https://arxiv.org/pdf/2304.06528.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06528)) |
 | 4.13 | [GoalGPT](https://beta.nando.ai/goalgpt.php) by Nando.ai |
 | 4.13 | [Stable Diffusion XL Beta Available for API Customers and DreamStudio Users](https://stability.ai/blog/stable-diffusion-xl-beta-available-for-api-customers-and-dreamstudio-users) |
 | 4.13 | [NAB 2023: Introducing Text-Based Editing in Premiere Pro, Properties panel in After Effects, and much more](https://blog.adobe.com/en/publish/2023/04/13/nab-2023-introducing-text-based-editing-premiere-pro-properties-panel-after-effects-more) |
@@ -35,7 +51,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.12 | ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning ([arXiv](https://arxiv.org/abs/2304.05613)), ([PDF](https://arxiv.org/pdf/2304.05613.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05613)) |
 | 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
-| 4.12 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
+| 4.11 | [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) |
+| 4.11 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
 | 4.11 | [OpenAI’s Bug Bounty Program](https://openai.com/blog/bug-bounty-program) |
 | 4.11 | [NTIA’s “AI Accountability Policy Request for Comment”](https://ntia.gov/issues/artificial-intelligence/request-for-comments) |
 | 4.11 | WSJ - [Biden Administration Weighs Possible Rules for AI Tools Like ChatGPT](https://www.wsj.com/amp/articles/biden-administration-weighs-possible-rules-for-ai-tools-like-chatgpt-46f8257b?fbclid=IwAR1GauvAq8cuHIQQlZ8dlxiKkYuszBMPHqr_K6iZiAeTz2yCjGu9vP_S3cc), ([archive](https://archive.is/6phfS)) |
@@ -46,6 +63,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.9 | BabyAGI JS - ([GitHub](https://github.com/ericciarla/babyagijs)) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
+| 4.7 | [SuperPrompt Engineer Encourages ChatGPT Hallucinations](https://metanews.com/superprompt-engineer-encourages-chatgpt-hallucinations/) |
 | 4.7 | Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster ([arXiv](https://arxiv.org/abs/2304.03208)), ([PDF](https://arxiv.org/pdf/2304.03208.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03208)) |
 | 4.7 | Why think step-by-step? Reasoning emerges from the locality of experience ([arXiv](https://arxiv.org/abs/2304.03843)), ([PDF](https://arxiv.org/pdf/2304.03843.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03843)) |
 | 4.7 | Generative Agents: Interactive Simulacra of Human Behavior ([arXiv](https://arxiv.org/abs/2304.03442)), ([PDF](https://arxiv.org/pdf/2304.03442.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03442)), ([Project](https://reverie.herokuapp.com/arXiv_Demo/)) | 
@@ -248,6 +266,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) 
 * [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
 * [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
