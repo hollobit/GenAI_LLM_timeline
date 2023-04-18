@@ -18,8 +18,15 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.19 | [AI Playground](https://play.vercel.ai/r/mWjP5Dt) from Vercel Labs ([tweet](https://twitter.com/vercel/status/1648451494440742917)) |
+| 4.19 | StanfordBDHG HealthGPT ([tweet](https://twitter.com/varunshenoy_/status/1648374949537775616)), ([GitHub](https://github.com/StanfordBDHG/HealthGPT)) |
+| 4.19 | GPT4All-J : the first Apache-2 Licensed Chatbot that runs locally on your machine ([GitHub](https://github.com/nomic-ai/gpt4all)), ([PDF](https://static.nomic.ai/gpt4all/2023_GPT4All-J_Technical_Report_2.pdf)) | 
+| 4.18 | Google - Differentially private heatmaps ([Blog](https://ai.googleblog.com/2023/04/differentially-private-heatmaps.html)) |
+| 4.19 | PersonalPrivate.AI - system to advise on new patent ideas ([tweet](https://twitter.com/BrianRoemmele/status/1648378237633073152)) |
+| 4.18 | [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) |
 | 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
+| 4.17 | BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors ([arXiv](https://arxiv.org/abs/2304.08486)), ([PDF](https://arxiv.org/pdf/2304.08486.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08486)) | 
 | 4.17 | Towards Robust Prompts on Vision-Language Models ([arXiv](https://arxiv.org/abs/2304.08479)), ([PDF](https://arxiv.org/pdf/2304.08479.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08479)) | 
 | 4.17 | Tool Learning with Foundation Models ([arXiv](https://arxiv.org/abs/2304.08354)), ([PDF](https://arxiv.org/pdf/2304.08354.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08354)), ([GitHub](https://github.com/OpenBMB/BMTools)) | 
 | 4.17 | Low-code LLM: Visual Programming over LLMs ([arXiv](https://arxiv.org/abs/2304.08103)), ([PDF](https://arxiv.org/pdf/2304.08103.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08103)) |
@@ -31,6 +38,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.17 | ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT ([arXiv](https://arxiv.org/abs/2304.08448)), ([PDF](https://arxiv.org/pdf/2304.08448.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08448)) |
 | 4.17 | Meta - DINOv2: State-of-the-art computer vision models with self-supervised learning ([blog](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)), ([GitHub](https://github.com/facebookresearch/dinov2)), ([Demo](https://dinov2.metademolab.com/)), ([arXiv](https://arxiv.org/abs/2304.07193)), ([PDF](https://arxiv.org/pdf/2304.07193.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07193)) |
 | 4.17 | [TypingMind](https://www.typingmind.com/) - A better UI for ChatGPT ([tweet](https://twitter.com/tdinh_me/status/1647820035820523523)) |
+| 4.16 | ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human ([arXiv](https://arxiv.org/abs/2304.07849)), ([PDF](https://arxiv.org/pdf/2304.07849.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07849)) |
 | 4.16 | Driving and suppressing the human language network using large language models ([bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.16.537080v1)), ([PDF](https://www.biorxiv.org/content/10.1101/2023.04.16.537080v1.full.pdf)) |
 | 4.16 | MultiGPT ([GitHub](https://github.com/rumpfmax/Multi-GPT)). ([tweet](https://twitter.com/md_rumpf/status/1647911393796956162)) |
 | 4.16 | OpenAssistant Conversations - Democratizing Large Language Model Alignment ([PDF](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view)), ([YouTube](https://www.youtube.com/watch?v=Ft9_RsKxrG4)), ([hacker news](https://news.ycombinator.com/item?id=35582417)) |
@@ -91,6 +99,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
 | 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
 | 4.7 | SegGPT: Segmenting Everything In Context ([arXiv](https://arxiv.org/abs/2304.03284)), ([PDF](https://arxiv.org/pdf/2304.03284.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03284)), ([GitHub](https://github.com/baaivision/Painter)), ([Demo](https://huggingface.co/spaces/BAAI/SegGPT)) |
+| 4.6 | ChaosGPT: Empowering GPT with Internet and Memory to Destroy Humanity ([YouTube](https://www.youtube.com/watch?v=g7YJIpkk7KM&t=912s)) |
 | 4.6 | InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning ([arXiv](https://arxiv.org/abs/2304.03411)), ([PDF](https://arxiv.org/pdf/2304.03411.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03411)), ([Project](https://jshi31.github.io/InstantBooth/)) | 
 | 4.6 | Wired - [AI Desperately Needs Global Oversight](https://www.wired.com/story/ai-desperately-needs-global-oversight/) |
 | 4.6 | Instruction Tuning with GPT-4 ([arXiv](https://arxiv.org/abs/2304.03277)), ([PDF](https://arxiv.org/pdf/2304.03277.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03277)), ([GitHub](https://instruction-tuning-with-gpt-4.github.io/)) |
@@ -140,6 +149,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.29	|	[MacGPT 3.2](https://www.macgpt.com/)	|
 | 3.29 | GPTEval: NLG Evaluation using GPT-4 with Better Human Alignment ([arXiv](https://arxiv.org/abs/2303.16634)), ([PDF](https://arxiv.org/pdf/2303.16634.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16634)) |
 | 3.29 | TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs  ([arXiv](https://arxiv.org/abs/2303.16434)), ([PDF](https://arxiv.org/pdf/2303.16434.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16434)) |
+| 3.28 | Natural Selection Favors AIs over Humans [arXiv](https://arxiv.org/abs/2303.16200)), ([PDF](https://arxiv.org/pdf/2303.16200.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.16200)) |
 | 3.28 | ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks ([arXiv](https://arxiv.org/abs/2303.15056)), ([PDF](https://arxiv.org/pdf/2303.15056.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.15056)) |
 |	3.28	|	[LLaMA voice chat + Siri TTS](https://twitter.com/ggerganov/status/1640416314773700608)	|
 |	3.28	|	[Cerebras-GPT - 111M to 13B parameters trained using the Chinchilla formula](https://twitter.com/CerebrasSystems/status/1640725880711569408)	|
