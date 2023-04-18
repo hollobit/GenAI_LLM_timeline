@@ -20,7 +20,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |:-:|:--|
 | 4.17 | Meta - DINOv2: State-of-the-art computer vision models with self-supervised learning ([blog](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)), ([GitHub](https://github.com/facebookresearch/dinov2)), ([Demo](https://dinov2.metademolab.com/)), ([arXiv](https://arxiv.org/abs/2304.07193)), ([PDF](https://arxiv.org/pdf/2304.07193.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07193)) |
 | 4.17 | [TypingMind](https://www.typingmind.com/) - A better UI for ChatGPT ([tweet](https://twitter.com/tdinh_me/status/1647820035820523523)) |
-| 4.16 | MultiGPT ([GitHub](https://github.com/rumpfmax/Multi-GPT)) |
+| 4.16 | MultiGPT ([GitHub](https://github.com/rumpfmax/Multi-GPT)). ([tweet](https://twitter.com/md_rumpf/status/1647911393796956162)) |
 | 4.16 | OpenAssistant Conversations - Democratizing Large Language Model Alignment ([PDF](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view)), ([YouTube](https://www.youtube.com/watch?v=Ft9_RsKxrG4)), ([hacker news](https://news.ycombinator.com/item?id=35582417)) |
 | 4.16 | Auto-evaluator - lightweight evaluation tool for question-answering using Langchain ([GitHub](https://github.com/PineappleExpress808/auto-evaluator)) | 
 | 4.16 | NYT - [Google Devising Radical Search Changes to Beat Back A.I. Rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html) ([Archive](https://archive.is/ti9Ns)) |
