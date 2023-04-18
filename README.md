@@ -265,6 +265,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 2.11 | Compute Trends Across Three Eras of Machine Learning ([arXiv](https://arxiv.org/abs/2202.05924)), ([PDF](https://arxiv.org/pdf/2202.05924.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2202.05924)) |
 | 2022.01.01 | |
 | 8.16 | On the Opportunities and Risks of Foundation Models ([arXiv](https://arxiv.org/abs/2108.07258)), ([PDF](https://arxiv.org/pdf/2108.07258.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2108.07258)) |
+| 4.18 | The Power of Scale for Parameter-Efficient Prompt Tuning ([arXiv](https://arxiv.org/abs/2104.08691)), ([PDF](https://arxiv.org/pdf/2104.08691.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2104.08691))
 | 2021.01.01 | | 
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
