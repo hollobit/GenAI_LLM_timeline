@@ -280,6 +280,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [awesome-ChatGPT-repositories](awesome-ChatGPT-repositories) 
 * [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
 * [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
