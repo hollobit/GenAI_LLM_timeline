@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.17 | ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT ([arXiv](https://arxiv.org/abs/2304.08448)), ([PDF](https://arxiv.org/pdf/2304.08448.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08448)) |
 | 4.17 | Meta - DINOv2: State-of-the-art computer vision models with self-supervised learning ([blog](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)), ([GitHub](https://github.com/facebookresearch/dinov2)), ([Demo](https://dinov2.metademolab.com/)), ([arXiv](https://arxiv.org/abs/2304.07193)), ([PDF](https://arxiv.org/pdf/2304.07193.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07193)) |
 | 4.17 | [TypingMind](https://www.typingmind.com/) - A better UI for ChatGPT ([tweet](https://twitter.com/tdinh_me/status/1647820035820523523)) |
 | 4.16 | MultiGPT ([GitHub](https://github.com/rumpfmax/Multi-GPT)). ([tweet](https://twitter.com/md_rumpf/status/1647911393796956162)) |
