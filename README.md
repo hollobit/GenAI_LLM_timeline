@@ -37,6 +37,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
 | 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
 | 4.14 | ControlNet v1.1 nightly - ([GitHub](https://github.com/lllyasviel/ControlNet-v1-1-nightly)) |
+| 4.13 | Boosted Prompt Ensembles for Large Language Models ([arXiv](https://arxiv.org/abs/2304.05970)), ([PDF](https://arxiv.org/pdf/2304.05970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05970)) |
+| 4.13 | ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political Twitter Messages with Zero-Shot Learning ([arXiv](https://arxiv.org/abs/2304.06588)), ([PDF](https://arxiv.org/pdf/2304.06588.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06588)) |
 | 4.13 | Soundini: Sound-Guided Diffusion for Natural Video Editing ([arXiv](https://arxiv.org/abs/2304.06818)), ([PDF](https://arxiv.org/pdf/2304.06818.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06818)), ([Project page](https://kuai-lab.github.io/soundini-gallery/)) |
 | 4.13 | Shall We Pretrain Autoregressive Language Models with Retrieval? A Comprehensive Study ([arXiv](https://arxiv.org/abs/2304.06762)), ([PDF](https://arxiv.org/pdf/2304.06762.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06762)), ([GitHub](https://github.com/geekyutao/Inpaint-Anything)) |
 | 4.13 | Inpaint Anything: Segment Anything Meets Image Inpainting ([arXiv](https://arxiv.org/abs/2304.06790)), ([PDF](https://arxiv.org/pdf/2304.06790.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06790)), ([GitHub](https://github.com/NVIDIA/Megatron-LM#retro)) |
@@ -50,10 +52,13 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.13 | Segment Everything Everywhere All at Once ([arXiv](https://arxiv.org/abs/2304.06718)), ([PDF](https://arxiv.org/pdf/2304.06718.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06718)) |
 | 4.13 | Expressive Text-to-Image Generation with Rich Text ([arXiv](https://arxiv.org/abs/2304.06720)), ([PDF](https://arxiv.org/pdf/2304.06720.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06720)), ([Project page](https://rich-text-to-image.github.io/)) |
 | 4.13 | AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models ([arXiv](https://arxiv.org/abs/2304.06364)), ([PDF](https://arxiv.org/pdf/2304.06364.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06364)), ([GitHub](https://github.com/microsoft/AGIEval)) |
+| 4.12 | Galactic ChitChat: Using Large Language Models to Converse with Astronomy Literature ([arXiv](https://arxiv.org/abs/2304.05406)), ([PDF](https://arxiv.org/pdf/2304.05406.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05406)) | 
 | 4.12 | Performance of ChatGPT, GPT-4, and Google Bard on a Neurosurgery Oral Boards Preparation Question Bank ([medRxiv](https://www.medrxiv.org/content/10.1101/2023.04.06.23288265v1)), ([PDF](https://www.medrxiv.org/content/10.1101/2023.04.06.23288265v1.full.pdf)) |
 | 4.12 | ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning ([arXiv](https://arxiv.org/abs/2304.05613)), ([PDF](https://arxiv.org/pdf/2304.05613.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05613)) |
 | 4.12 | Nature -[Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) ([PDF](https://www.nature.com/articles/s41586-023-05881-4.pdf)) |
 | 4.12 | Dolly v2 - 12B parameter language model ([Model weight](https://huggingface.co/databricks/dolly-v2-12b)), ([GitHub](https://github.com/databrickslabs/dolly/tree/master/data)), ([Blog](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) | 
+| 4.11 | Toxicity in ChatGPT: Analyzing Persona-assigned Language Models ([arXiv](https://arxiv.org/abs/2304.05335)), ([PDF](https://arxiv.org/pdf/2304.05335.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05335)) | 
+| 4.11 | Multi-step Jailbreaking Privacy Attacks on ChatGPT ([arXiv](https://arxiv.org/abs/2304.05197)), ([PDF](https://arxiv.org/pdf/2304.05197.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05197)) | 
 | 4.11 | [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html) |
 | 4.11 | Emergent autonomous scientific research capabilities of large language models ([arXiv](https://arxiv.org/abs/2304.05332)), ([PDF](https://arxiv.org/pdf/2304.05332.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05332)) |
 | 4.11 | [OpenAI’s Bug Bounty Program](https://openai.com/blog/bug-bounty-program) |
@@ -62,6 +67,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.11 | ChemCrow: Augmenting large-language models with chemistry tools ([arXiv](https://arxiv.org/abs/2304.05376)), ([PDF](https://arxiv.org/pdf/2304.05376.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05376)) |
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
+| 4.10 | On the Possibilities of AI-Generated Text Detection ([arXiv](https://arxiv.org/abs/2304.04736)), ([PDF](https://arxiv.org/pdf/2304.04736.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04736)) |
 | 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI)) |
 | 4.9 | BabyAGI JS - ([GitHub](https://github.com/ericciarla/babyagijs)) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)), ([demo](https://agentgpt.reworkd.ai/)) |
@@ -80,6 +86,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.6 | Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark ([arXiv](https://arxiv.org/abs/2304.03279)), ([PDF](https://arxiv.org/pdf/2304.03279.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03279)) |
 | 4.5 | Language models are on Replicate - FLAN-T5, GPT-J, and LLaMA ([Blog](https://replicate.com/blog/language-models)) |
 | 4.5 | [Meta's  Segment Anything Model (SAM)](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/?utm_source=twitter&utm_medium=organic_social&utm_campaign=segmentanything&utm_content=gif) ([Paper](https://ai.facebook.com/research/publications/segment-anything/)), ([PDF](https://scontent-ssn1-1.xx.fbcdn.net/v/t39.2365-6/10000000_6331779526880473_6748528980292947838_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=lnYqcLNTtLQAX80UVfV&_nc_ht=scontent-ssn1-1.xx&oh=00_AfAAtzQrBx242Tl4miOfzWrYrJAhLw3VCm1FeWuMs319zw&oe=6432ACEA)), ([GitHub](https://github.com/facebookresearch/segment-anything)), ([Demo](https://segment-anything.com/)), ([arXiv](https://arxiv.org/abs/2304.02643)), ([PDF](https://arxiv.org/pdf/2304.02643.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.02643)) | 
+| 4.4 | Calibrated Chaos: Variance Between Runs of Neural Network Training is Harmless and Inevitable ([arXiv](https://arxiv.org/abs/2304.01910)), ([PDF](https://arxiv.org/pdf/2304.01910.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01910)) |
 | 4.4 | One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era ([arXiv](https://arxiv.org/abs/2304.06488)), ([PDF](https://arxiv.org/pdf/2304.06488.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06488)) |
 | 4.4 | [LangCahin raised $10 million in seed funding](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/) |
 | 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
@@ -245,6 +252,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	1.20	|	[WAME policy - Chatbots, ChatGPT, and Scholarly Manuscripts](https://wame.org/page3.php?id=106)	|
 |	1.17	|	[Meet Claude: Anthropic’s Rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)	|
 |	1.14	|	[Microsoft in talks to acquire a 49% stake in ChatGPT owner OpenAI](https://watcher.guru/news/microsoft-plans-to-acquire-a-49-stake-in-chatgpt-owner-openai)	|
+| 1.12 | Multimodal Deep Learning ([arXiv](https://arxiv.org/abs/2301.04856)), ([PDF](https://arxiv.org/pdf/2301.04856.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2301.04856)) |
 |	1.11	|	[This Voice Doesn't Exist - Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)	|
 |	1.9	|	[Microsoft is looking at OpenAI’s GPT for Word, Outlook, and PowerPoint](https://www.theverge.com/2023/1/9/23546144/microsoft-openai-word-powerpoint-outlook-gpt-integration-rumor)	|
 |	1.5	|	[Apple launches AI-powered book narrations](https://techcrunch.com/2023/01/05/apple-launches-ai-powered-book-narrations/)	|
@@ -270,7 +278,6 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
-* [AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) 
 * [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
 * [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
@@ -279,8 +286,10 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) 
+<img src="https://ai.v-gar.de/ml/transformer/timeline/timeline.png">
 * [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-<img src="https://amatriain.net/blog/images/02-05.png">
+<img src="https://amatriain.net/blog/images/02-05.png" bgcolor=white>
 <img src="https://amatriain.net/blog/images/02-09.png">
 * [open-source LLMs](https://twitter.com/theaievangelist/status/1645809824314298368)
 <img src="https://pbs.twimg.com/media/FtZQSU3aMAI4BP1?format=jpg&name=4096x4096">
