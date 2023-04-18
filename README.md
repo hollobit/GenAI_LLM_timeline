@@ -18,7 +18,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
+| 4.17 | Wired - [OpenAI’s CEO Says the Age of Giant AI Models Is Already Over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/) |
 | 4.17 | Synthetic Data from Diffusion Models Improves ImageNet Classification ([arXiv](https://arxiv.org/abs/2304.08466)), ([PDF](https://arxiv.org/pdf/2304.08466.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08466)) |
 | 4.17 | RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset ([GitHib](https://github.com/togethercomputer/RedPajama-Data)) |
 | 4.17 | Visual Instruction Tuning  ([arXiv](https://arxiv.org/abs/2304.08485)), ([PDF](https://arxiv.org/pdf/2304.08485.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08485)), ([GitHub](https://github.com/haotian-liu/LLaVA)), ([Dataset](https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K)), ([Model](https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0)), ([Project page](https://llava-vl.github.io/)), ([Demo](https://llava.hliu.cc/)) |
