@@ -245,7 +245,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.14	|	[The Gen AI Conference Hosted by Jasper](https://www.joingen.ai/)	|
 |	2.13	|	[Google: Vision Transformer 22B](https://twitter.com/m__dehghani/status/1625186144001396737)	|
 | 2.12 | Transformer models: an introduction and catalog ([arXiv](https://arxiv.org/abs/2302.07730)), ([PDF](https://arxiv.org/pdf/2302.07730.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.07730)), ([Blog](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)) |
-|	2.10	|	[arXivGPT lanches](https://news.ycombinator.com/item?id=34770108)	|
+|	2.10	|	[arXivGPT launches](https://news.ycombinator.com/item?id=34770108)	|
 |	2.10	|	[OpenAI, ChatGPT plus announce (20$)](https://openai.com/blog/chatgpt-plus)	|
 |	2.9	|	[Disastrous Chatbot Demo Costs Google $140 Billion](https://www.channelnews.com.au/google-shares-tank-after-disastrous-chatbot-demo/)	|
 |	2.9	|	[Meta: Toolformer](https://arxiv.org/abs/2302.04761)	|
