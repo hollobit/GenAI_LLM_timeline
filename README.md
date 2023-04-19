@@ -26,6 +26,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.18 | [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) |
 | 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
+| 4.17 | [Epic, Microsoft bring generative AI to EHRs](https://digitalhealth.modernhealthcare.com/digital-health/himss23-epic-microsoft-bring-openais-gpt-4-ehrs) |
 | 4.17 | BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors ([arXiv](https://arxiv.org/abs/2304.08486)), ([PDF](https://arxiv.org/pdf/2304.08486.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08486)) | 
 | 4.17 | Towards Robust Prompts on Vision-Language Models ([arXiv](https://arxiv.org/abs/2304.08479)), ([PDF](https://arxiv.org/pdf/2304.08479.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08479)) | 
 | 4.17 | Tool Learning with Foundation Models ([arXiv](https://arxiv.org/abs/2304.08354)), ([PDF](https://arxiv.org/pdf/2304.08354.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08354)), ([GitHub](https://github.com/OpenBMB/BMTools)) | 
