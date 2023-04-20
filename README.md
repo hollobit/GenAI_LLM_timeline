@@ -19,10 +19,13 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
+| 4.19 | How to train your own Large Language Models ([Blog](https://blog.replit.com/llm-training)) |
 | 4.19 | [AI Playground](https://play.vercel.ai/r/mWjP5Dt) from Vercel Labs ([tweet](https://twitter.com/vercel/status/1648451494440742917)) |
 | 4.19 | StanfordBDHG HealthGPT ([tweet](https://twitter.com/varunshenoy_/status/1648374949537775616)), ([GitHub](https://github.com/StanfordBDHG/HealthGPT)) |
 | 4.19 | GPT4All-J : the first Apache-2 Licensed Chatbot that runs locally on your machine ([GitHub](https://github.com/nomic-ai/gpt4all)), ([PDF](https://static.nomic.ai/gpt4all/2023_GPT4All-J_Technical_Report_2.pdf)) | 
 | 4.19 | PersonalPrivate.AI - system to advise on new patent ideas ([tweet](https://twitter.com/BrianRoemmele/status/1648378237633073152)) |
+| 4.18 | Autonomous Agents(BabyAGI, AutoGPT) & Agent Simulations(CAMEL, Generative Agents) ([Blog](https://blog.langchain.dev/agents-round/)) |
+| 4.18 | AutoTaskFormer: Searching Vision Transformers for Multi-task Learning ([arXiv](https://arxiv.org/abs/2304.08756)), ([PDF](https://arxiv.org/pdf/2304.08756.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08756)) |
 | 4.18 | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More ([arXiv](https://arxiv.org/abs/2304.09148)), ([PDF](https://arxiv.org/pdf/2304.09148.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09148)), ([Project page](https://tianrun-chen.github.io/SAM-Adaptor/)) |
 | 4.18 | Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models ([arXiv](https://arxiv.org/abs/2304.08818)), ([PDF](https://arxiv.org/pdf/2304.08818.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08818)), ([Project page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)) | 
 | 4.18 | Google - Differentially private heatmaps ([Blog](https://ai.googleblog.com/2023/04/differentially-private-heatmaps.html)) |
@@ -30,7 +33,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
 | 4.17 | An Evaluation on Large Language Model Outputs: Discourse and Memorization ([arXiv](https://arxiv.org/abs/2304.08637)), ([PDF](https://arxiv.org/pdf/2304.08637.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08637)) |
-| 4.17 | [Epic, Microsoft bring generative AI to EHRs](https://digitalhealth.modernhealthcare.com/digital-health/himss23-epic-microsoft-bring-openais-gpt-4-ehrs) |
+| 4.17 | [Epic, Microsoft bring generative AI to EHRs](https://digitalhealth.modernhealthcare.com/digital-health/himss23-epic-microsoft-bring-openais-gpt-4-ehrs) - ([Microsoft announcement](Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service)) |
 | 4.17 | BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors ([arXiv](https://arxiv.org/abs/2304.08486)), ([PDF](https://arxiv.org/pdf/2304.08486.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08486)) | 
 | 4.17 | Towards Robust Prompts on Vision-Language Models ([arXiv](https://arxiv.org/abs/2304.08479)), ([PDF](https://arxiv.org/pdf/2304.08479.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08479)) | 
 | 4.17 | Tool Learning with Foundation Models ([arXiv](https://arxiv.org/abs/2304.08354)), ([PDF](https://arxiv.org/pdf/2304.08354.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08354)), ([GitHub](https://github.com/OpenBMB/BMTools)) | 
