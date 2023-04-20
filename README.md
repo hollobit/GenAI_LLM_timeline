@@ -20,6 +20,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |:-:|:--|
 | 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
+| 4.19 | Occupational Heterogeneity in Exposure to Generative AI - ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414065)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4414065_code2763040.pdf?abstractid=4414065&mirid=1)) |
 | 4.19 | The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban ([arXiv](https://arxiv.org/abs/2304.09339)), ([PDF](https://arxiv.org/pdf/2304.09339.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09339)) |
 | 4.19 | CompressGPT: Decrease Token Usage by ~70% ([blog](https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/)) |
 | 4.19 | Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes ([arXiv](https://arxiv.org/abs/2304.09433)), ([PDF](https://arxiv.org/pdf/2304.09433.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09433)), ([Github](https://github.com/HazyResearch/evaporate)) |
@@ -323,6 +324,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [Awesome-Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys) - A curated list of Generative Recommender Systems (Paper & Code)
 * [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers)
 * [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) 
 * [The Rundown](https://www.therundown.ai/)
