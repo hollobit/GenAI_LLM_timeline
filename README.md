@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.20 | [FinChat.io](https://finchat.io/chats/) - The Chat GPT for Finance |
 | 4.20 | LlamaAcademy: Teaching Llamas How to Code ([GitHub](https://github.com/danielgross/LlamaAcademy)) |
 | 4.20 | Announcing Google DeepMind: DeepMind + Brain = Google DeepMind ([Blog](https://www.deepmind.com/blog/announcing-google-deepmind)) |
 | 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
@@ -44,6 +45,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.18 | [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) |
 | 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
+| 4.17 | Notice of the Cyberspace Administration of China on Public Comments on the "Administrative Measures for Generative Artificial Intelligence Services (Draft for Comment)" ([Announcement](http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm)) |
 | 4.17 | Pretrained Language Models as Visual Planners for Human Assistance ([arXiv](https://arxiv.org/abs/2304.09179)), ([PDF](https://arxiv.org/pdf/2304.09179.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09179)) |
 | 4.17 | An Evaluation on Large Language Model Outputs: Discourse and Memorization ([arXiv](https://arxiv.org/abs/2304.08637)), ([PDF](https://arxiv.org/pdf/2304.08637.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08637)) |
 | 4.17 | [Epic, Microsoft bring generative AI to EHRs](https://digitalhealth.modernhealthcare.com/digital-health/himss23-epic-microsoft-bring-openais-gpt-4-ehrs) - ([Microsoft announcement](Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service)) |
