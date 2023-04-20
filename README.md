@@ -37,6 +37,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.19 | StanfordBDHG HealthGPT ([tweet](https://twitter.com/varunshenoy_/status/1648374949537775616)), ([GitHub](https://github.com/StanfordBDHG/HealthGPT)) |
 | 4.19 | GPT4All-J : the first Apache-2 Licensed Chatbot that runs locally on your machine ([GitHub](https://github.com/nomic-ai/gpt4all)), ([PDF](https://static.nomic.ai/gpt4all/2023_GPT4All-J_Technical_Report_2.pdf)) | 
 | 4.19 | PersonalPrivate.AI - system to advise on new patent ideas ([tweet](https://twitter.com/BrianRoemmele/status/1648378237633073152)) |
+| 4.18 | Nature - [Why open-source generative AI models are an ethical way forward for science](https://www.nature.com/articles/d41586-023-01295-4) |
 | 4.18 | Autonomous Agents(BabyAGI, AutoGPT) & Agent Simulations(CAMEL, Generative Agents) ([Blog](https://blog.langchain.dev/agents-round/)) |
 | 4.18 | AutoTaskFormer: Searching Vision Transformers for Multi-task Learning ([arXiv](https://arxiv.org/abs/2304.08756)), ([PDF](https://arxiv.org/pdf/2304.08756.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08756)) |
 | 4.18 | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More ([arXiv](https://arxiv.org/abs/2304.09148)), ([PDF](https://arxiv.org/pdf/2304.09148.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09148)), ([Project page](https://tianrun-chen.github.io/SAM-Adaptor/)) |
