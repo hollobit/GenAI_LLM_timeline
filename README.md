@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.20 | Announcing Google DeepMind: DeepMind + Brain = Google DeepMind ([Blog](https://www.deepmind.com/blog/announcing-google-deepmind)) |
 | 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
 | 4.19 | Occupational Heterogeneity in Exposure to Generative AI - ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414065)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4414065_code2763040.pdf?abstractid=4414065&mirid=1)) |
@@ -121,6 +122,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.7 | Vicuna-7B: small, efficient, yet capable ([GitHub](https://github.com/lm-sys/FastChat)), ([Weight](https://huggingface.co/lmsys/vicuna-7b-delta-v0)) |
 | 4.7 | StackLlama ([Blog](https://huggingface.co/blog/stackllama)), ([Demo](https://huggingface.co/spaces/trl-lib/stack-llama)), ([GitHub](https://github.com/lvwerra/trl/tree/main/examples/stack_llama/scripts)) |
 | 4.7 | SegGPT: Segmenting Everything In Context ([arXiv](https://arxiv.org/abs/2304.03284)), ([PDF](https://arxiv.org/pdf/2304.03284.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03284)), ([GitHub](https://github.com/baaivision/Painter)), ([Demo](https://huggingface.co/spaces/BAAI/SegGPT)) |
+| 4.6 | Chrome ships WebGPU ([Blog](https://developer.chrome.com/blog/webgpu-release/)) |
 | 4.6 | GPT detectors are biased against non-native English writers ([arXiv](https://arxiv.org/abs/2304.02819)), ([PDF](https://arxiv.org/pdf/2304.02819.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/02819.03411)) |
 | 4.6 | ChaosGPT: Empowering GPT with Internet and Memory to Destroy Humanity ([YouTube](https://www.youtube.com/watch?v=g7YJIpkk7KM&t=912s)) |
 | 4.6 | InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning ([arXiv](https://arxiv.org/abs/2304.03411)), ([PDF](https://arxiv.org/pdf/2304.03411.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.03411)), ([Project](https://jshi31.github.io/InstantBooth/)) | 
