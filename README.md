@@ -18,7 +18,16 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
+| 4.19 | The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban ([arXiv](https://arxiv.org/abs/2304.09339)), ([PDF](https://arxiv.org/pdf/2304.09339.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09339)) |
+| 4.19 | CompressGPT: Decrease Token Usage by ~70% ([blog](https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/)) |
+| 4.19 | Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes ([arXiv](https://arxiv.org/abs/2304.09433)), ([PDF](https://arxiv.org/pdf/2304.09433.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09433)), ([Github](https://github.com/HazyResearch/evaporate)) |
+| 4.19 | LLM as A Robotic Brain: Unifying Egocentric Memory and Control ([arXiv](https://arxiv.org/abs/2304.09349)), ([PDF](https://arxiv.org/pdf/2304.09349.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09349)) |
+| 4.19 | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent ([arXiv](https://arxiv.org/abs/2304.09542)), ([PDF](https://arxiv.org/pdf/2304.09542.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09542)) |
+| 4.19 | Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models ([arXiv](https://arxiv.org/abs/2304.09842)), ([PDF](https://arxiv.org/pdf/2304.09842.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09842)), ([project page](https://chameleon-llm.github.io/)), ([GitHub](https://github.com/lupantech/chameleon-llm)) |
+| 4.19 | h2oai's LLM repositories - ([h2ogpt](https://github.com/h2oai/h2ogpt)), ([h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)), ([Huggingface](https://huggingface.co/h2oai)) | 
+| 4.19 | Evaluating Verifiability in Generative Search Engines ([arXiv](https://arxiv.org/abs/2304.09848)), ([PDF](https://arxiv.org/pdf/2304.09848.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09848)) |
 | 4.19 | How to train your own Large Language Models ([Blog](https://blog.replit.com/llm-training)) |
 | 4.19 | [AI Playground](https://play.vercel.ai/r/mWjP5Dt) from Vercel Labs ([tweet](https://twitter.com/vercel/status/1648451494440742917)) |
 | 4.19 | StanfordBDHG HealthGPT ([tweet](https://twitter.com/varunshenoy_/status/1648374949537775616)), ([GitHub](https://github.com/StanfordBDHG/HealthGPT)) |
@@ -32,6 +41,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.18 | [The Complete Beginners Guide To Autonomous Agents](https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents) |
 | 4.18 | Llama Lab - A repo dedicated to building cutting-edge AGI projects: llama_agi (inspired by babyagi) and auto_llama (inspired by autogpt) ([GitHub](https://github.com/run-llama/llama-lab)), ([Llama Hub](https://llamahub.ai/)) |
 | 4.18 | Elon Musk to start ChatGPT rival called “TruthGPT” ([tweet](https://twitter.com/theLionary/status/1648088563874156545)) |
+| 4.17 | Pretrained Language Models as Visual Planners for Human Assistance ([arXiv](https://arxiv.org/abs/2304.09179)), ([PDF](https://arxiv.org/pdf/2304.09179.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09179)) |
 | 4.17 | An Evaluation on Large Language Model Outputs: Discourse and Memorization ([arXiv](https://arxiv.org/abs/2304.08637)), ([PDF](https://arxiv.org/pdf/2304.08637.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08637)) |
 | 4.17 | [Epic, Microsoft bring generative AI to EHRs](https://digitalhealth.modernhealthcare.com/digital-health/himss23-epic-microsoft-bring-openais-gpt-4-ehrs) - ([Microsoft announcement](Microsoft and Epic expand strategic collaboration with integration of Azure OpenAI Service)) |
 | 4.17 | BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors ([arXiv](https://arxiv.org/abs/2304.08486)), ([PDF](https://arxiv.org/pdf/2304.08486.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08486)) | 
@@ -67,6 +77,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.14 | Google Med-PaLM 2 - [A responsible path to generative AI in healthcare](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model?hl=en) |
 | 4.14 | Meta's open source Animated Drawings - ([Blog](https://developers.facebook.com/blog/post/2023/04/13/meta-os-animated-drawings/)) |
 | 4.14 | ControlNet v1.1 nightly - ([GitHub](https://github.com/lllyasviel/ControlNet-v1-1-nightly)) |
+| 4.13 | Teenage-AGI ([GitHub](https://github.com/seanpixel/Teenage-AGI)) |
 | 4.13 | Boosted Prompt Ensembles for Large Language Models ([arXiv](https://arxiv.org/abs/2304.05970)), ([PDF](https://arxiv.org/pdf/2304.05970.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05970)) |
 | 4.13 | ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political Twitter Messages with Zero-Shot Learning ([arXiv](https://arxiv.org/abs/2304.06588)), ([PDF](https://arxiv.org/pdf/2304.06588.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06588)) |
 | 4.13 | Soundini: Sound-Guided Diffusion for Natural Video Editing ([arXiv](https://arxiv.org/abs/2304.06818)), ([PDF](https://arxiv.org/pdf/2304.06818.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06818)), ([Project page](https://kuai-lab.github.io/soundini-gallery/)) |
@@ -312,6 +323,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers)
 * [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) 
 * [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
