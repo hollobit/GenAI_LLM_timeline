@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.20 | LlamaAcademy: Teaching Llamas How to Code ([GitHub](https://github.com/danielgross/LlamaAcademy)) |
 | 4.20 | Announcing Google DeepMind: DeepMind + Brain = Google DeepMind ([Blog](https://www.deepmind.com/blog/announcing-google-deepmind)) |
 | 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
