@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) | 
 | 4.24 | GPT4Tools: Teaching LLM to Use Tools via Self-instruction - ([Project page](https://gpt4tools.github.io/)), ([Github](https://github.com/StevenGrove/GPT4Tools)), ([Video](https://www.youtube.com/watch?v=Qrj94ibQIT8)),  |
 | 4.24 | RAM: Relate-Anything-Model ([GitHub](https://github.com/Luodian/RelateAnything)), ([Demo](https://huggingface.co/spaces/mmlab-ntu/relate-anything-model)) |
 | 4.24 | [Chart-GPT 1.0](https://www.chartgpt.dev/) |
@@ -275,6 +276,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.23	|	[Notion.AI launch](http://notion.ai/)	|
 |	2.22	|	[Microsoft: Bing announcement on mobile and Skype](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype)	|
 |	2.22	|	Science - [As scientists explore AI-written text, journals hammer out policies](https://www.science.org/content/article/scientists-explore-ai-written-text-journals-hammer-policies)	|
+| 2.21 | Hyena Hierarchy: Towards Larger Convolutional Language Models ([arXiv](https://arxiv.org/abs/2302.10866)), ([PDF](https://arxiv.org/pdf/2302.10866.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.10866))	|
 |	2.21	|	[The PNAS Journals Outline Their Policies for ChatGPT and Generative AI](https://www.pnas.org/post/update/pnas-policy-for-chatgpt-generative-ai)	|
 |	2.21	|	ChatGPT: Jack of all trades, master of none ([arXiv](https://arxiv.org/abs/2302.10724)), ([PDF](https://arxiv.org/pdf/2302.10724.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2302.10724))	|
 |	2.17	|	[Time, ChatGPT cover](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/)	|
