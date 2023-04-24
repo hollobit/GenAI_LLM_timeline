@@ -23,7 +23,6 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.24 | [Chart-GPT 1.0](https://www.chartgpt.dev/) |
 | 4.22 | Finetuning Large Language Models ([Blog](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)) |
 | 4.21 | Emergent and Predictable Memorization in Large Language Models  ([arXiv](https://arxiv.org/abs/2304.11158)), ([PDF](https://arxiv.org/pdf/2304.11158.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11158)) |
-
 | 4.21 | CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval  ([arXiv](https://arxiv.org/abs/2304.11029)), ([PDF](https://arxiv.org/pdf/2304.11029.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11029)) |
 | 4.21 | Bard now helps you code with support for 20+ langs (Python, C++, JS, Go, etc.). ([Blog](https://blog.google/technology/ai/code-with-bard/)) |
 | 4.21 | Inducing anxiety in large language models increases exploration and bias ([arXiv](https://arxiv.org/abs/2304.11111)), ([PDF](https://arxiv.org/pdf/2304.11111.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11111)) |
@@ -34,7 +33,6 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
 | 4.19 | Fundamental Limitations of Alignment in Large Language Models ([arXiv](https://arxiv.org/abs/2304.11082)), ([PDF](https://arxiv.org/pdf/2304.11082.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11082)) |
 | 4.19 | Scaling Transformer to 1M tokens and beyond with RMT ([arXiv](https://arxiv.org/abs/2304.11062)), ([PDF](https://arxiv.org/pdf/2304.11062.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11062)), ([Github](https://github.com/booydar/t5-experiments/tree/scaling-report)) |
-
 | 4.19 | Occupational Heterogeneity in Exposure to Generative AI - ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414065)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4414065_code2763040.pdf?abstractid=4414065&mirid=1)) |
 | 4.19 | The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban ([arXiv](https://arxiv.org/abs/2304.09339)), ([PDF](https://arxiv.org/pdf/2304.09339.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09339)) |
 | 4.19 | CompressGPT: Decrease Token Usage by ~70% ([blog](https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/)) |
