@@ -18,11 +18,23 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.24 | GPT4Tools: Teaching LLM to Use Tools via Self-instruction - ([Project page](https://gpt4tools.github.io/)), ([Github](https://github.com/StevenGrove/GPT4Tools)), ([Video](https://www.youtube.com/watch?v=Qrj94ibQIT8)),  |
+| 4.24 | RAM: Relate-Anything-Model ([GitHub](https://github.com/Luodian/RelateAnything)), ([Demo](https://huggingface.co/spaces/mmlab-ntu/relate-anything-model)) |
+| 4.24 | [Chart-GPT 1.0](https://www.chartgpt.dev/) |
+| 4.22 | Finetuning Large Language Models ([Blog](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)) |
+| 4.21 | Emergent and Predictable Memorization in Large Language Models  ([arXiv](https://arxiv.org/abs/2304.11158)), ([PDF](https://arxiv.org/pdf/2304.11158.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11158)) |
+
+| 4.21 | CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval  ([arXiv](https://arxiv.org/abs/2304.11029)), ([PDF](https://arxiv.org/pdf/2304.11029.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11029)) |
+| 4.21 | Bard now helps you code with support for 20+ langs (Python, C++, JS, Go, etc.). ([Blog](https://blog.google/technology/ai/code-with-bard/)) |
+| 4.21 | Inducing anxiety in large language models increases exploration and bias ([arXiv](https://arxiv.org/abs/2304.11111)), ([PDF](https://arxiv.org/pdf/2304.11111.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11111)) |
 | 4.20 | [FinChat.io](https://finchat.io/chats/) - The Chat GPT for Finance |
 | 4.20 | LlamaAcademy: Teaching Llamas How to Code ([GitHub](https://github.com/danielgross/LlamaAcademy)) |
 | 4.20 | Announcing Google DeepMind: DeepMind + Brain = Google DeepMind ([Blog](https://www.deepmind.com/blog/announcing-google-deepmind)) |
 | 4.20 | "Can ChatGPT Diagnose Me?" How Large Language Models will Transform Clinical Care. Thursday, April 27th, 2023 ([RSVP](https://aimi.stanford.edu/events/can-chatgpt-diagnose-me-how-large-language-models-will-transform-clinical-care)) |
 | 4.20 | StableLM: Stability AI Language Models ([GitHub](https://github.com/stability-AI/stableLM/)), ([Blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)) |
+| 4.19 | Fundamental Limitations of Alignment in Large Language Models ([arXiv](https://arxiv.org/abs/2304.11082)), ([PDF](https://arxiv.org/pdf/2304.11082.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11082)) |
+| 4.19 | Scaling Transformer to 1M tokens and beyond with RMT ([arXiv](https://arxiv.org/abs/2304.11062)), ([PDF](https://arxiv.org/pdf/2304.11062.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11062)), ([Github](https://github.com/booydar/t5-experiments/tree/scaling-report)) |
+
 | 4.19 | Occupational Heterogeneity in Exposure to Generative AI - ([paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414065)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4414065_code2763040.pdf?abstractid=4414065&mirid=1)) |
 | 4.19 | The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban ([arXiv](https://arxiv.org/abs/2304.09339)), ([PDF](https://arxiv.org/pdf/2304.09339.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09339)) |
 | 4.19 | CompressGPT: Decrease Token Usage by ~70% ([blog](https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/)) |
@@ -37,6 +49,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.19 | StanfordBDHG HealthGPT ([tweet](https://twitter.com/varunshenoy_/status/1648374949537775616)), ([GitHub](https://github.com/StanfordBDHG/HealthGPT)) |
 | 4.19 | GPT4All-J : the first Apache-2 Licensed Chatbot that runs locally on your machine ([GitHub](https://github.com/nomic-ai/gpt4all)), ([PDF](https://static.nomic.ai/gpt4all/2023_GPT4All-J_Technical_Report_2.pdf)) | 
 | 4.19 | PersonalPrivate.AI - system to advise on new patent ideas ([tweet](https://twitter.com/BrianRoemmele/status/1648378237633073152)) |
+| 4.18 | Think Before You Act: Unified Policy for Interleaving Language Reasoning with Actions ([arXiv](https://arxiv.org/abs/2304.11063)), ([PDF](https://arxiv.org/pdf/2304.11063.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11063)) |
 | 4.18 | Nature - [Why open-source generative AI models are an ethical way forward for science](https://www.nature.com/articles/d41586-023-01295-4) |
 | 4.18 | Autonomous Agents(BabyAGI, AutoGPT) & Agent Simulations(CAMEL, Generative Agents) ([Blog](https://blog.langchain.dev/agents-round/)) |
 | 4.18 | AutoTaskFormer: Searching Vision Transformers for Multi-task Learning ([arXiv](https://arxiv.org/abs/2304.08756)), ([PDF](https://arxiv.org/pdf/2304.08756.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08756)) |
@@ -62,6 +75,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.17 | ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT ([arXiv](https://arxiv.org/abs/2304.08448)), ([PDF](https://arxiv.org/pdf/2304.08448.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.08448)) |
 | 4.17 | Meta - DINOv2: State-of-the-art computer vision models with self-supervised learning ([blog](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/)), ([GitHub](https://github.com/facebookresearch/dinov2)), ([Demo](https://dinov2.metademolab.com/)), ([arXiv](https://arxiv.org/abs/2304.07193)), ([PDF](https://arxiv.org/pdf/2304.07193.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07193)) |
 | 4.17 | [TypingMind](https://www.typingmind.com/) - A better UI for ChatGPT ([tweet](https://twitter.com/tdinh_me/status/1647820035820523523)) |
+| 4.16 | INSIGHT - an autonomous AI that can do medical research ([GitHub](https://github.com/oneil512/INSIGHT)) |
+| 4.16 | GPT4free - use ChatGPT, for free!! - ([GitHub](https://github.com/xtekky/gpt4free)) | 
 | 4.16 | Solving Math Word Problems by Combining Language Models With Symbolic Solvers ([arXiv](https://arxiv.org/abs/2304.09102)), ([PDF](https://arxiv.org/pdf/2304.09102.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.09102)) |
 | 4.16 | ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human ([arXiv](https://arxiv.org/abs/2304.07849)), ([PDF](https://arxiv.org/pdf/2304.07849.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07849)) |
 | 4.16 | Driving and suppressing the human language network using large language models ([bioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.16.537080v1)), ([PDF](https://www.biorxiv.org/content/10.1101/2023.04.16.537080v1.full.pdf)) |
@@ -150,6 +165,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.3 | [2023 Artificial Intelligence (AI) Index Report](https://aiindex.stanford.edu/report/) Published by Stanford Institute for Human-Centered Artificial Intelligence (HAI) |
 | 4.3 | The LLM playground - open source ([Github](https://github.com/nat/openplayground)) |
 | 4.3 | Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data ([arXiv](https://arxiv.org/abs/2304.01196)), ([PDF](https://arxiv.org/pdf/2304.01196.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01196)), ([GitHub](https://github.com/project-baize/baize)) |
+| 4.2 | GPTCache : A Library for Creating Semantic Cache for LLM Queries - ([GitHub]()) |
 | 4.2 | Better Language Models of Code through Self-Improvement ([arXiv](https://arxiv.org/abs/2304.01228)), ([PDF](https://arxiv.org/pdf/2304.01228.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01228)) |
 | 4.2 | Eight Things to Know about Large Language Models ([arXiv](https://arxiv.org/abs/2304.00612)), ([PDF](https://arxiv.org/pdf/2304.00612.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00612)) |
 | 4.2 | LLMMaps -- A Visual Metaphor for Stratified Evaluation of Large Language Models ([arXiv](https://arxiv.org/abs/2304.00457)), ([PDF](https://arxiv.org/pdf/2304.00457.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.00457)) |
@@ -331,7 +347,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 ## Additional Links
 * [Awesome-Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys) - A curated list of Generative Recommender Systems (Paper & Code)
-* [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers)
+* [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers) - [Github](https://github.com/dair-ai/Prompt-Engineering-Guide)
 * [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) 
 * [The Rundown](https://www.therundown.ai/)
 * [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
