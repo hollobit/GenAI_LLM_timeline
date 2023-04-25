@@ -20,6 +20,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |:-:|:--|
 | 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) | 
+| 4.24 | Benchmarking ChatGPT-4 on ACR Radiation Oncology In-Training Exam (TXIT): Potentials and Challenges for AI-Assisted Medical Education and Decision Making in Radiation Oncology ([arXiv](https://arxiv.org/abs/2304.11957)), ([PDF](https://arxiv.org/pdf/2304.11957.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11957)), ([GitHub](https://github.com/yixinghuang/chatgpt-benchmark-on-radiation-oncology)) |
+| 4.24 | Social AGI - SAMANTHA (Self-Reflective Artificial Mind Attuned to Naturalistic Thought and Human Adaptability) ([GitHub](https://github.com/Methexis-Inc/SocialAGI)) |
+| 4.24 | Segment Anything in Medical Images ([arXiv](https://arxiv.org/abs/2304.12306)), ([PDF](https://arxiv.org/pdf/2304.12306.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12306)) |
 | 4.24 | Segment Anything in 3D with NeRFs  ([arXiv](https://arxiv.org/abs/2304.12308)), ([PDF](https://arxiv.org/pdf/2304.12308.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12308)), ([project page](https://jumpat.github.io/SA3D/)) |
 | 4.24 | WizardLM: Empowering Large Language Models to Follow Complex Instructions ([arXiv](https://arxiv.org/abs/2304.12244)), ([PDF](https://arxiv.org/pdf/2304.12244.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12244)) |
 | 4.24 | Track Anything: Segment Anything Meets Videos ([arXiv](https://arxiv.org/abs/2304.11968)), ([PDF](https://arxiv.org/pdf/2304.11968.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11968)) |
