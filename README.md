@@ -18,15 +18,24 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) | 
+| 4.24 | Segment Anything in 3D with NeRFs  ([arXiv](https://arxiv.org/abs/2304.12308)), ([PDF](https://arxiv.org/pdf/2304.12308.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12308)), ([project page](https://jumpat.github.io/SA3D/)) |
+| 4.24 | WizardLM: Empowering Large Language Models to Follow Complex Instructions ([arXiv](https://arxiv.org/abs/2304.12244)), ([PDF](https://arxiv.org/pdf/2304.12244.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12244)) |
+| 4.24 | Track Anything: Segment Anything Meets Videos ([arXiv](https://arxiv.org/abs/2304.11968)), ([PDF](https://arxiv.org/pdf/2304.11968.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11968)) |
+| 4.24 | OpenAI Brand guidelines - ([blog](https://openai.com/brand)) |
 | 4.24 | GPT4Tools: Teaching LLM to Use Tools via Self-instruction - ([Project page](https://gpt4tools.github.io/)), ([Github](https://github.com/StevenGrove/GPT4Tools)), ([Video](https://www.youtube.com/watch?v=Qrj94ibQIT8)),  |
 | 4.24 | RAM: Relate-Anything-Model ([GitHub](https://github.com/Luodian/RelateAnything)), ([Demo](https://huggingface.co/spaces/mmlab-ntu/relate-anything-model)) |
 | 4.24 | [Chart-GPT 1.0](https://www.chartgpt.dev/) |
+| 4.23 | Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models ([arXiv](https://arxiv.org/abs/2304.11657)), ([PDF](https://arxiv.org/pdf/2304.11657.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11657)), ([GitHub](https://github.com/GasolSun36/Iter-CoT)) |
+| 4.23 | Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness ([arXiv](https://arxiv.org/abs/2304.11633)), ([PDF](https://arxiv.org/pdf/2304.11633.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11633)) |
 | 4.22 | Finetuning Large Language Models ([Blog](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)) |
+| 4.21 | Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition ([arXiv](https://arxiv.org/abs/2304.10977)), ([PDF](https://arxiv.org/pdf/2304.10977.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.10977)) |
 | 4.21 | Emergent and Predictable Memorization in Large Language Models  ([arXiv](https://arxiv.org/abs/2304.11158)), ([PDF](https://arxiv.org/pdf/2304.11158.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11158)) |
 | 4.21 | CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval  ([arXiv](https://arxiv.org/abs/2304.11029)), ([PDF](https://arxiv.org/pdf/2304.11029.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11029)) |
 | 4.21 | Bard now helps you code with support for 20+ langs (Python, C++, JS, Go, etc.). ([Blog](https://blog.google/technology/ai/code-with-bard/)) |
 | 4.21 | Inducing anxiety in large language models increases exploration and bias ([arXiv](https://arxiv.org/abs/2304.11111)), ([PDF](https://arxiv.org/pdf/2304.11111.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11111)) |
+| 4.20 | Why Does ChatGPT Fall Short in Answering Questions Faithfully? ([arXiv](https://arxiv.org/abs/2304.10513)), ([PDF](https://arxiv.org/pdf/2304.10513.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.10513)) |
 | 4.20 | [FinChat.io](https://finchat.io/chats/) - The Chat GPT for Finance |
 | 4.20 | LlamaAcademy: Teaching Llamas How to Code ([GitHub](https://github.com/danielgross/LlamaAcademy)) |
 | 4.20 | Announcing Google DeepMind: DeepMind + Brain = Google DeepMind ([Blog](https://www.deepmind.com/blog/announcing-google-deepmind)) |
@@ -158,6 +167,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
 | 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
+| 4.3 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling ([arXiv](https://arxiv.org/abs/2304.01373)), ([PDF](https://arxiv.org/pdf/2304.01373.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01373)) |
 | 4.3 | Vicuna-13B: An Open-Source ChatGPT Alternative That Impresses GPT-4 ([Blog](https://docs.kanaries.net/articles/vicuna-chatgpt-alternative)), ([GitHub](https://github.com/lm-sys/FastChat)) |
 | 4.3 | Baby AGI ([GitHub](https://github.com/yoheinakajima/babyagi)) |
 | 4.3 | [Berkley just released Koala-13B!](https://bair.berkeley.edu/blog/2023/04/03/koala/) ([Demo](https://chat.lmsys.org/?model=koala-13b)) |
