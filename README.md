@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.26 | [HuggingChat](https://huggingface.co/chat/) - the first open source alternative to ChatGPT |
 | 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) | 
 | 4.24 | Benchmarking ChatGPT-4 on ACR Radiation Oncology In-Training Exam (TXIT): Potentials and Challenges for AI-Assisted Medical Education and Decision Making in Radiation Oncology ([arXiv](https://arxiv.org/abs/2304.11957)), ([PDF](https://arxiv.org/pdf/2304.11957.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11957)), ([GitHub](https://github.com/yixinghuang/chatgpt-benchmark-on-radiation-oncology)) |
