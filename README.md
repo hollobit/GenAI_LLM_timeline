@@ -25,6 +25,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.25 | Patch-based 3D Natural Scene Generation from a Single Example ([arXiv](https://arxiv.org/abs/2304.12670)), ([PDF](https://arxiv.org/pdf/2304.12670.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12670)), ([Project page](http://weiyuli.xyz/Sin3DGen/))  |
 | 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) |
+| 4.24 | On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research ([arXiv](https://arxiv.org/abs/2304.12397)), ([PDF](https://arxiv.org/pdf/2304.12397.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12397)), ([GitHub](https://github.com/for-ai/black-box-api-challenges)) |
 | 4.24 | Towards Realistic Generative 3D Face Models ([arXiv](https://arxiv.org/abs/2304.12483)), ([PDF](https://arxiv.org/pdf/2304.12483.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12483)) |
 | 4.24 | TextMesh: Generation of Realistic 3D Meshes From Text Prompts ([arXiv](https://arxiv.org/abs/2304.12439)), ([PDF](https://arxiv.org/pdf/2304.12439.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12439)) |
 | 4.24 | Benchmarking ChatGPT-4 on ACR Radiation Oncology In-Training Exam (TXIT): Potentials and Challenges for AI-Assisted Medical Education and Decision Making in Radiation Oncology ([arXiv](https://arxiv.org/abs/2304.11957)), ([PDF](https://arxiv.org/pdf/2304.11957.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.11957)), ([GitHub](https://github.com/yixinghuang/chatgpt-benchmark-on-radiation-oncology)) |
@@ -356,6 +357,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	11.30	|	[OpenAI, ChatGPT service](https://openai.com/blog/chatgpt)	|
 |	11.28	|	[NeurIPS 2022 conference](https://nips.cc/Conferences/2022)	|
 |	11.17	|	[InstructPix2Pix: Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800)	|
+| 11.16 | Holistic Evaluation of Language Models ([arXiv](https://arxiv.org/abs/2211.09110)), ([PDF](https://arxiv.org/pdf/2211.09110.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2211.09110))	|
 |	10.30	|	[LlamaIndex (GPT Index) GitHub project](https://github.com/jerryjliu/llama_index)	|
 |	10.23	|	[LangChain GitHub project](https://github.com/hwchase17/langchain)	|
 |	9.19	|	[SEQUOIA - Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)	|
