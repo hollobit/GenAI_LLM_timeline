@@ -20,6 +20,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |:-:|:--|
 | 4.27 | Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT - ([ZDNet](https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/)), ([YouTube](https://www.youtube.com/watch?v=Y1-s37zrm1M)) |
 | 4.27 | LlamaIndex & Deep Lake for Financial Statement Analysis ([Blog](https://medium.com/@jerryjliu98/llamaindex-deep-lake-for-financial-statement-analysis-954f2b789c8e)) |
+| 4.26 | Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models ([arXiv](https://arxiv.org/abs/2304.13835)), ([PDF](https://arxiv.org/pdf/2304.13835.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13835)) |
 | 4.26 | MOSS, a 16B tool-augmented conversational language model ([Tweet](https://twitter.com/tianxiangsun/status/1650895260493705216)), ([GitHub](https://github.com/OpenLMLab/MOSS)) |
 | 4.26 | Exploring the Curious Case of Code Prompts ([arXiv](https://arxiv.org/abs/2304.13250)), ([PDF](https://arxiv.org/pdf/2304.13250.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13250)) |
 | 4.26 | Controllable Image Generation via Collage Representations ([arXiv](https://arxiv.org/abs/2304.13722)), ([PDF](https://arxiv.org/pdf/2304.13722.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13722)) |
@@ -36,6 +37,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.25 | Patch-based 3D Natural Scene Generation from a Single Example ([arXiv](https://arxiv.org/abs/2304.12670)), ([PDF](https://arxiv.org/pdf/2304.12670.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12670)), ([Project page](http://weiyuli.xyz/Sin3DGen/))  |
 | 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) |
+| 4.24 | AI, write an essay for me: A large-scale comparison of human-written versus ChatGPT-generated essays ([arXiv](https://arxiv.org/abs/2304.14276)), ([PDF](https://arxiv.org/pdf/2304.14276.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14276)) |
 | 4.24 | Pointersect: Neural Rendering with Cloud-Ray Intersection ([arXiv](https://arxiv.org/abs/2304.12390)), ([PDF](https://arxiv.org/pdf/2304.12390.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12390)), ([web](https://machinelearning.apple.com/research/pointersect)) |
 | 4.24 | A Cookbook of Self-Supervised Learning  ([arXiv](https://arxiv.org/abs/2304.12210)), ([PDF](https://arxiv.org/pdf/2304.12210.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12210)) |
 | 4.24 | On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research ([arXiv](https://arxiv.org/abs/2304.12397)), ([PDF](https://arxiv.org/pdf/2304.12397.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12397)), ([GitHub](https://github.com/for-ai/black-box-api-challenges)) |
