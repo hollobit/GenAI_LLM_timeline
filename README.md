@@ -18,13 +18,26 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.27 | Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT - ([ZDNet](https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/)), ([YouTube](https://www.youtube.com/watch?v=Y1-s37zrm1M)) |
+| 4.27 | LlamaIndex & Deep Lake for Financial Statement Analysis ([Blog](https://medium.com/@jerryjliu98/llamaindex-deep-lake-for-financial-statement-analysis-954f2b789c8e)) |
+| 4.26 | MOSS, a 16B tool-augmented conversational language model ([Tweet](https://twitter.com/tianxiangsun/status/1650895260493705216)), ([GitHub](https://github.com/OpenLMLab/MOSS)) |
+| 4.26 | Exploring the Curious Case of Code Prompts ([arXiv](https://arxiv.org/abs/2304.13250)), ([PDF](https://arxiv.org/pdf/2304.13250.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13250)) |
+| 4.26 | Controllable Image Generation via Collage Representations ([arXiv](https://arxiv.org/abs/2304.13722)), ([PDF](https://arxiv.org/pdf/2304.13722.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13722)) |
+| 4.26 | Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System ([arXiv](https://arxiv.org/abs/2304.13343)), ([PDF](https://arxiv.org/pdf/2304.13343.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13343)) |
+| 4.26 | TextDeformer: Geometry Manipulation using Text Guidance ([arXiv](https://arxiv.org/abs/2304.13348)), ([PDF](https://arxiv.org/pdf/2304.13348.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13348)) |
+| 4.26 | Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery ([arXiv](https://arxiv.org/abs/2304.13714)), ([PDF](https://arxiv.org/pdf/2304.13714.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13714)) |
+| 4.26 | Ray Conditioning: Trading Photo-consistency for Photo-realism in Multi-view Image Generation ([arXiv](https://arxiv.org/abs/2304.13681)), ([PDF](https://arxiv.org/pdf/2304.13681.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13681)), ([Project page](https://ray-cond.github.io/)) |
+| 4.26 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond ([arXiv](https://arxiv.org/abs/2304.13712)), ([PDF](https://arxiv.org/pdf/2304.13712.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13712)), ([GitHub](https://github.com/Mooler0410/LLMsPracticalGuide)) |
 | 4.26 | [HuggingChat](https://huggingface.co/chat/) - the first open source alternative to ChatGPT |
+| 4.25 | NVIDIA NeMo Guardrails helps enterprises keep applications built on large language models aligned with their safety and security requirements ([Blog](https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/)), ([GitHub](https://github.com/NVIDIA/NeMo-Guardrails)) |
 | 4.25 | Stable and low-precision training for large-scale vision-language models ([arXiv](https://arxiv.org/abs/2304.13013)), ([PDF](https://arxiv.org/pdf/2304.13013.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13013)) |
 | 4.25 | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head ([arXiv](https://arxiv.org/abs/2304.12995)), ([PDF](https://arxiv.org/pdf/2304.12995.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12995)) |
 | 4.25 | Answering Questions by Meta-Reasoning over Multiple Chains of Thought ([arXiv](https://arxiv.org/abs/2304.13007)), ([PDF](https://arxiv.org/pdf/2304.13007.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13007)) |
 | 4.25 | Patch-based 3D Natural Scene Generation from a Single Example ([arXiv](https://arxiv.org/abs/2304.12670)), ([PDF](https://arxiv.org/pdf/2304.12670.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12670)), ([Project page](http://weiyuli.xyz/Sin3DGen/))  |
 | 4.25 | Generative AI at Work - ([NBER](https://www.nber.org/papers/w31161)), ([PDF](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)) | 
 | 4.25 | [Chatbot Arena](https://chat.lmsys.org/?arena) |
+| 4.24 | Pointersect: Neural Rendering with Cloud-Ray Intersection ([arXiv](https://arxiv.org/abs/2304.12390)), ([PDF](https://arxiv.org/pdf/2304.12390.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12390)), ([web](https://machinelearning.apple.com/research/pointersect)) |
+| 4.24 | A Cookbook of Self-Supervised Learning  ([arXiv](https://arxiv.org/abs/2304.12210)), ([PDF](https://arxiv.org/pdf/2304.12210.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12210)) |
 | 4.24 | On the Challenges of Using Black-Box APIs for Toxicity Evaluation in Research ([arXiv](https://arxiv.org/abs/2304.12397)), ([PDF](https://arxiv.org/pdf/2304.12397.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12397)), ([GitHub](https://github.com/for-ai/black-box-api-challenges)) |
 | 4.24 | Towards Realistic Generative 3D Face Models ([arXiv](https://arxiv.org/abs/2304.12483)), ([PDF](https://arxiv.org/pdf/2304.12483.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12483)) |
 | 4.24 | TextMesh: Generation of Realistic 3D Meshes From Text Prompts ([arXiv](https://arxiv.org/abs/2304.12439)), ([PDF](https://arxiv.org/pdf/2304.12439.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12439)) |
@@ -106,6 +119,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.16 | Auto-evaluator - lightweight evaluation tool for question-answering using Langchain ([GitHub](https://github.com/PineappleExpress808/auto-evaluator)) | 
 | 4.16 | NYT - [Google Devising Radical Search Changes to Beat Back A.I. Rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html) ([Archive](https://archive.is/ti9Ns)) |
 | 4.15 | [Graphologue](https://twitter.com/HaijunXia/status/1646917869115166720) and [Sensecape](https://twitter.com/HaijunXia/status/1646919380704559104) by [UCSD Creativity Lab](https://creativity.ucsd.edu/ai) |
+| 4.15 | Tractable Control for Autoregressive Language Generation ([arXiv](https://arxiv.org/abs/2304.07438)), ([PDF](https://arxiv.org/pdf/2304.07438.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.07438)) |
 | 4.15 | Web LLM - language model chats directly onto web browsers ([Site](https://mlc.ai/web-llm/)), ([GitHub](https://github.com/mlc-ai/web-llm#how)) |
 | 4.15 | MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models ([Project page](https://minigpt-4.github.io/)). ([Paper]()), ([GitHub](https://github.com/Vision-CAIR/MiniGPT-4)), ([YouTube](https://www.youtube.com/watch?v=__tftoxpBAw)) |
 | 4.15 | OpenAssistant - The world's largest open-source replication of ChatGPT ([site](https://open-assistant.io/)), ([GitHub](https://github.com/LAION-AI/Open-Assistant)), ([Dataset - OASST1](https://huggingface.co/datasets/OpenAssistant/oasst1)), ([Paper](https://ykilcher.com/oa-paper)), ([YouTube](https://www.youtube.com/watch?v=ddG2fM9i4Kk&feature=youtu.be)), ([Reddit](https://www.reddit.com/r/OpenAssistant/)) |
@@ -382,6 +396,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
+<img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif">
 * [AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) 
 <img src="https://ai.v-gar.de/ml/transformer/timeline/timeline.png">
 * [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
