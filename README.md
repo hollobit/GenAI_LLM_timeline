@@ -267,6 +267,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.20	|	[Runway Gen-2](https://research.runwayml.com/gen2)	|
 |	3.20	|	[Paper: Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/abs/2303.13375)	|
 | 3.20 | [Making Music with GPT 4](https://www.youtube.com/watch?v=Cvl30rn03Hg) by [(Wavtool)](https://wavtool.com/) |
+| 3.19 | Simple LLM Finetuner ([GitHub](https://github.com/lxe/simple-llm-finetuner)) |
 | 3.18 | Data-centric Artificial Intelligence: A Survey ([arXiv](https://arxiv.org/abs/2303.10158)), ([PDF](https://arxiv.org/pdf/2303.10158.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10158)), ([GitHub](https://github.com/daochenzha/data-centric-AI)) |
 | 3.17 | Can AI-Generated Text be Reliably Detected? ([arXiv](https://arxiv.org/abs/2303.11156)), ([PDF](https://arxiv.org/pdf/2303.11156.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.11156)) |
 | 3.17 | GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models  ([arXiv](https://arxiv.org/abs/2303.10130)), ([PDF](https://arxiv.org/pdf/2303.10130.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.10130)) |
