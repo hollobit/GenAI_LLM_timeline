@@ -18,6 +18,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.27 | DataComp: In search of the next generation of multimodal datasets ([arXiv](https://arxiv.org/abs/2304.14108)), ([PDF](https://arxiv.org/pdf/2304.14108.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14108)), ([GitHub](https://github.com/mlfoundations/datacomp)), ([Project page](https://www.datacomp.ai/)) |
+| 4.27 | We're Afraid Language Models Aren't Modeling Ambiguity ([arXiv](https://arxiv.org/abs/2304.14399)), ([PDF](https://arxiv.org/pdf/2304.14399.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14399)) |
 | 4.27 | Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT - ([ZDNet](https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/)), ([YouTube](https://www.youtube.com/watch?v=Y1-s37zrm1M)) |
 | 4.27 | LlamaIndex & Deep Lake for Financial Statement Analysis ([Blog](https://medium.com/@jerryjliu98/llamaindex-deep-lake-for-financial-statement-analysis-954f2b789c8e)) |
 | 4.26 | Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models ([arXiv](https://arxiv.org/abs/2304.13835)), ([PDF](https://arxiv.org/pdf/2304.13835.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13835)) |
