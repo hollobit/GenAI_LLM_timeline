@@ -18,11 +18,11 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 4.29 | StableVicuna, the AI World’s First Open Source RLHF LLM Chatbot! - ([Blog](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)) |
-| 4.29 | DeepFloyd - a state-of-the-art text-to-image model ([Web](https://deepfloyd.ai/deepfloyd-if)), ([GitHub](https://github.com/deep-floyd/IF)), ([HuggingFace demo](https://huggingface.co/spaces/DeepFloyd/IF)) |
+| 4.29 | StableVicuna, the AI World’s First Open Source RLHF LLM Chatbot! - ([Blog](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)), ([Tweet](https://twitter.com/StabilityAI/status/1652026192193785856)) |
+| 4.29 | DeepFloyd - a state-of-the-art text-to-image model ([Web](https://deepfloyd.ai/deepfloyd-if)), ([GitHub](https://github.com/deep-floyd/IF)), ([HuggingFace demo](https://huggingface.co/spaces/DeepFloyd/IF)), ([Tweet](https://twitter.com/deepfloydai/status/1651983493717532673)) |
 | 4.29 | When Patient Questions Are Answered With Higher Quality and Empathy by ChatGPT than Physicians - ([Blog](https://erictopol.substack.com/p/when-patient-questions-are-answered)) |
 | 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
-| 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)) |
+| 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)), ([Tweet](https://twitter.com/lmsysorg/status/1652037026705985537)) |
 | 4.29 | Lamini, the LLM Engine for Rapidly Customizing Models - ([Blog](https://lamini.ai/blog/introducing-lamini)) |
 | 4.28 | JAMA - Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum - ([paper](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2804309?guestAccessKey=6d6e7fbf-54c1-49fc-8f5e-ae7ad3e02231&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=042823)) |
 | 4.27 | A Survey of Large Language Models - version 8 ([arXiv](https://arxiv.org/abs/2303.18223)), ([PDF](https://arxiv.org/pdf/2303.18223.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2303.18223)) |
