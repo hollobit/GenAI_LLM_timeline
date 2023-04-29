@@ -18,6 +18,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.29 | StableVicuna, the AI World’s First Open Source RLHF LLM Chatbot! - ([Blog](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)) |
+| 4.29 | DeepFloyd - a state-of-the-art text-to-image model ([Web](https://deepfloyd.ai/deepfloyd-if)), ([GitHub](https://github.com/deep-floyd/IF)), ([HuggingFace demo](https://huggingface.co/spaces/DeepFloyd/IF)) |
 | 4.29 | When Patient Questions Are Answered With Higher Quality and Empathy by ChatGPT than Physicians - ([Blog](https://erictopol.substack.com/p/when-patient-questions-are-answered)) |
 | 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
 | 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)) |
