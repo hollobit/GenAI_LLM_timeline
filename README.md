@@ -18,6 +18,12 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 4.29 | When Patient Questions Are Answered With Higher Quality and Empathy by ChatGPT than Physicians - ([Blog](https://erictopol.substack.com/p/when-patient-questions-are-answered)) |
+| 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
+| 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)) |
+| 4.29 | Lamini, the LLM Engine for Rapidly Customizing Models - ([Blog](https://lamini.ai/blog/introducing-lamini)) |
+| 4.28 | JAMA - Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum - ([paper](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2804309?guestAccessKey=6d6e7fbf-54c1-49fc-8f5e-ae7ad3e02231&utm_source=For_The_Media&utm_medium=referral&utm_campaign=ftm_links&utm_content=tfl&utm_term=042823)) |
+| 4.27 | LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions ([arXiv](https://arxiv.org/abs/2304.14402)), ([PDF](https://arxiv.org/pdf/2304.14402.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14402)), ([GitHub](https://github.com/m)) |
 | 4.27 | DataComp: In search of the next generation of multimodal datasets ([arXiv](https://arxiv.org/abs/2304.14108)), ([PDF](https://arxiv.org/pdf/2304.14108.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14108)), ([GitHub](https://github.com/mlfoundations/datacomp)), ([Project page](https://www.datacomp.ai/)) |
 | 4.27 | We're Afraid Language Models Aren't Modeling Ambiguity ([arXiv](https://arxiv.org/abs/2304.14399)), ([PDF](https://arxiv.org/pdf/2304.14399.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14399)) |
 | 4.27 | Boston Dynamics robot dog can answer your questions now, thanks to ChatGPT - ([ZDNet](https://www.zdnet.com/article/boston-dynamics-robot-dog-can-answer-your-questions-now-thanks-to-chatgpt/)), ([YouTube](https://www.youtube.com/watch?v=Y1-s37zrm1M)) |
@@ -196,7 +202,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.4 | One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era ([arXiv](https://arxiv.org/abs/2304.06488)), ([PDF](https://arxiv.org/pdf/2304.06488.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.06488)) |
 | 4.4 | [LangCahin raised $10 million in seed funding](https://blog.langchain.dev/announcing-our-10m-seed-round-led-by-benchmark/) |
 | 4.4 | Kandinsky 2.1 ([GitHub](https://github.com/ai-forever/Kandinsky-2)), ([HuggingFace](https://huggingface.co/ai-forever/Kandinsky_2.1)) |
-| 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights))
+| 4.4 | The weights of Vicuna-13B released ([WebUI demo](https://chat.lmsys.org/)) ([GitHub](https://github.com/lm-sys/FastChat/#vicuna-weights)) |
 | 4.4 | LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01933)), ([PDF](https://arxiv.org/pdf/2304.01933.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01933)), ([GitHub](https://github.com/AGI-Edgerunners/LLM-Adapters)) |
 | 4.4 | Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models ([arXiv](https://arxiv.org/abs/2304.01852)), ([PDF](https://arxiv.org/pdf/2304.01852.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01852)) |
 | 4.3 | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling ([arXiv](https://arxiv.org/abs/2304.01373)), ([PDF](https://arxiv.org/pdf/2304.01373.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.01373)) |
