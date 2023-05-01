@@ -32,6 +32,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
 | 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)), ([Tweet](https://twitter.com/lmsysorg/status/1652037026705985537)) |
 | 4.29 | Lamini, the LLM Engine for Rapidly Customizing Models - ([Blog](https://lamini.ai/blog/introducing-lamini)) |
+| 4.28 | We Interviewed the Engineer Google Fired for Saying Its AI Had Come to Life ([Futurism](https://futurism.com/blake-lemoine-google-interview)) |
 | 4.28 | LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model ([arXiv](https://arxiv.org/abs/2304.15010)), ([PDF](https://arxiv.org/pdf/2304.15010.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.15010)), ([GitHub](https://github.com/ZrrSkywalker/LLaMA-Adapter)) |
 | 4.28 | MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks ([arXiv](https://arxiv.org/abs/2304.14979)), ([PDF](https://arxiv.org/pdf/2304.14979.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14979)) |
 | 4.28 | Are Emergent Abilities of Large Language Models a Mirage? ([arXiv](https://arxiv.org/abs/2304.15004)), ([PDF](https://arxiv.org/pdf/2304.15004.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.15004)) |
@@ -65,6 +66,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.26 | Ray Conditioning: Trading Photo-consistency for Photo-realism in Multi-view Image Generation ([arXiv](https://arxiv.org/abs/2304.13681)), ([PDF](https://arxiv.org/pdf/2304.13681.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13681)), ([Project page](https://ray-cond.github.io/)) |
 | 4.26 | Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond ([arXiv](https://arxiv.org/abs/2304.13712)), ([PDF](https://arxiv.org/pdf/2304.13712.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13712)), ([GitHub](https://github.com/Mooler0410/LLMsPracticalGuide)) |
 | 4.26 | [HuggingChat](https://huggingface.co/chat/) - the first open source alternative to ChatGPT |
+| 4.25 | [Time](https://time.com/6273743/thinking-that-could-doom-us-with-ai/) - The 'Don't Look Up' Thinking That Could Doom Us With AI ([Archive](https://archive.is/gMi8q)) |
 | 4.25 | AI-assisted coding: Experiments with GPT-4 ([arXiv](https://arxiv.org/abs/2304.13187)), ([PDF](https://arxiv.org/pdf/2304.13187.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13187)) |
 | 4.25 | NVIDIA NeMo Guardrails helps enterprises keep applications built on large language models aligned with their safety and security requirements ([Blog](https://blogs.nvidia.com/blog/2023/04/25/ai-chatbot-guardrails-nemo/)), ([GitHub](https://github.com/NVIDIA/NeMo-Guardrails)) |
 | 4.25 | Stable and low-precision training for large-scale vision-language models ([arXiv](https://arxiv.org/abs/2304.13013)), ([PDF](https://arxiv.org/pdf/2304.13013.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.13013)) |
