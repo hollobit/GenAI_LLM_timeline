@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.1 | [NYT](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html) - ‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead ([Archive](https://archive.is/TgPyC#selection-331.0-331.63)) |
 | 4.30 | Understanding Parameter-Efficient LLM Finetuning: Prompt Tuning And Prefix Tuning ([Blog](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)) |
 | 4.30 | A brief history of LLaMA models ([Blog](https://agi-sphere.com/llama-models/)) |
 | 4.30 | BabyBeeAGI: Task Management and Functionality Expansion on top of BabyAGI ([blog](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)), ([Replit](https://replit.com/@YoheiNakajima/BabyBeeAGI?v=1)), ([GitHub](https://github.com/yoheinakajima/babyagi)), ([OG BaybyAGI](https://replit.com/@YoheiNakajima/babyagi)) |
