@@ -18,6 +18,13 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.3 | Mojo 🔥 — a new programming language for all AI developers ([Web](https://www.modular.com/mojo)), ([tweet](https://twitter.com/Modular_AI/status/1653436642248781825)) |
+| 5.3 | #NeurIPS2023 Creative AI Track ([Blog](https://blog.neurips.cc/2023/05/02/call-for-neurips-creative-ai-track/)), ([Call for proposal](https://neurips.cc/Conferences/2023/CallForCreativeAI)) |
+| 5.3 | [HeyPi](https://heypi.com/) - Personal AI |
+| 5.2 | Bark - Text-Prompted Generative Audio Model ([GitHub](https://github.com/suno-ai/bark)) |
+| 5.2 | Jsonformer: A Bulletproof Way to Generate Structured JSON from Language Models ([GitHub](https://github.com/1rgs/jsonformer)) |
+| 5.1 | Poisoning Language Models During Instruction Tuning ([arXiv](https://arxiv.org/abs/2305.00944)), ([PDF](https://arxiv.org/pdf/2305.00944.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.00944)) |
+| 5.1 | What Do Self-Supervised Vision Transformers Learn? ([arXiv](https://arxiv.org/abs/2305.00729)), ([PDF](https://arxiv.org/pdf/2305.00729.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.00729)) |
 | 5.1 | [NYT](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html) - ‘The Godfather of A.I.’ Leaves Google and Warns of Danger Ahead ([Archive](https://archive.is/TgPyC#selection-331.0-331.63)) |
 | 4.30 | Understanding Parameter-Efficient LLM Finetuning: Prompt Tuning And Prefix Tuning ([Blog](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)) |
 | 4.30 | A brief history of LLaMA models ([Blog](https://agi-sphere.com/llama-models/)) |
@@ -33,6 +40,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
 | 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)), ([Tweet](https://twitter.com/lmsysorg/status/1652037026705985537)) |
 | 4.29 | Lamini, the LLM Engine for Rapidly Customizing Models - ([Blog](https://lamini.ai/blog/introducing-lamini)) |
+| 4.28 | ResiDual: Transformer with Dual Residual Connections ([arXiv](https://arxiv.org/abs/2304.14802)), ([PDF](https://arxiv.org/pdf/2304.14802.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14802)), ([GitHub](https://github.com/microsoft/ResiDual)) |
+| 4.28 | Causal Reasoning and Large Language Models: Opening a New Frontier for Causality ([arXiv](https://arxiv.org/abs/2305.00050)), ([PDF](https://arxiv.org/pdf/2305.00050.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.00050)) |
 | 4.28 | We Interviewed the Engineer Google Fired for Saying Its AI Had Come to Life ([Futurism](https://futurism.com/blake-lemoine-google-interview)) |
 | 4.28 | LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model ([arXiv](https://arxiv.org/abs/2304.15010)), ([PDF](https://arxiv.org/pdf/2304.15010.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.15010)), ([GitHub](https://github.com/ZrrSkywalker/LLaMA-Adapter)) |
 | 4.28 | MLCopilot: Unleashing the Power of Large Language Models in Solving Machine Learning Tasks ([arXiv](https://arxiv.org/abs/2304.14979)), ([PDF](https://arxiv.org/pdf/2304.14979.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14979)) |
@@ -361,6 +370,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 2.23 | Radiology - [ChatGPT and the Future of Medical Writing](https://pubs.rsna.org/doi/10.1148/radiol.223312) |
 |	2.23	|	[Instagram co-founders launch AI-powered news app Artifact on Android, iOS](https://www.thehindubusinessline.com/info-tech/social-media/instagram-co-founders-launch-ai-powered-news-app-artifact-on-android-ios/article66543779.ece)	|
 |	2.23	|	[Notion.AI launch](http://notion.ai/)	|
+| 2.22 | The alignment problem from a deep learning perspective ([arXiv](https://arxiv.org/abs/2209.00626)), ([PDF](https://arxiv.org/pdf/2209.00626.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2209.00626))	|
 |	2.22	|	[Microsoft: Bing announcement on mobile and Skype](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype)	|
 |	2.22	|	Science - [As scientists explore AI-written text, journals hammer out policies](https://www.science.org/content/article/scientists-explore-ai-written-text-journals-hammer-policies)	|
 | 2.21 | BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT ([arXiv](https://arxiv.org/abs/2304.12298)), ([PDF](https://arxiv.org/pdf/2304.12298.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.12298))	|
