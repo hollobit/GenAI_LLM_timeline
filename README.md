@@ -48,6 +48,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.29 | BMTools - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins ([GitHub](https://github.com/openbmb/bmtools)) |
 | 4.29 | FastChat-T5 ([GitHub](https://github.com/lm-sys/FastChat#FastChat-T5)), ([Tweet](https://twitter.com/lmsysorg/status/1652037026705985537)) |
 | 4.29 | Lamini, the LLM Engine for Rapidly Customizing Models - ([Blog](https://lamini.ai/blog/introducing-lamini)) |
+| 4.28 | EU proposes new copyright rules for generative AI - ([Reuter](https://www.reuters.com/technology/eu-lawmakers-committee-reaches-deal-artificial-intelligence-act-2023-04-27/)), ([Economic times](https://www.reuters.com/technology/eu-lawmakers-committee-reaches-deal-artificial-intelligence-act-2023-04-27/)) | 
 | 4.28 | ResiDual: Transformer with Dual Residual Connections ([arXiv](https://arxiv.org/abs/2304.14802)), ([PDF](https://arxiv.org/pdf/2304.14802.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.14802)), ([GitHub](https://github.com/microsoft/ResiDual)) |
 | 4.28 | Causal Reasoning and Large Language Models: Opening a New Frontier for Causality ([arXiv](https://arxiv.org/abs/2305.00050)), ([PDF](https://arxiv.org/pdf/2305.00050.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.00050)) |
 | 4.28 | We Interviewed the Engineer Google Fired for Saying Its AI Had Come to Life ([Futurism](https://futurism.com/blake-lemoine-google-interview)) |
