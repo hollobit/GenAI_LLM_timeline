@@ -18,6 +18,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.3 | Comprehensive LLM model zoo - Ecosystem Graphs to track the foundation model ecosystem assets (datasets, models, and applications) and their relationship ([Table](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)), ([Graph](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=graph)), ([GitHub](https://github.com/stanford-crfm/ecosystem-graphs)) |
+| 5.3 | GPTutor: a ChatGPT-powered programming tool for code explanation ([arXiv](https://arxiv.org/abs/2305.01863)), ([PDF](https://arxiv.org/pdf/2305.01863.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.01863)) |
 | 5.3 | Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art - ([Forbes](https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/)) |
 | 5.3 | Mojo 🔥 — a new programming language for all AI developers ([Web](https://www.modular.com/mojo)), ([tweet](https://twitter.com/Modular_AI/status/1653436642248781825)), ([GitHub](https://github.com/modularml/mojo)) |
 | 5.3 | #NeurIPS2023 Creative AI Track ([Blog](https://blog.neurips.cc/2023/05/02/call-for-neurips-creative-ai-track/)), ([Call for proposal](https://neurips.cc/Conferences/2023/CallForCreativeAI)) |
