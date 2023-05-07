@@ -47,6 +47,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 5.3 | Mojo 🔥 — a new programming language for all AI developers ([Web](https://www.modular.com/mojo)), ([tweet](https://twitter.com/Modular_AI/status/1653436642248781825)), ([GitHub](https://github.com/modularml/mojo)) |
 | 5.3 | #NeurIPS2023 Creative AI Track ([Blog](https://blog.neurips.cc/2023/05/02/call-for-neurips-creative-ai-track/)), ([Call for proposal](https://neurips.cc/Conferences/2023/CallForCreativeAI)) |
 | 5.3 | [HeyPi](https://heypi.com/) - Personal AI |
+| 5.2 | Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl ([arXiv](https://arxiv.org/abs/2305.01582)), ([PDF](https://arxiv.org/pdf/2305.01582.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.01582)) |
 | 5.2 | DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling ([arXiv](https://arxiv.org/abs/2305.01649)), ([PDF](https://arxiv.org/pdf/2305.01649.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.01649)) |
 | 5.2 | Generalizing Dataset Distillation via Deep Generative Prior ([arXiv](https://arxiv.org/abs/2305.01257)), ([PDF](https://arxiv.org/pdf/2305.01257.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.01257)) |
 | 5.2 | Multimodal Procedural Planning via Dual Text-Image Prompting ([arXiv](https://arxiv.org/abs/2305.01795)), ([PDF](https://arxiv.org/pdf/2305.01795.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.01795)), ([GitHub](https://github.com/YujieLu10/TIP)) |
