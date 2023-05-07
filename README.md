@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.4 | Reddit - [OpenAI lost $540M in 2022, will need $100B more to develop AGI, says Altman. My breakdown on why this matters and what it means for other AI startups](https://www.reddit.com/r/ChatGPT/comments/1383obf/openai_lost_540m_in_2022_will_need_100b_more_to/) |
 | 5.5 | StarCoderBase: trained on 1T tokens in 80+ programming languages ([Huggingface](https://huggingface.co/bigcode/starcoderbase)) |
 | 5.5 | Dolphin: General video interaction platform based on LLMs ([Demo](https://da2c48f45ee053ef87.gradio.live/)), ([GitHub](https://github.com/kaleido-lab/dolphin)), ([Tweet](https://twitter.com/_akhaliq)) | 
 | 5.5 | MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs ([Blog](https://www.mosaicml.com/blog/mpt-7b)), Commercially usable: ([MPT-7B](https://huggingface.co/mosaicml/mpt-7b))  ([MPT-7B-Instruct](https://huggingface.co/mosaicml/mpt-7b-instruct)), ([MPT-7B-StoryWriter](https://huggingface.co/mosaicml/mpt-7b-storywriter)), For non-commerical use: ([MPT-7B-Chat](https://huggingface.co/mosaicml/mpt-7b-chat)) |
