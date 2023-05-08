@@ -492,6 +492,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [AI Incident Database](https://incidentdatabase.ai/)
 * [Daily papers by AK](https://huggingface.co/papers)
 * [Awesome-Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys) - A curated list of Generative Recommender Systems (Paper & Code)
 * [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers) - [Github](https://github.com/dair-ai/Prompt-Engineering-Guide)
