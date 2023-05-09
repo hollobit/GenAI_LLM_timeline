@@ -18,6 +18,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.10 | [Humata.ai](https://www.humata.ai/) - Ask AI anything about your files ([Tweet](https://twitter.com/hasantoxr/status/1655963736149045249)) |
+| 5.10 | IMAGEBIND: One Embedding Space To Bind Them All ([PDF](https://dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf)), ([Blog](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)), ([GitHub](https://github.com/facebookresearch/ImageBind)) |
+| 5.9 | OpenAI - Language models can explain neurons in language models ([Blog](https://openai.com/research/language-models-can-explain-neurons-in-language-models)), ([Paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)), ([GitHub](https://github.com/openai/automated-interpretability)), ([Tweet](https://twitter.com/OpenAI/status/1655982364273831936)) |
 | 5.9 | AvatarReX: Real-time Expressive Full-body Avatars ([arXiv](https://arxiv.org/abs/2305.04789)), ([PDF](https://arxiv.org/pdf/2305.04789.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04789)) | 
 | 5.8 | We had ChatGPT take the CPA exam — and it failed ([news](https://www.accountingtoday.com/news/we-ran-the-cpa-exam-through-chatgpt-and-it-failed-miserably)) |
 | 5.8 | Comparison of GPT-3.5, GPT-4, and human user performance on a practice ophthalmology written examination ([Nature](https://www.nature.com/articles/s41433-023-02564-2)) |
