@@ -19,6 +19,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 5.9 | AvatarReX: Real-time Expressive Full-body Avatars ([arXiv](https://arxiv.org/abs/2305.04789)), ([PDF](https://arxiv.org/pdf/2305.04789.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04789)) | 
+| 5.8 | We had ChatGPT take the CPA exam — and it failed ([news](https://www.accountingtoday.com/news/we-ran-the-cpa-exam-through-chatgpt-and-it-failed-miserably)) |
+| 5.8 | Comparison of GPT-3.5, GPT-4, and human user performance on a practice ophthalmology written examination ([Nature](https://www.nature.com/articles/s41433-023-02564-2)) |
 | 5.8 | MultiModal-GPT: A Vision and Language Model for Dialogue with Humans  ([arXiv](https://arxiv.org/abs/2305.04790)), ([PDF](https://arxiv.org/pdf/2305.04790.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04790)), ([Project page](https://github.com/open-mmlab/Multimodal-GPT)), ([Paper page](https://huggingface.co/papers/2305.04790)) |
 | 5.7 | Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models ([arXiv](https://arxiv.org/abs/2305.04091)), ([PDF](https://arxiv.org/pdf/2305.04091.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04091)), ([GitHub](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)) |
 | 5.7 | X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages ([arXiv](https://arxiv.org/abs/2305.04160)), ([PDF](https://arxiv.org/pdf/2305.04160.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04160)) |
