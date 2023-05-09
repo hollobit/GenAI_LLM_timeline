@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.7 | Yoshua Bengio - AI Scientists: Safe and Useful AI? ([Blog](https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai/)) |
 | 5.5 | privateGPT - Interact privately with your documents using the power of GPT, 100% privately, no data leaks ([GitHub](https://github.com/imartinez/privateGPT)) |
 | 5.5 |  A list of open LLMs available for commercial use - ([GitHub](https://github.com/eugeneyan/open-llms)) |
 | 5.5 | A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding ([arXiv](https://arxiv.org/abs/2305.03668)), ([PDF](https://arxiv.org/pdf/2305.03668.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.03668)), ([GitHub](https://github.com/Luodian/Otter)), ([Papper page](https://huggingface.co/papers/2305.03668)) |
