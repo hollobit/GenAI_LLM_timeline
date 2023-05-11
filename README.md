@@ -298,6 +298,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.11 | ChemCrow: Augmenting large-language models with chemistry tools ([arXiv](https://arxiv.org/abs/2304.05376)), ([PDF](https://arxiv.org/pdf/2304.05376.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05376)) |
 | 4.11 | [LangChainJS Support for Multiple JS Environments](https://blog.langchain.dev/js-envs/) ([tweet](https://twitter.com/LangChainAI/status/1645831073358815232)) |
 | 4.11 | Teaching Large Language Models to Self-Debug ([arXiv](https://arxiv.org/abs/2304.05128)), ([PDF](https://arxiv.org/pdf/2304.05128.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.05128)) |
+| 4.10 | Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models ([Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4429709_code2675263.pdf?abstractid=4412788&mirid=1)) |
 | 4.10 | On the Possibilities of AI-Generated Text Detection ([arXiv](https://arxiv.org/abs/2304.04736)), ([PDF](https://arxiv.org/pdf/2304.04736.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04736)) |
 | 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI)) |
 | 4.9 | BabyAGI JS - ([GitHub](https://github.com/ericciarla/babyagijs)) |
