@@ -18,6 +18,10 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.11 | Huggingface Transformers Agent ([API](https://huggingface.co/docs/transformers/transformers_agents)) |
+| 5.11 | Google PaLM 2 Technical Report ([PDF](https://ai.google/static/documents/palm2techreport.pdf)), ([Blog](https://ai.google/discover/palm2)) |
+| 5.11 | Google MusicLM ([Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm)), ([news](https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/)) |
+| 5.10 | MPT-7B StoryWriter- new open-source language model that can handle really long inputs ([Replicate](https://replicate.com/replicate/mpt-7b-storywriter)) |
 | 5.10 | [Humata.ai](https://www.humata.ai/) - Ask AI anything about your files ([Tweet](https://twitter.com/hasantoxr/status/1655963736149045249)) |
 | 5.10 | IMAGEBIND: One Embedding Space To Bind Them All ([PDF](https://dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf)), ([Blog](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/)), ([GitHub](https://github.com/facebookresearch/ImageBind)) |
 | 5.9 | Towards Building the Federated GPT: Federated Instruction Tuning ([arXiv](https://arxiv.org/abs/2305.05644)), ([PDF](https://arxiv.org/pdf/2305.05644.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.05644)), ([GitHub](https://github.com/JayZhang42/FederatedGPT-Shepherd)) |
