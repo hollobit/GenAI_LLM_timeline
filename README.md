@@ -18,9 +18,28 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.14 | How to run Llama 13B with a 6GB graphics card ([Gist](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)) |
+| 5.13 | PCAST Working Group on Generative AI Invites Public Input ([Blog](https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/)) | 
+| 5.12 | AI FILM -The Carnival of the Ages - Runway gen2 ([Youtube](https://www.youtube.com/watch?v=q0EDV1HGbrc)), ([Reddit](https://www.reddit.com/r/aivideo/comments/13eh1rq/carnival_of_ages_text_to_video_runway_gen2/)) | 
+| 5.11 | Active Retrieval Augmented Generation  ([arXiv](https://arxiv.org/abs/2305.06983)), ([PDF](https://arxiv.org/pdf/2305.06983.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06983)), ([GitHub](https://github.com/jzbjyb/FLARE)![GitHub Repo stars](https://img.shields.io/github/stars/jzbjyb/FLARE?style=social)) |
+| 5.11 | Anthropic - Introducing 100K Context Windows ([Blog](https://www.anthropic.com/index/100k-context-windows)) |
+| 5.11 | CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model ([arXiv](https://arxiv.org/abs/2305.06908)), ([PDF](https://arxiv.org/pdf/2305.06908.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06908)) |
+| 5.11 | Exploiting Diffusion Prior for Real-World Image Super-Resolution ([arXiv](https://arxiv.org/abs/2305.07015)), ([PDF](https://arxiv.org/pdf/2305.07015.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.07015)), ([Project page](https://iceclear.github.io/projects/stablesr/)) |
+| 5.11 | Domain Incremental Lifelong Learning in an Open World ([arXiv](https://arxiv.org/abs/2305.06555)), ([PDF](https://arxiv.org/pdf/2305.06555.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06555)) |
+| 5.11 | Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting ([arXiv](https://arxiv.org/abs/2305.07004)), ([PDF](https://arxiv.org/pdf/2305.07004.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.07004)) |
+| 5.11 | Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers ([arXiv](https://arxiv.org/abs/2305.07011)), ([PDF](https://arxiv.org/pdf/2305.07011.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.07011)) |
+| 5.11 | EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention ([arXiv](https://arxiv.org/abs/2305.07027)), ([PDF](https://arxiv.org/pdf/2305.07027.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.07027)), ([GitHub](
+https://github.com/microsoft/Cream/tree/main/EfficientViT)![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Cream?style=social)) |
+| 5.11 | InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning ([arXiv](https://arxiv.org/abs/2305.06500)), ([PDF](https://arxiv.org/pdf/2305.06500.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06500)), ([GitHub](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)) |
 | 5.11 | Huggingface Transformers Agent ([API](https://huggingface.co/docs/transformers/transformers_agents)) |
 | 5.11 | Google PaLM 2 Technical Report ([PDF](https://ai.google/static/documents/palm2techreport.pdf)), ([Blog](https://ai.google/discover/palm2)) |
 | 5.11 | Google MusicLM ([Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm)), ([news](https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/)) |
+| 5.10 | HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion ([arXiv](https://arxiv.org/abs/2305.06356)), ([PDF](https://arxiv.org/pdf/2305.06356.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06356)) |
+| 5.10 | VideoChat: Chat-Centric Video Understanding ([arXiv](https://arxiv.org/abs/2305.06355)), ([PDF](https://arxiv.org/pdf/2305.06355.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06355)) |
+| 5.10 | Bot or Human? Detecting ChatGPT Imposters with A Single Question ([arXiv](https://arxiv.org/abs/2305.06424)), ([PDF](https://arxiv.org/pdf/2305.06424.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06424)) |
+| 5.10 | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction ([arXiv](https://arxiv.org/abs/2305.06474)), ([PDF](https://arxiv.org/pdf/2305.06474.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06474)) |
+| 5.10 | Relightify: Relightable 3D Faces from a Single Image via Diffusion Models ([arXiv](https://arxiv.org/abs/2305.06077)), ([PDF](https://arxiv.org/pdf/2305.06077.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06077)) |
+| 5.10 | Similarity of Neural Network Models: A Survey of Functional and Representational Measures ([arXiv](https://arxiv.org/abs/2305.06329)), ([PDF](https://arxiv.org/pdf/2305.06329.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06329)) |
 | 5.10 | Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era  ([arXiv](https://arxiv.org/abs/2305.06131)), ([PDF](https://arxiv.org/pdf/2305.06131.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.06131)) |
 | 5.10 | MPT-7B StoryWriter- new open-source language model that can handle really long inputs ([Replicate](https://replicate.com/replicate/mpt-7b-storywriter)) |
 | 5.10 | [Humata.ai](https://www.humata.ai/) - Ask AI anything about your files ([Tweet](https://twitter.com/hasantoxr/status/1655963736149045249)) |
@@ -527,6 +546,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/04/14 PM19:40** KST	|
 
 ## Additional Links
+* [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 * [AI Incident Database](https://incidentdatabase.ai/)
 * [Daily papers by AK](https://huggingface.co/papers)
 * [Awesome-Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys) - A curated list of Generative Recommender Systems (Paper & Code)
