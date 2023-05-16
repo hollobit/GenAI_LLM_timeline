@@ -18,6 +18,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.16 | NYT - [Microsoft Says New A.I. Shows Signs of Human Reasoning](https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html) | 
+| 5.15 | Symbol tuning improves in-context learning in language models ([arXiv](https://arxiv.org/abs/2305.08298)), ([PDF](https://arxiv.org/pdf/2305.08298.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08298)) |
+| 5.15 | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca ([arXiv](https://arxiv.org/abs/2305.08809)), ([PDF](https://arxiv.org/pdf/2305.08809.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08809)) |
 | 5.15 | DarkBERT: A Language Model for the Dark Side of the Internet ([arXiv](https://arxiv.org/abs/2305.08596)), ([PDF](https://arxiv.org/pdf/2305.08596.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08596)) | 
 | 5.15 | AutoRecon: Automated 3D Object Discovery and Reconstruction ([arXiv](https://arxiv.org/abs/2305.08810)), ([PDF](https://arxiv.org/pdf/2305.08810.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08810)), ([Project page](https://zju3dv.github.io/autorecon/)) | 
 | 5.15 | RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs ([arXiv](https://arxiv.org/abs/2305.08844)), ([PDF](https://arxiv.org/pdf/2305.08844.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08844)) | 
