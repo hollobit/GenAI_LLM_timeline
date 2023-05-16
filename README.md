@@ -18,6 +18,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.16 | WATCH LIVE: OpenAI CEO Sam Altman testifies on artificial intelligence before Senate committee ([Youtube](https://www.youtube.com/watch?v=P_ACcQxJIsg)) |
 | 5.16 | NYT - [Microsoft Says New A.I. Shows Signs of Human Reasoning](https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html) | 
 | 5.15 | Symbol tuning improves in-context learning in language models ([arXiv](https://arxiv.org/abs/2305.08298)), ([PDF](https://arxiv.org/pdf/2305.08298.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08298)) |
 | 5.15 | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca ([arXiv](https://arxiv.org/abs/2305.08809)), ([PDF](https://arxiv.org/pdf/2305.08809.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08809)) |
