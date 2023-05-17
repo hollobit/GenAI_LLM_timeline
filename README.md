@@ -19,6 +19,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 5.17 | SoundStorm: Efficient Parallel Audio Generation ([arXiv](https://arxiv.org/abs/2305.09636)), ([PDF](https://arxiv.org/pdf/2305.09636.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09636)), ([Project page](https://google-research.github.io/seanet/soundstorm/examples/)) | 
+| 5.16 | ChatGPT versus human in generating medical graduate exam questions – An international prospective study ([medRxiv](https://www.medrxiv.org/content/10.1101/2023.05.13.23289943v1)), ([PDF](https://www.medrxiv.org/content/10.1101/2023.05.13.23289943v1.full.pdf)) |
 | 5.16 | Understanding 3D Object Interaction from a Single Image ([arXiv](https://arxiv.org/abs/2305.09664)), ([PDF](https://arxiv.org/pdf/2305.09664.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09664)), ([project page](https://jasonqsy.github.io/3DOI/)), ([demo](https://huggingface.co/spaces/shengyi-qian/3DOI)), ([video](https://www.youtube.com/watch?v=YDIL93XxHyk)), ([GitHub](https://github.com/JasonQSY/3DOI)) |
 | 5.16 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data ([arXiv](https://arxiv.org/abs/2305.09645)), ([PDF](https://arxiv.org/pdf/2305.09645.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09645)) |
 | 5.16 | FitMe: Deep Photorealistic 3D Morphable Model Avatars ([arXiv](https://arxiv.org/abs/2305.09641)), ([PDF](https://arxiv.org/pdf/2305.09641.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09641)), ([project page](https://alexlattas.com/fitme)) |
@@ -355,6 +356,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 4.10 | Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models ([Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)), ([PDF](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4429709_code2675263.pdf?abstractid=4412788&mirid=1)) |
 | 4.10 | On the Possibilities of AI-Generated Text Detection ([arXiv](https://arxiv.org/abs/2304.04736)), ([PDF](https://arxiv.org/pdf/2304.04736.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04736)) |
 | 4.10 | OpenAGI: When LLM Meets Domain Experts ([arXiv](https://arxiv.org/abs/2304.04370)), ([PDF](https://arxiv.org/pdf/2304.04370.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2304.04370)), ([GitHub](https://github.com/agiresearch/OpenAGI)![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)) |
+| 4.9 | ChatAll - oncurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers ([GitHub](https://github.com/sunner/ChatALL)![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)) |
 | 4.9 | BabyAGI JS - ([GitHub](https://github.com/ericciarla/babyagijs)![GitHub Repo stars](https://img.shields.io/github/stars/ericciarla/babyagijs?style=social)) |
 | 4.9 | AgentGPT - Auto-GPT directly in the browser ([tweet](https://twitter.com/asimdotshrestha/status/1644883727707959296)), ([GitHub](https://github.com/reworkd/AgentGPT)![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)), ([demo](https://agentgpt.reworkd.ai/)) |
 | 4.8 | [A Recipe for Training Large Models](https://wandb.ai/craiyon/report/reports/Recipe-Training-Large-Models--VmlldzozNjc4MzQz) |
@@ -595,6 +597,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* The Rise and Rise of A.I. LLMs
+<img src="https://pbs.twimg.com/media/FwTUtyKacAAgQbQ?format=jpg&name=large">
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 <img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif">
 * [AI / ML / LLM / Transformer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) 
