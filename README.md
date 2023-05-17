@@ -18,6 +18,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 5.17 | SoundStorm: Efficient Parallel Audio Generation ([arXiv](https://arxiv.org/abs/2305.09636)), ([PDF](https://arxiv.org/pdf/2305.09636.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09636)), ([Project page](https://google-research.github.io/seanet/soundstorm/examples/)) |
+| 5.16 | Towards Expert-Level Medical Question Answering with Large Language Models ([arXiv](https://arxiv.org/abs/2305.09617)), ([PDF](https://arxiv.org/pdf/2305.09617.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09617)) |
+| 5.16 | GPTeam: Collaborative AI Agents  ([GitHub](https://github.com/101dotxyz/GPTeam)![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)) |
 | 5.16 | WATCH LIVE: OpenAI CEO Sam Altman testifies on artificial intelligence before Senate committee ([Youtube](https://www.youtube.com/watch?v=P_ACcQxJIsg)) |
 | 5.16 | NYT - [Microsoft Says New A.I. Shows Signs of Human Reasoning](https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html) | 
 | 5.15 | Symbol tuning improves in-context learning in language models ([arXiv](https://arxiv.org/abs/2305.08298)), ([PDF](https://arxiv.org/pdf/2305.08298.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08298)) |
