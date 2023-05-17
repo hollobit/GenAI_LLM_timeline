@@ -18,11 +18,16 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 5.17 | SoundStorm: Efficient Parallel Audio Generation ([arXiv](https://arxiv.org/abs/2305.09636)), ([PDF](https://arxiv.org/pdf/2305.09636.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09636)), ([Project page](https://google-research.github.io/seanet/soundstorm/examples/)) |
+| 5.17 | SoundStorm: Efficient Parallel Audio Generation ([arXiv](https://arxiv.org/abs/2305.09636)), ([PDF](https://arxiv.org/pdf/2305.09636.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09636)), ([Project page](https://google-research.github.io/seanet/soundstorm/examples/)) | 
+| 5.16 | Understanding 3D Object Interaction from a Single Image ([arXiv](https://arxiv.org/abs/2305.09664)), ([PDF](https://arxiv.org/pdf/2305.09664.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09664)), ([project page](https://jasonqsy.github.io/3DOI/)), ([demo](https://huggingface.co/spaces/shengyi-qian/3DOI)), ([video](https://www.youtube.com/watch?v=YDIL93XxHyk)), ([GitHub](https://github.com/JasonQSY/3DOI)) |
+| 5.16 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data ([arXiv](https://arxiv.org/abs/2305.09645)), ([PDF](https://arxiv.org/pdf/2305.09645.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09645)) |
+| 5.16 | FitMe: Deep Photorealistic 3D Morphable Model Avatars ([arXiv](https://arxiv.org/abs/2305.09641)), ([PDF](https://arxiv.org/pdf/2305.09641.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09641)), ([project page](https://alexlattas.com/fitme)) |
+| 5.16 | Pre-Training to Learn in Context ([arXiv](https://arxiv.org/abs/2305.09137)), ([PDF](https://arxiv.org/pdf/2305.09137.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09137)) |
 | 5.16 | Towards Expert-Level Medical Question Answering with Large Language Models ([arXiv](https://arxiv.org/abs/2305.09617)), ([PDF](https://arxiv.org/pdf/2305.09617.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.09617)) |
 | 5.16 | GPTeam: Collaborative AI Agents  ([GitHub](https://github.com/101dotxyz/GPTeam)![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)) |
 | 5.16 | WATCH LIVE: OpenAI CEO Sam Altman testifies on artificial intelligence before Senate committee ([Youtube](https://www.youtube.com/watch?v=P_ACcQxJIsg)) |
 | 5.16 | NYT - [Microsoft Says New A.I. Shows Signs of Human Reasoning](https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html) | 
+| 5.15 | Common Diffusion Noise Schedules and Sample Steps are Flawed ([arXiv](https://arxiv.org/abs/2305.08891)), ([PDF](https://arxiv.org/pdf/2305.08891.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08891)) |
 | 5.15 | Symbol tuning improves in-context learning in language models ([arXiv](https://arxiv.org/abs/2305.08298)), ([PDF](https://arxiv.org/pdf/2305.08298.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08298)) |
 | 5.15 | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca ([arXiv](https://arxiv.org/abs/2305.08809)), ([PDF](https://arxiv.org/pdf/2305.08809.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08809)) |
 | 5.15 | DarkBERT: A Language Model for the Dark Side of the Internet ([arXiv](https://arxiv.org/abs/2305.08596)), ([PDF](https://arxiv.org/pdf/2305.08596.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.08596)) | 
