@@ -610,7 +610,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 <img src="https://pbs.twimg.com/media/FtZQSU3aMAI4BP1?format=jpg&name=4096x4096">
 * Got It AI’s LLM hallucination rate comparison
 <img src="https://lh5.googleusercontent.com/cgHE-XSe8AZBUuFIQw-Vu6XqYFxvKWj5BjCPsWAxkre2G8WLLkVLhp0DyDTlSTYFQiUyG_XUvZU2ZtM212SuU9rfbNxEtQI0kEpm8sSKF7CUsJZpu0pY9FaT2qHVpPgrBRLeJZdsdyBaKMw5Tac8M7Y">
-* [A summary of large language models @davidtfoster](https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_800/0/1679661353407?e=1683158400&v=beta&t=RuQk8zpi_PYX58stAajuZBXmJP3JW36yu8n6UjSM09U)
- <img src="https://media.licdn.com/dms/image/D4E22AQEoWortzcTOKA/feedshare-shrink_1280/0/1679661353407?e=1683158400&v=beta&t=yDdqi4f6vX6Tpx5h3NMO6lCYwUMHnOLG-PbZEcBvdFY">
-* [A history of the most important generative AI models, from 2014 to 2023 @davidtfoster](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480/)
- <img src="https://media.licdn.com/dms/image/C4E22AQHNRDAc2ujyzA/feedshare-shrink_1280/0/1679476129468?e=1683158400&v=beta&t=PC1QOR-aloKbP7w1QXrFUswJmTLXsl7K8dj_fZVvD_Y">
+* [A summary of large language models (A Survey of Large Language Models)](https://arxiv.org/abs/2303.18223)
+ <img src="![스크린샷 2023-05-18 오후 5 58 51](https://github.com/hollobit/GenAI_LLM_timeline/assets/998803/9a855dea-7223-4523-924e-3952b1f3734d)">
+* [A history of the most important ge![Uploading 스크린샷 2023-05-18 오후 5.58.51.png…]()
+nerative AI models, from 2014 to 2023 @davidtfoster](https://www.linkedin.com/feed/update/urn:li:activity:7044233450295316480/)
+ <img src="![1679476129468](https://github.com/hollobit/GenAI_LLM_timeline/assets/998803/09140224-638f-448c-a990-1201741927c7)">
