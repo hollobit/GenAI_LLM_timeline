@@ -205,6 +205,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 5.8 | We had ChatGPT take the CPA exam — and it failed ([news](https://www.accountingtoday.com/news/we-ran-the-cpa-exam-through-chatgpt-and-it-failed-miserably)) |
 | 5.8 | Comparison of GPT-3.5, GPT-4, and human user performance on a practice ophthalmology written examination ([Nature](https://www.nature.com/articles/s41433-023-02564-2)) |
 | 5.8 | MultiModal-GPT: A Vision and Language Model for Dialogue with Humans  ([arXiv](https://arxiv.org/abs/2305.04790)), ([PDF](https://arxiv.org/pdf/2305.04790.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04790)), ([GitHub](https://github.com/open-mmlab/Multimodal-GPT)![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)), ([Paper page](https://huggingface.co/papers/2305.04790)), ([Star history](https://star-history.com/#open-mmlab/Multimodal-GPT&Date)) |
+| 5.7 | SuperAgent - Deploy LLM Agents to production ([GitHub](https://github.com/homanp/superagent)![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)) |
 | 5.7 | Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models ([arXiv](https://arxiv.org/abs/2305.04091)), ([PDF](https://arxiv.org/pdf/2305.04091.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04091)), ([GitHub](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)![GitHub Repo stars](https://img.shields.io/github/stars/AGI-Edgerunners/Plan-and-Solve-Prompting?style=social)) |
 | 5.7 | X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages ([arXiv](https://arxiv.org/abs/2305.04160)), ([PDF](https://arxiv.org/pdf/2305.04160.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04160)) |
 | 5.7 | Multi-Space Neural Radiance Fields ([arXiv](https://arxiv.org/abs/2305.04268)), ([PDF](https://arxiv.org/pdf/2305.04268.pdf)), ([arXiv-vanity](https://www.arxiv-vanity.com/papers/2305.04268)), ([Project page](https://zx-yin.github.io/msnerf/)), ([Dataset](https://drive.google.com/drive/folders/1gqmonTlR8LbJkljtT28S47N_o_YoExFz)) |
@@ -596,6 +597,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	3.15	|	[arXiv - GPT-4 Technical report](https://arxiv.org/abs/2303.08774)	|
 | 3.14 | The Lancet - [Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00077-4/fulltext) |
 |	3.14	|	THUDM releases ChatGLM-6B	|
+| 3.14 | Langflow - a UI for LangChain ([GitHub](https://github.com/logspace-ai/langflow)![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)) |
 |	3.14	|	[Anthropic: Claude](https://www.anthropic.com/index/introducing-claude)	|
 |	3.14	|	[Google: PaLM API & Workspace](https://blog.google/technology/ai/ai-developers-google-cloud-workspace)	|
 |	3.14	|	[OpenAI: GPT-4](https://openai.com/research/gpt-4)	|
