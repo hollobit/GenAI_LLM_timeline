@@ -12,13 +12,17 @@ Issues and Pull Requests are greatly appreciated. If you've never contributed to
 
 You can start by [opening an issue](https://github.com/hollobit/BCAC_timeline/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
+## Emoji 
+
+arxiv-vanity :orange_book:, paper page :house:, papers with code :eight_spoked_asterisk:, Github :octocat:
+
 ## License
 
 This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 6.2 | StyleDrop: Text-To-Image Generation in Any Style ([project papge](https://styledrop.github.io/)), ([arXiv](https://arxiv.org/abs/2306.00983)), ([PDF](https://arxiv.org/pdf/2306.00983.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.00983)), ([:house:](https://huggingface.co/papers/2306.00983)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/styledrop-text-to-image-generation-in-any)) |
+| 6.2 | StyleDrop: Text-To-Image Generation in Any Style ([project page](https://styledrop.github.io/)), ([arXiv](https://arxiv.org/abs/2306.00983)), ([PDF](https://arxiv.org/pdf/2306.00983.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.00983)), ([:house:](https://huggingface.co/papers/2306.00983)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/styledrop-text-to-image-generation-in-any)) |
 | 6.1 | StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners ([arXiv](https://arxiv.org/abs/2306.00984)), ([PDF](https://arxiv.org/pdf/2306.00984.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.00984)), ([:house:](https://huggingface.co/papers/2306.00984)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/stablerep-synthetic-images-from-text-to-image)) |
 | 6.1 | The TIME - "The End of Humanity" cover ([tweet](https://twitter.com/TIME/status/1663939590908985348)), (["AI Is Not an Arms Race"](https://time.com/6283609/artificial-intelligence-race-existential-threat/)) | 
 | 6.1 | AutoGPTQ - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm ([:octocat:](https://github.com/PanQiWei/AutoGPTQ)![GitHub Repo stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social)) |
