@@ -22,6 +22,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 6.17 | Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy ([blog](https://wayve.ai/thinking/introducing-gaia1/)) |
 | 6.17 | Understanding Encoder And Decoder LLMs ([blog](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)) | 
 | 6.16 | Language-Guided Music Recommendation for Video via Prompt Analogies ([:x:](https://arxiv.org/abs/2306.09327)), ([:paperclip:](https://arxiv.org/pdf/2306.09327.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.09327)), ([:house:](https://huggingface.co/papers/2306.09327)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/language-guided-music-recommendation-for-1)) |
 | 6.16 | QR Code AI Art Generator ([tweet](https://twitter.com/radamar/status/1669549592470499328)), ([Hugging face](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)), ([SD art](https://stable-diffusion-art.com/qr-code/)) |
