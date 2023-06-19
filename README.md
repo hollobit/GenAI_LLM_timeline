@@ -924,6 +924,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 * [ML timeline](https://github.com/osanseviero/ml_timeline)
 * [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
 * [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [SEQUOIA - The New Language Model Stack](https://www.sequoiacap.com/article/llm-stack-perspective/)
+<img src="https://www.sequoiacap.com/wp-content/uploads/sites/6/2023/06/llm-landscape-9.png">
 * The Rise and Rise of A.I. LLMs
 <img src="https://pbs.twimg.com/media/FwTUtyKacAAgQbQ?format=jpg&name=large">
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
