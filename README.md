@@ -23,6 +23,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|
 | 6.18 | OpenLLaMA-13B released ([tweet](https://twitter.com/hardmaru/status/1670628627057197059)), ([:octocat:](https://github.com/openlm-research/open_llama)![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)) |
+| 6.17 | GPT Engineer - pecify what you want it to build, the AI asks for clarification, and then builds it ([:octocat:](https://github.com/AntonOsika/gpt-engineer)![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)) |
 | 6.17 | Demystifying GPT Self-Repair for Code Generation ([:x:](https://arxiv.org/abs/2306.09896)), ([:paperclip:](https://arxiv.org/pdf/2306.09896.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.09896)), ([:house:](https://huggingface.co/papers/2306.09896)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/demystifying-gpt-self-repair-for-code) |
 | 6.17 | Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy ([blog](https://wayve.ai/thinking/introducing-gaia1/)) |
 | 6.17 | Understanding Encoder And Decoder LLMs ([blog](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)) | 
