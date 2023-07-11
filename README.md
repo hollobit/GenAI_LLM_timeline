@@ -29,6 +29,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 7.10 | GPT Researcher - GPT based autonomous agent that does online comprehensive research on any given topic ([:octocat:](https://github.com/assafelovic/gpt-researcher)![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social))  |
 | 7.8 | Awesome Generative AI Techniques: a curated list of Generative AI Techniques ([:octocat:](https://github.com/hollobit/awesome-GenAITech)![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/awesome-GenAITech?style=social))  |
 | 7.8 | Robots say they won't steal jobs, rebel against humans ([news](https://www.reuters.com/technology/robots-say-they-wont-steal-jobs-rebel-against-humans-2023-07-07/)) |
 | 7.7 | Teaching Arithmetic to Small Transformers ([:x:](https://arxiv.org/abs/2307.03381)), ([:paperclip:](https://arxiv.org/pdf/2307.03381.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.03381)), ([:house:](https://huggingface.co/papers/2307.03381)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/teaching-arithmetic-to-small-transformers)) |
@@ -74,6 +75,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 7.1 | BatGPT: A Bidirectional Autoregessive Talker from Generative Pre-trained Transformer ([:x:](https://arxiv.org/abs/2307.00360)), ([:paperclip:](https://arxiv.org/pdf/2307.00360.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.00360)), ([:house:](https://huggingface.co/papers/2307.00360)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/batgpt-a-bidirectional-autoregessive-talker)) |
 | 7.1 | Improve ChatGPT with Knowledge Graphs ([blog](https://mlabonne.github.io/blog/posts/Article_Improve_ChatGPT_with_Knowledge_Graphs.html)) |
 | 7.1 | The Rise of the AI Engineer ([Blog](https://www.latent.space/p/ai-engineer)) |  
+| 6.30 | DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins  ([:x:](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)), ([:paperclip:](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1.full.pdf)) |
 | 6.30 | Doctor Chatbot: The EUʼs Regulatory Prescription for Generative Medical AI (Oslo Law Review, [https://doi.org/10.18261/olr.10.1.1](https://www.idunn.no/doi/10.18261/olr.10.1.1)), ([PDF](https://www.idunn.no/doi/epdf/10.18261/olr.10.1.1)) |
 | 6.30 | Preference Ranking Optimization for Human Alignment ([:x:](https://arxiv.org/abs/2306.17492)), ([:paperclip:](https://arxiv.org/pdf/2306.17492.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2306.17492)), ([:house:](https://huggingface.co/papers/2306.17492)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/preference-ranking-optimization-for-human)) |
 | 6.30 | Reliability of Medical Information Provided by ChatGPT: Assessment Against Clinical Guidelines and Patient Information Quality Instrument (JMIR, [doi: 10.2196/47479](https://www.jmir.org/2023/1/e47479)), ([PDF](https://www.jmir.org/2023/1/e47479/PDF)) |
