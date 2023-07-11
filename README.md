@@ -29,7 +29,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
-| 7.8 | Awesome Generative AI Techniques  ([:octocat:](https://github.com/hollobit/awesome-GenAITech)![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/awesome-GenAITech?style=social))  |
+| 7.8 | Awesome Generative AI Techniques: a curated list of Generative AI Techniques ([:octocat:](https://github.com/hollobit/awesome-GenAITech)![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/awesome-GenAITech?style=social))  |
 | 7.8 | Robots say they won't steal jobs, rebel against humans ([news](https://www.reuters.com/technology/robots-say-they-wont-steal-jobs-rebel-against-humans-2023-07-07/)) |
 | 7.7 | Teaching Arithmetic to Small Transformers ([:x:](https://arxiv.org/abs/2307.03381)), ([:paperclip:](https://arxiv.org/pdf/2307.03381.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.03381)), ([:house:](https://huggingface.co/papers/2307.03381)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/teaching-arithmetic-to-small-transformers)) |
 | 7.7 | GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest ([:x:](https://arxiv.org/abs/2307.03601)), ([:paperclip:](https://arxiv.org/pdf/2307.03601.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.03601)), ([:house:](https://huggingface.co/papers/2307.03601)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/gpt4roi-instruction-tuning-large-language)) |
