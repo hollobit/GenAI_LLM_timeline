@@ -29,6 +29,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 7.12 | Large language models encode clinical knowledge (Nature, [https://doi.org/10.1038/s41586-023-06291-2](https://www.nature.com/articles/s41586-023-06291-2)), ([PDF](https://www.nature.com/articles/s41586-023-06291-2.pdf)) |
+| 7.12 | Google's NotebookLM ([waitlist](https://notebooklm.google.com/about)) |
 | 7.12 | 27% of jobs at high risk from AI revolution, says OECD ([news](https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/)) |
 | 7.12 | Objaverse-XL: A Universe of 10M+ 3D Objects ([PDF](https://objaverse.allenai.org/objaverse-xl-paper.pdf)) |
 | 7.12 | EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone ([:x:](https://arxiv.org/abs/2307.05463)), ([:paperclip:](https://arxiv.org/pdf/2307.05463.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.05463)), ([:house:](https://huggingface.co/papers/2307.05463)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/egovlpv2-egocentric-video-language-pre)) |
