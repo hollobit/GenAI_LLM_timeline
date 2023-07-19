@@ -29,6 +29,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 7.18 | How is ChatGPT's behavior changing over time? ([:x:](https://arxiv.org/abs/2307.09009)), ([:paperclip:](https://arxiv.org/pdf/2307.09009.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.09009)), ([:house:](https://huggingface.co/papers/2307.09009)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/how-is-chatgpt-s-behavior-changing-over-time)), ([:octocat:](https://github.com/lchen001/llmdrift)![GitHub Repo stars](https://img.shields.io/github/stars/lchen001/llmdrift?style=social)) |
+| 7.18 | NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF ([:x:](https://arxiv.org/abs/2307.09112)), ([:paperclip:](https://arxiv.org/pdf/2307.09112.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2307.09112)), ([:house:](https://huggingface.co/papers/2307.09112)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/nu-mcc-multiview-compressive-coding-with)) |
 | 7.18 | Measuring Faithfulness in Chain-of-Thought Reasoning ([PDF](https://www-files.anthropic.com/production/files/measuring-faithfulness-in-chain-of-thought-reasoning.pdf)) |
 | 7.18 | 🦙 Llama 2 and Claude 2 are now live on Chatbot Arena! ([arena](https://huggingface.co/spaces/lmsys/Chat-and-Battle-with-Open-LLMs)) |
 | 7.18 | Statement of Support for Meta’s Open Approach to Today’s AI ([blog](https://about.fb.com/news/2023/07/llama-2-statement-of-support/)) |
