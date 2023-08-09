@@ -34,7 +34,6 @@ This document is licensed under the [MIT license](https://opensource.org/license
 | 8.7 | Doctors Vs. ChatGPT: Which Is More Empathetic? (Forbes [news](https://www.forbes.com/sites/robertpearl/2023/08/07/doctors-vs-chatgpt-which-is-more-empathetic)) |
 | 8.7 | Criminals Have Created Their Own ChatGPT Clones (Wired [news](https://www.wired.com/story/chatgpt-scams-fraudgpt-wormgpt-crime/)) |
 | 8.7 | Large Language Models Answer Medical Questions Accurately, but Can’t Match Clinicians’ Knowledge (Jama [doi:10.1001/jama.2023.14311](https://jamanetwork.com/journals/jama/fullarticle/2808297)) |
-| 8.7 | Creation and Adoption of Large Language Models in Medicine (Jama [doi:10.1001/jama.2023.14217](https://jamanetwork.com/journals/jama/fullarticle/2808296)) |
 | 8.6 | A Simple AI Governance Framework In The Age Of ChatGPT (Forbes [news](https://www.forbes.com/sites/glenngow/2023/08/06/a-simple-ai-governance-framework-in-the-age-of-chatgpt)) |
 | 8.3 | Huge set of ChatGPT updates ([tweet](https://twitter.com/OfficialLoganK/status/1687151401523089408)) |
 | 8.3 | Accuracy of Vitreoretinal Disease Information From an Artificial Intelligence Chatbot (JAMA Ophthalmology [doi: 10.1001/jamaophthalmol.2023.3314](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2807968)) |
