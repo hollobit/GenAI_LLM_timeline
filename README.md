@@ -29,8 +29,10 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 8.9 | Could a Large Language Model Be Conscious? ([news](https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/)) |
 | 8.9 | 🚀Exciting news! Stability AI has launched StableCode, the revolutionary generative AI LLM for coding! ([tweet](https://twitter.com/StabilityAI/status/1688931312122675200)), ([blog](https://stability.ai/blog/stablecode-llm-generative-ai-coding?utm_source=twitter&utm_medium=website&utm_campaign=announcement)) |
 | 8.9 | New research visualizes the political bias of all major AI language models ([tweet](https://twitter.com/AiBreakfast/status/1688939983468453888)) |
+| 8.8 | OpenAI launches webcrawler [GPTBot](https://platform.openai.com/docs/gptbot), and instructions on how to block it (mashable [news](https://mashable.com/article/open-ai-gptbot-crawler-block)) |
 | 8.8 | FLIRT: Feedback Loop In-context Red Teaming ([:x:](https://arxiv.org/abs/2308.04265)), ([:paperclip:](https://arxiv.org/pdf/2308.04265.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.04265)), ([:house:](https://huggingface.co/papers/2308.04265)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/flirt-feedback-loop-in-context-red-teaming)) |
 | 8.8 | SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore ([:x:](https://arxiv.org/abs/2308.04430)), ([:paperclip:](https://arxiv.org/pdf/2308.04430.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.04430)), ([:house:](https://huggingface.co/papers/2308.04430)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/silo-language-models-isolating-legal-risk-in)) |
 | 8.8 | Study Tests Large Language Models’ Ability to Answer Clinical Questions (JAMA. 2023;330(6):496. [doi:10.1001/jama.2023.12553](https://jamanetwork.com/journals/jama/fullarticle/2807649)) |
