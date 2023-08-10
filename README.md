@@ -25,10 +25,14 @@ arXiv :x:, PDF :paperclip:, arxiv-vanity :orange_book:, paper page :house:, pape
 
 ## License
 
-This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon
+This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon(전종홍)
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 8.9 | Releasing Claude Instant 1.2 ([Blog](https://www.anthropic.com/index/releasing-claude-instant-1-2)) |
+| 8.9 | Shepherd: A Critic for Language Model Generation ([:x:](https://arxiv.org/abs/2308.04592)), ([:paperclip:](https://arxiv.org/pdf/2308.04592.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.04592)), ([:house:](https://huggingface.co/papers/2308.04592)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/shepherd-a-critic-for-language-model)) |
+| 8.9 | JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models ([:x:](https://arxiv.org/abs/2308.04729)), ([:paperclip:](https://arxiv.org/pdf/2308.04729.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.04729)), ([:house:](https://huggingface.co/papers/2308.04729)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/jen-1-text-guided-universal-music-generation)) |
+| 8.9 | Accelerating LLM Inference with Staged Speculative Decoding ([:x:](https://arxiv.org/abs/2308.04623)), ([:paperclip:](https://arxiv.org/pdf/2308.04623.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.04623)), ([:house:](https://huggingface.co/papers/2308.04623)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/accelerating-llm-inference-with-staged)) |
 | 8.9 | Could a Large Language Model Be Conscious? ([news](https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/)) |
 | 8.9 | 🚀Exciting news! Stability AI has launched StableCode, the revolutionary generative AI LLM for coding! ([tweet](https://twitter.com/StabilityAI/status/1688931312122675200)), ([blog](https://stability.ai/blog/stablecode-llm-generative-ai-coding?utm_source=twitter&utm_medium=website&utm_campaign=announcement)) |
 | 8.9 | New research visualizes the political bias of all major AI language models ([tweet](https://twitter.com/AiBreakfast/status/1688939983468453888)) |
