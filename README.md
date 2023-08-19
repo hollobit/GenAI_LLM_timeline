@@ -1420,6 +1420,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |		|	**Last Modified 2023/07/03 PM19:40** KST	|
 
 ## Additional Links
+* [Awesome Korean LLM](https://github.com/NomaDamas/awesome-korean-llm)
 * [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)![GitHub Repo stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social)
 * [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social)
 * [A collection of papers and resources related to evaluations on large language models](https://github.com/MLGroupJLU/LLM-eval-survey)![GitHub Repo stars](https://img.shields.io/github/stars/Jianing-Qiu//MLGroupJLU/LLM-eval-survey?style=social)
