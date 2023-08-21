@@ -1336,6 +1336,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	2.17	|	[Time, ChatGPT cover](https://time.com/6255952/ai-impact-chatgpt-microsoft-google/)	|
 |	2.17	|	OpenAI, Foundry Product Brief	|
 |	2.17	|	[Generative AI on Roblox: Our Vision for the Future of Creation](https://blog.roblox.com/2023/02/generative-ai-roblox-vision-future-creation/)	|
+| 2.16 | Auditing large language models: a three-layered approach  ([:x:](https://arxiv.org/abs/2302.08500)), ([:paperclip:](https://arxiv.org/pdf/2302.08500.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2302.08500)), ([:house:](https://huggingface.co/papers/2302.08500)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/auditing-large-language-models-a-three)), ([SS](https://www.semanticscholar.org/paper/Auditing-large-language-models%3A-a-three-layered-Mokander-Schuett/22e2f488ecd88bd2adf79092d0d390d8f7b06a0f)) |
 | 2.16 | Do We Still Need Clinical Language Models? ([:x:](https://arxiv.org/abs/2302.08091)), ([:paperclip:](https://arxiv.org/pdf/2302.08091.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2302.08091)) |
 |	2.16	|	[Startup Replit launches a ChatGPT-like bot for coders](https://www.semafor.com/article/02/15/2023/startup-replit-launches-a-chatgpt-like-bot-for-coders)	|
 |	2.15	|	[A&O announces exclusive launch partnership with Harvey](https://www.allenovery.com/en-gb/global/news-and-insights/news/ao-announces-exclusive-launch-partnership-with-harvey)	|
