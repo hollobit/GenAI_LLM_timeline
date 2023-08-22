@@ -29,6 +29,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--|
+| 8.21 | Large Language Models in Hematology Case Solving: A Comparative Study of ChatGPT-3.5, Google Bard, and Microsoft Bing ([DOI: 10.7759/cureus.43861 ](https://www.cureus.com/articles/179601-large-language-models-in-hematology-case-solving-a-comparative-study-of-chatgpt-35-google-bard-and-microsoft-bing#!/)) |
+| 8.19 | Meet FraudGPT: The Dark Side Twin of ChatGPT ([news](https://www.marktechpost.com/2023/08/19/meet-fraudgpt-the-dark-side-twin-of-chatgpt/)) |
 | 8.19 | AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining ([blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)) |
 | 8.19 | AI2 drops biggest open dataset yet for training language models (TechCrunch [news](https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/)) |
 | 8.18 | Graph of Thoughts: Solving Elaborate Problems with Large Language Models ([:x:](https://arxiv.org/abs/2308.09687)), ([:paperclip:](https://arxiv.org/pdf/2308.09687.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2308.09687)), ([:house:](https://huggingface.co/papers/2308.09687)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems)), ([:octocat:](https://github.com/spcl/graph-of-thoughts)![GitHub Repo stars](https://img.shields.io/github/stars/spcl/graph-of-thoughts?style=social)) |
