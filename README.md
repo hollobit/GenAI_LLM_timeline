@@ -28,7 +28,7 @@ arXiv :x:, PDF :paperclip:, arxiv-vanity :orange_book:, paper page :house:, pape
 This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon(전종홍)
 
 |	Date	|	Announcement	|
-|:-:|:--|
+|:-:|:--| 
 | 8.21 | Large Language Models in Hematology Case Solving: A Comparative Study of ChatGPT-3.5, Google Bard, and Microsoft Bing ([DOI: 10.7759/cureus.43861 ](https://www.cureus.com/articles/179601-large-language-models-in-hematology-case-solving-a-comparative-study-of-chatgpt-35-google-bard-and-microsoft-bing#!/)) |
 | 8.19 | Meet FraudGPT: The Dark Side Twin of ChatGPT ([news](https://www.marktechpost.com/2023/08/19/meet-fraudgpt-the-dark-side-twin-of-chatgpt/)) |
 | 8.19 | AI2 Dolma: 3 Trillion Token Open Corpus for Language Model Pretraining ([blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)) |
