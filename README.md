@@ -29,6 +29,9 @@ This document is licensed under the [MIT license](https://opensource.org/license
 
 |	Date	|	Announcement	|
 |:-:|:--| 
+| 11.1 | GOV.UK - The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023 ([Policy paper](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)) |
+| 11.1 | Generative AI for Beginners - A Course ([:octocat:](https://github.com/microsoft/generative-ai-for-beginners)![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=social)) 
+| 11.1 | GOV.UK - Countries agree to safe and responsible development of frontier AI in landmark Bletchley Declaration ([press](https://www.gov.uk/government/news/countries-agree-to-safe-and-responsible-development-of-frontier-ai-in-landmark-bletchley-declaration)) |
 | 10.31 | Artificial intelligence - UK Regulatory Outlook October 2023 ([news](https://www.osborneclarke.com/insights/Regulatory-Outlook-October-2023-Artificial-intelligence)) |
 | 10.31 | MM-VID: Advancing Video Understanding with GPT-4V(ision) ([:x:](https://arxiv.org/abs/2310.19773)), ([:paperclip:](https://arxiv.org/pdf/2310.19773.pdf)), ([:orange_book:](https://www.arxiv-vanity.com/papers/2310.19773)), ([:house:](https://huggingface.co/papers/2310.19773)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/mm-vid-advancing-video-understanding-with-gpt)) |
 | 10.30 | Awesome LLMs Evaluation Papers ([:octocat:](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)![GitHub Repo stars](https://img.shields.io/github/stars/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?style=social)) |
