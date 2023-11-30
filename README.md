@@ -27,6 +27,7 @@ arXiv :x:, PDF :paperclip:, arxiv-vanity :orange_book:, paper page :house:, pape
 
 This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon(전종홍)
 
+## Timeline
 |	Date	|	Announcement	|
 |:-:|:--| 
 | 11.30 | Discover, download, and run local LLMs - ([LM Studio](https://lmstudio.ai/)) |
