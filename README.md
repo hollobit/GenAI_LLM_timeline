@@ -30,6 +30,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 ## Timeline
 |	Date	|	Announcement	|
 |:-:|:--| 
+| 12.5 | Llamafile  - Distribute and run LLMs with a single file ([:octocat:](https://github.com/Mozilla-Ocho/llamafile#binary-instructions)![GitHub Repo stars](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile#binary-instructions?style=social)) |
 | 12.5 | LLM Visualization ([demo](https://bbycroft.net/llm)) |
 | 12.4 | Merlin:Empowering Multimodal LLMs with Foresight Minds ([:x:](https://arxiv.org/abs/2312.00589)), ([:book:](https://browse.arxiv.org/pdf/2312.00589.pdf)), ([:paperclip:](https://arxiv.org/pdf/2312.00589.pdf)),  ([:orange_book:](https://www.arxiv-vanity.com/papers/2312.00589)), ([:house:](https://huggingface.co/papers/2312.00589)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/merlin-empowering-multimodal-llms-with)) |
 | 12.2 | SeaLLMs -- Large Language Models for Southeast Asia ([:x:](https://arxiv.org/abs/2312.00738)), ([:book:](https://browse.arxiv.org/pdf/2312.00738.pdf)), ([:paperclip:](https://arxiv.org/pdf/2312.00738.pdf)),  ([:orange_book:](https://www.arxiv-vanity.com/papers/2312.00738)), ([:house:](https://huggingface.co/papers/2312.00738)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/seallms-large-language-models-for-southeast)), ([:octocat:](https://github.com/damo-nlp-sg/seallms)![GitHub Repo stars](https://img.shields.io/github/stars/damo-nlp-sg/seallms?style=social))  |
