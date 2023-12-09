@@ -31,6 +31,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |	Date	|	Announcement	|
 |:-:|:--|  
 | 12.9 | Google’s best Gemini AI demo video was fabricated ([news](https://arstechnica.com/information-technology/2023/12/google-admits-it-fudged-a-gemini-ai-demo-video-which-critics-say-misled-viewers/)) |
+| 12.8 | GPT4 paper assistant: A daily ArXiv scanner ([:octocat:](https://github.com/tatsu-lab/gpt_paper_assistant)![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/gpt_paper_assistant?style=social)), ([demo](https://tatsu-lab.github.io/gpt_paper_assistant/)) |
 | 12.7 | Announcing Purple Llama: Towards open trust and safety in the new world of generative AI ([blog](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)) |
 | 12.7 | Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations ([paper](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)) |
 | 12.7 | Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies ([:x:](https://arxiv.org/abs/2312.04344)), ([:book:](https://browse.arxiv.org/pdf/2312.04344.pdf)), ([:paperclip:](https://arxiv.org/pdf/2312.04344.pdf)),  ([:orange_book:](https://www.arxiv-vanity.com/papers/2312.04344)), ([:house:](https://huggingface.co/papers/2312.04344)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/enhancing-medical-task-performance-in-gpt-4v)) |
