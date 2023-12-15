@@ -30,6 +30,7 @@ This document is licensed under the [MIT license](https://opensource.org/license
 ## Timeline
 |	Date	|	Announcement	|
 |:-:|:--|
+| 12.14 | OpenAI - Weak-to-strong generalization ([blog](https://openai.com/research/weak-to-strong-generalization)) |
 | 12.14 | China releases first AI large language model for ancient book research ([news](https://www.ecns.cn/news/sci-tech/2023-12-14/detail-ihcvumcq4268645.shtml)) |
 | 12.14 | [Imagen 2](https://deepmind.google/technologies/imagen-2/) on Vertex AI is now generally available (Google [blog](https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available?hl=en)) |
 | 12.13 | The Rise of ‘Small Language Models’ and Reinforcement Learning ([news](https://www.theinformation.com/articles/the-rise-of-small-language-models-and-reinforcement-learning)) |
