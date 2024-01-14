@@ -30,6 +30,8 @@ This document is licensed under the [MIT license](https://opensource.org/license
 ## Timeline
 |	Date	|	Announcement	|
 |:-:|:--|
+| 1.12 | OpenAI Quietly Deletes Ban on Using ChatGPT for “Military and Warfare” ([news](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)) |
+| 1.12 | Google AI has better bedside manner than human doctors — and makes better diagnoses ([Nature [doi: https://doi.org/10.1038/d41586-024-00099-4](https://www.nature.com/articles/d41586-024-00099-4)) |
 | 1.12 | OpenChat: Advancing Open-source Language Models with Mixed-Quality Data ([tweet](https://twitter.com/AlphaSignalAI/status/1745519568720924852)), ([demo](https://openchat.team/ko)), ([:octocat:](https://github.com/imoneoi/openchat)![GitHub Repo stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social)) |
 | 1.12 | AMIE: A research AI system for diagnostic medical reasoning and conversations ([tweet](https://twitter.com/GoogleAI/status/1745843740822933517)), ([blog](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)) |
 | 1.12 | PALP: Prompt Aligned Personalization of Text-to-Image Models ([:x:](https://arxiv.org/abs/2401.06105)), ([:book:](https://browse.arxiv.org/pdf/2401.06105.pdf)), ([:paperclip:](https://arxiv.org/pdf/2401.06105.pdf)),  ([:orange_book:](https://www.arxiv-vanity.com/papers/2401.06105)), ([:house:](https://huggingface.co/papers/2401.06105)), ([HTML](https://browse.arxiv.org/html/2401.06105v1)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/palp-prompt-aligned-personalization-of-text)) |
