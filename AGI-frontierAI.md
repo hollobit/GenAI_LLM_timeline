@@ -1,3 +1,26 @@
+# ChatGPT, GenerativeAI and LLMs Timeline - Part1: AGI, frontierAI
+
+This repository organizes a timeline of key events (products, services, papers, GitHub, blog posts and news) related AGI and frontierAI. It's a part of GenAI timeline. 
+
+It's curating a variety of information in this timeline, with a particular focus on LLM and Generative AI. 
+
+## Contributing
+
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+
+You can start by [opening an issue](https://github.com/hollobit/BCAC_timeline/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+
+## Emoji 
+
+arXiv :x:, PDF :paperclip:, arxiv-vanity :orange_book:, paper page :house:, papers with code :eight_spoked_asterisk:, Github :octocat:
+
+## License
+
+This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon(전종홍)
+
+## Timeline
+|	Date	|	Announcement	|
+|:-:|:--|
 | 8.13 | The risks associated with Artificial General Intelligence: A systematic review ([:x:](https://www.tandfonline.com/doi/full/10.1080/0952813X.2021.1964003 )), ([:eight_spoked_asterisk:]()) , ([SS](https://www.semanticscholar.org/paper/The-risks-associated-with-Artificial-General-A-Mclean-Read/220e224b3c5ee56f6d31220d3f087caf4db95635)) |
 | 11.23 | Connecting the Dots in Trustworthy Artificial Intelligence: From AI Principles, Ethics, and Key Requirements to Responsible AI Systems and Regulation ([:x:](https://www.sciencedirect.com/science/article/pii/S1566253523002129)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/connecting-the-dots-in-trustworthy-artificial)) , ([SS](https://www.semanticscholar.org/paper/Connecting-the-Dots-in-Trustworthy-Artificial-From-Rodr%C3%ADguez-Ser/b47f132fd09632cfc986a99caa70c8f2f958e88d)) |
 | 10.25 | Safety and security risks of generative artificial intelligence to 2025 (Annex B) ([:x:](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/safety-and-security-risks-of-generative-artificial-intelligence-to-2025-annex-b)), ([:eight_spoked_asterisk:]())  |
@@ -120,3 +143,4 @@
 | 4.2 | The AGI Containment Problem ([:x:](https://arxiv.org/abs/1604.00545)), ([:book:](https://browse.arxiv.org/pdf/1604.00545.pdf)), ([:paperclip:](https://arxiv.org/pdf/1604.00545.pdf)),  ([:orange_book:](https://www.arxiv-vanity.com/papers/1604.00545)), ([:house:](https://huggingface.co/papers/1604.00545)), ([HTML](https://browse.arxiv.org/html/1604.00545v1)), ([:eight_spoked_asterisk:](https://paperswithcode.com/paper/the-agi-containment-problem)) , ([SS](https://www.semanticscholar.org/paper/Artificial-General-Intelligence-Babcock-Kram%C3%A1r/fa794a84f08546a630cfd90b0b1d5efd532fd112)) |
 |  | Evaluation of General-Purpose Artificial Intelligence : Why , What & How ([:x:](https://alumni.media.mit.edu/~kris/ftp/EGPAI_2016_paper_9.pdf )), ([:eight_spoked_asterisk:]()) , ([SS](https://www.semanticscholar.org/paper/Evaluation-of-General-Purpose-Artificial-%3A-Why-%2C-%26-Bieger-Th%C3%B3risson/4e0189629d0041890e8dc602886c72a12692cd3a)) |
 | 11.15 | Distinguishing Fact from Fiction: A Benchmark Dataset for Identifying Machine-Generated Scientific Papers in the LLM Era. ([:x:](https://aclanthology.org/2023.trustnlp-1.17/)), ([:eight_spoked_asterisk:]()) , ([SS](https://www.semanticscholar.org/paper/Distinguishing-Fact-from-Fiction%3A-A-Benchmark-for-Mosca-Abdalla/e019d66184d29ba1c13465d9eb46dcff9e8b87dd)) |
+|		|		|
