@@ -1,4 +1,4 @@
-# ChatGPT, GenerativeAI and LLMs Timeline - Part1: AGI, frontierAI
+# AGI and frontierAI timeline (Part 1 of ChatGPT, GenerativeAI and LLMs Timeline)
 
 This repository organizes a timeline of key events (products, services, papers, GitHub, blog posts and news) related AGI and frontierAI. It's a part of GenAI timeline. 
 
