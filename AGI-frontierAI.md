@@ -184,3 +184,35 @@ This document is licensed under the [MIT license](https://opensource.org/license
 |  | Evaluation of General-Purpose Artificial Intelligence : Why , What & How ([:x:](https://alumni.media.mit.edu/~kris/ftp/EGPAI_2016_paper_9.pdf )), ([:eight_spoked_asterisk:]()) , ([SS](https://www.semanticscholar.org/paper/Evaluation-of-General-Purpose-Artificial-%3A-Why-%2C-%26-Bieger-Th%C3%B3risson/4e0189629d0041890e8dc602886c72a12692cd3a)) |
 | 11.15 | Distinguishing Fact from Fiction: A Benchmark Dataset for Identifying Machine-Generated Scientific Papers in the LLM Era. ([:x:](https://aclanthology.org/2023.trustnlp-1.17/)), ([:eight_spoked_asterisk:]()) , ([SS](https://www.semanticscholar.org/paper/Distinguishing-Fact-from-Fiction%3A-A-Benchmark-for-Mosca-Abdalla/e019d66184d29ba1c13465d9eb46dcff9e8b87dd)) |
 |		|		|
+
+## Additional Links
+* [Awesome Korean LLM](https://github.com/NomaDamas/awesome-korean-llm)
+* [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)![GitHub Repo stars](https://img.shields.io/github/stars/tensorchord/Awesome-LLMOps?style=social)
+* [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social)
+* [A collection of papers and resources related to evaluations on large language models](https://github.com/MLGroupJLU/LLM-eval-survey)![GitHub Repo stars](https://img.shields.io/github/stars/Jianing-Qiu//MLGroupJLU/LLM-eval-survey?style=social)
+* [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)![GitHub Repo stars](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models?style=social)
+* [LLM-evaluation](https://github.com/Hannibal046/Awesome-LLM/blob/main/paper_list/evaluation.md)
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)![GitHub Repo stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM?style=social)
+* [Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook)![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)
+* [Ultimate-Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)![GitHub Repo stars](https://img.shields.io/github/stars/cmhungsteve/Awesome-Transformer-Attention?style=social)
+* [Awesome Segment Anything](https://github.com/Hedlen/awesome-segment-anything)![GitHub Repo stars](https://img.shields.io/github/stars/Hedlen/awesome-segment-anything?style=social)
+* [Segment Anything Model (SAM) for Medical Image Segmentation](https://github.com/YichiZhang98/SAM4MIS)![GitHub Repo stars](https://img.shields.io/github/stars/YichiZhang98/SAM4MIS?style=social)
+* [GPT-4登場以降に出てきたChatGPT/LLMに関する論文や技術の振り返り](https://blog.brainpad.co.jp/entry/2023/06/05/153034) 
+* [LLM Collection](https://www.promptingguide.ai/models/collection)
+* [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+* [AI Incident Database](https://incidentdatabase.ai/)
+* [Daily papers by AK](https://huggingface.co/papers)
+* [Awesome-Generative-RecSys](https://github.com/jihoo-kim/Awesome-Generative-RecSys)![GitHub Repo stars](https://img.shields.io/github/stars/jihoo-kim/Awesome-Generative-RecSys?style=social) - A curated list of Generative Recommender Systems (Paper & Code)
+* [Prompt Engineering Guide](https://www.promptingguide.ai/) - [papers](https://www.promptingguide.ai/papers) - [:octocat:](https://github.com/dair-ai/Prompt-Engineering-Guide)![GitHub Repo stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)
+* [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)![GitHub Repo stars](https://img.shields.io/github/stars/taishi-i/awesome-ChatGPT-repositories?style=social) 
+* [The Rundown](https://www.therundown.ai/)
+* [WEEKLY PAPERS](https://papers.labml.ai/papers/weekly)
+* [Primo.ai LLM wiki](https://primo.ai/index.php?title=Large_Language_Model_(LLM))
+* [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week)![GitHub Repo stars](https://img.shields.io/github/stars/dair-ai/ML-Papers-of-the-Week?style=social)
+* [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
+* [ML timeline](https://github.com/osanseviero/ml_timeline)![GitHub Repo stars](https://img.shields.io/github/stars/osanseviero/ml_timeline?style=social)
+* [ChatGPT Timeline](https://timelines.issarice.com/wiki/Timeline_of_ChatGPT)
+* [OpenAI Timeline](https://www.jointjs.com/demos/chatgpt-timeline)
+* [LLM Explained: The LLM Training Landscape](https://liu-gendary.medium.com/llm-explained-the-llm-training-landscape)
+
+
